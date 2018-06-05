@@ -1,11 +1,3 @@
----
-layout: post
-version: v1.0
-title: Exceptional Erasure Policy
-categories: guides
----
-<link href="/docs/css/faq.css" type="text/css" rel="stylesheet" />
-
 # {{ homeserver }} Policy for Exceptional Exercising of Right To Erasure on State Events
 
 # 1. Introduction

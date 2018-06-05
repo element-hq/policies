@@ -1,12 +1,3 @@
----
-layout: post
-version: v1.0
-title: Code of Conduct
-categories: guides
----
-<link href="/docs/css/faq.css" type="text/css" rel="stylesheet" />
-
-
 # Matrix Code of Conduct
 
 This code of conduct outlines our expectations for participants within the Matrix community, as well as steps for reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all, and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.

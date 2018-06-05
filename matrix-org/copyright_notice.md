@@ -1,11 +1,3 @@
----
-layout: post
-version: v1.0
-title: Copyright Notice
-categories: guides
----
-<link href="/docs/css/faq.css" type="text/css" rel="stylesheet" />
-
 # {{ homeserver }} Copyright Notice
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix’s development and so run the {{ homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
