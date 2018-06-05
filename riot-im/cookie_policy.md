@@ -1,6 +1,6 @@
 # Riot.im Cookie Policy
 
-This is the Cookie Policy for the Matrix client Riot.im when accessed from [https://riot.im](https://riot.im/app), as run by by New Vector Ltd. It does not apply to other deployments of Riot.im.
+This is the Cookie Policy for the Matrix client Riot.im when accessed from [{{ riot_link_text }}]({{ riot_link_uri }}), as run by by New Vector Ltd. It does not apply to other deployments of Riot.im.
 
 # Our use of cookies and similar technologies
 
