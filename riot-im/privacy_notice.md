@@ -1,11 +1,3 @@
----
-layout: post
-version: v1.0
-title: Riot.im Privacy Notice
-categories: guides
----
-<link href="/docs/css/faq.css" type="text/css" rel="stylesheet" />
-
 # Riot.im Privacy Notice
 
 Riot.im is a Matrix client, and does not itself store any Personal Data.

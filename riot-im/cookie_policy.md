@@ -1,14 +1,6 @@
----
-layout: post
-version: v1.0
-title: Riot.im Cookie Policy
-categories: guides
----
-<link href="/docs/css/faq.css" type="text/css" rel="stylesheet" />
-
 # Riot.im Cookie Policy
 
-This is the Cookie Policy for the Matrix client Riot.im when accessed from [https://riot.im](https://riot.im/app), as run by by New Vector Ltd.  It does not apply to other deployments of Riot.
+This is the Cookie Policy for the Matrix client Riot.im when accessed from [https://riot.im](https://riot.im/app), as run by by New Vector Ltd. It does not apply to other deployments of Riot.im.
 
 # Our use of cookies and similar technologies
 
