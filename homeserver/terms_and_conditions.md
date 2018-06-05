@@ -1,11 +1,3 @@
----
-layout: post
-version: v1.0
-title: Terms and Conditions
-categories: guides
----
-<link href="/docs/css/faq.css" type="text/css" rel="stylesheet" />
-
 # {{ homeserver }} Homeserver Terms and Conditions
 
 Please read this document carefully before accessing or using this service!
