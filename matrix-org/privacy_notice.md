@@ -12,7 +12,7 @@ Data privacy is important, and we want you to understand the issues involved. Fo
 
 When you read ‘the {{ homeserver }} homeserver’ or ‘the Service’ below, it refers to the services made available at **{{ homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ homeserver }}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix’s development and so run the {{ homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ homeserver }}) provided by New Vector Ltd.**
 
 If this agreement is not acceptable, please use a Matrix server provided by someone else!
 
@@ -224,7 +224,9 @@ We use HTTPS to transfer all data. End-to-end encrypted messaging data is stored
 
 ## 2.10 Who Else Has Access to My Data?
 
-We host the majority of the Service on Amazon Web Services (AWS). Amazon employees have access to this data. Here’s [Amazon’s privacy policy](http://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
+We host the majority of the Service in [UpCloud](https://www.upcloud.com/) data centres. Here’s [UpCloud’s privacy policy](https://www.upcloud.com/blog/updated-terms-privacy-policy-gdpr/). UpCloud controls physical access to their locations.
+
+We store some files shared through the Service on Amazon Web Services (AWS). Amazon employees have access to this data. Here’s [Amazon’s privacy policy](http://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
 
 We use Cloudflare to mitigate the risk of DDoS attacks. Here’s [CloudFlare’s privacy policy](https://www.cloudflare.com/privacypolicy/).
 

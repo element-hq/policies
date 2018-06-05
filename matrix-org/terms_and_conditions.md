@@ -20,7 +20,7 @@ We decided to use plain English as much as possible, to make our terms as clear 
 
 When you read ‘the {{ homeserver }} homeserver’ or ‘the Service’ below, it refers to the services made available at **{{ homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ homeserver }}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix’s development and so run the {{ homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ homeserver }}) provided by New Vector Ltd.**
 
 If this agreement is not acceptable, please use a Matrix server provided by someone else!
 

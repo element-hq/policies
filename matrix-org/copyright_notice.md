@@ -8,7 +8,7 @@ categories: guides
 
 # {{ homeserver }} Copyright Notice
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix’s development and so run the {{ homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
 
 When you read ‘the {{ homeserver }} homeserver’ or ‘the Service’ below, it refers to the services made available at **{{ homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network. 
 
