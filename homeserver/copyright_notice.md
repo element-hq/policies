@@ -2,7 +2,7 @@
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
 
-When you read ‘the {{ policy_homeserver }} homeserver’ or ‘the Service’ below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network. 
+When you read ‘the {{ policy_homeserver }} homeserver' or ‘the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network. 
 
 If the terms of this copyright notice are not acceptable, please use a Matrix server provided by someone else!
 
@@ -10,7 +10,7 @@ If the terms of this copyright notice are not acceptable, please use a Matrix se
 
 We take claims of copyright infringement seriously. This policy deals with what to do if you believe that any user contributions violate your copyright. It is our policy to terminate the user accounts of repeat infringers.
 
-We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any materials accessible via the Service infringe your copyright, you may request removal of those materials (or access to them) from the Service by submitting written notification to our Copyright Agent (designated below). In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) ("DMCA"), the written notice (the “DMCA Notice”) must include substantially the following:
+We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any materials accessible via the Service infringe your copyright, you may request removal of those materials (or access to them) from the Service by submitting written notification to our Copyright Agent (designated below). In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) ("DMCA"), the written notice (the "DMCA Notice") must include substantially the following:
 
 * Your physical or electronic signature.
 

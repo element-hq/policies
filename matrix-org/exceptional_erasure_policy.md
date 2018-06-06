@@ -2,9 +2,9 @@
 
 # 1. Introduction
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix’s development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This policy does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this policy only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This policy does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this policy only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
 
-The legal basis for our processing Personal Data, the reasons for there being restrictions upon users’ ability to exercise their *Right to Erasure (Right to be Forgotten)* upon state events, and the description of those restrictions, are detailed in the [full {{ policy_homeserver }} Privacy Notice]({{ privacy_policy_uri }}).
+The legal basis for our processing Personal Data, the reasons for there being restrictions upon users' ability to exercise their *Right to Erasure (Right to be Forgotten)* upon state events, and the description of those restrictions, are detailed in the [full {{ policy_homeserver }} Privacy Notice]({{ privacy_policy_uri }}).
 
 This document serves to detail how we decide what to do in the event of the interests of an individual user appearing to be in conflict with the broader societal interests.
 

@@ -10,9 +10,9 @@ Most Terms of Use and Privacy Policy documents are unreadable. They are written 
 
 We decided to use plain English as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
-When you read ‘the {{ policy_homeserver }} homeserver’ or ‘the Service’ below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+When you read ‘the {{ policy_homeserver }} homeserver' or ‘the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix’s development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
 
 If this agreement is not acceptable, please use a Matrix server provided by someone else!
 
@@ -42,9 +42,9 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We’re all ears! Email support@matrix.org and we’ll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@matrix.org and we'll chat.
 
-We don’t amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we’ll be happy to update it for everyone. Scroll to the bottom to see the history so far.
+We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
 We will likely improve this document over time. By continuing to use the Service, you will implicitly accept the changes we make.
 
@@ -56,7 +56,7 @@ If you breach any of the terms and conditions in this document, your authorizati
 
 We may block, restrict, disable, suspend or terminate your access to all or part of the Service at any time in our sole discretion, without prior notice or liability to you. 
 
-If you think we removed your access by mistake, send an email to [support@matrix.org](mailto:support@matrix.org) and we’ll give you our reasoning.
+If you think we removed your access by mistake, send an email to [support@matrix.org](mailto:support@matrix.org) and we'll give you our reasoning.
 
 # 2. Support
 
@@ -64,7 +64,7 @@ Support for the {{ policy_homeserver }} homeserver is provided on a best effort 
 
 Queries sent to [support@matrix.org](mailto:support@matrix.org) will be addressed on a best-effort basis by the paid team. Phone support is not provided.
 
-We love Matrix and will support our users as much as we can, but we are also a small team and value our work/life balance. This means that although we’ll try our best, we do not provide 24/7 support.
+We love Matrix and will support our users as much as we can, but we are also a small team and value our work/life balance. This means that although we'll try our best, we do not provide 24/7 support.
 
 # 3. Intellectual Property Rights
 
@@ -108,7 +108,7 @@ Provided that you comply with the terms of this Agreement and our policies and p
 
 You agree that you shall not:
 
-* Use or attempt to gain unauthorised access to or use another’s account, password, data, or computer systems or networks connected to the {{ policy_homeserver }} homeserver, whether through malicious attacks, password mining or any other means.
+* Use or attempt to gain unauthorised access to or use another's account, password, data, or computer systems or networks connected to the {{ policy_homeserver }} homeserver, whether through malicious attacks, password mining or any other means.
 
 * Access or attempt to access any material that you are not authorized to access.
 
@@ -118,7 +118,7 @@ You agree that you shall not:
 
 * Use the Service to transmit unsolicited or bulk communications to anyone at all, be they users of the Service, federated Matrix homeservers, or connected on a bridged network.
 
-* Post or otherwise submit any software, programs or files in a manner that is intended to cause harm or disruption of another’s equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms.
+* Post or otherwise submit any software, programs or files in a manner that is intended to cause harm or disruption of another's equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms.
 
 * Disrupt, interfere or inhibit any other user from using and enjoying the Service.
 
@@ -136,7 +136,7 @@ Materials and Services provided by third parties are governed by separate agreem
 
 ## 6.2 Illegal Content
 
-Any content containing or promoting indecent images/depictions of children is illegal and utterly prohibited on the Service. When we become aware of such content, we refer the details to the relevant authorities. If you’ve found an account, room or group being used for the distribution or promotion of child sexual exploitation, please share the details in an email to [abuse@matrix.org](mailto:abuse@matrix.org).
+Any content containing or promoting indecent images/depictions of children is illegal and utterly prohibited on the Service. When we become aware of such content, we refer the details to the relevant authorities. If you've found an account, room or group being used for the distribution or promotion of child sexual exploitation, please share the details in an email to [abuse@matrix.org](mailto:abuse@matrix.org).
 
 # 7. Restriction and Termination of Use
 
@@ -182,9 +182,9 @@ Some states or jurisdictions do not allow the exclusion of implied warranties or
 
 *Note on Plain English: We know that the language in this section still reads like legalese - this will be improved in later revisions of this document.*
 
-You agree to indemnify and hold New Vector and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
+You agree to indemnify and hold New Vector and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of:
 
-1. your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through the Service, including a third party’s use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
+1. your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through the Service, including a third party's use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
 
 2. your access to or use of the Service (including any use by your employees, contractors or agents and all uses of your usernames and passwords, whether or not actually or expressly authorized by you, in connection with the Service);
 
@@ -192,7 +192,7 @@ You agree to indemnify and hold New Vector and its officers, co-branders, other 
 
 4. your violation of the Terms of Use;
 
-5. your infringement of any third party’s intellectual property rights when using any of the software made available on the Service;
+5. your infringement of any third party's intellectual property rights when using any of the software made available on the Service;
 
 6. your violation of any rights of any third party;
 
@@ -248,5 +248,5 @@ You may also be subject to additional terms and conditions that may apply when y
 
 * 2018, March 28: created.
 
-**A note to other startups:** this document was heavily inspired by [Balsamiq’s plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
+**A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
 

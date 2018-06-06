@@ -10,7 +10,7 @@ Most Terms of Use and Privacy Policy documents are unreadable. They are written 
 
 Data privacy is important, and we want you to understand the issues involved. For that reason we decided to use plain English instead as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
-When you read ‘the {{ policy_homeserver }} homeserver’ or ‘the Service’ below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+When you read ‘the {{ policy_homeserver }} homeserver' or ‘the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
 
@@ -42,9 +42,9 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We’re all ears! Email support@matrix.org and we’ll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@matrix.org and we'll chat.
 
-We don’t amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we’ll be happy to update it for everyone. Scroll to the bottom to see the history so far.
+We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
 We will likely improve this document over time. By continuing to use the Service, you will implicitly accept the changes we make.
 
@@ -70,7 +70,7 @@ Any messages or files that were only accessible by your account will be deleted 
 
 Where you shared messages or files with another registered Matrix user, that user will still have access to their copy of those messages or files. Apart from state events (see below), these messages and files will *not* be shared with any unregistered or new users who view the room after we have processed your request to be forgotten.
 
-State events are processed differently to non-state events. State events are used by the Service to record, amongst other things, your membership in a room, the configuration of room settings, your changing of another user’s power level and your banning a user from a room. Were we to erase these state events from a room entirely, it would be very damaging to other users’ experience of the room, causing banned users to become unbanned, revoking legitimate administrator privileges, etc. We therefore share state events sent by your account with all non-essential data removed (‘redacted’), even after we have processed your request to be forgotten. This means that your username will continue to be publicly associated with rooms in which you have participated, even after we have processed your request to be forgotten. We are actively [working on a solution to ](https://matrix.org/blog/2018/05/08/gdpr-compliance-in-matrix/#mxid_erasure)[work around](https://matrix.org/blog/2018/05/08/gdpr-compliance-in-matrix/#mxid_erasure)[ this restriction](https://matrix.org/blog/2018/05/08/gdpr-compliance-in-matrix/#mxid_erasure) and allow you to be fully forgotten while maintaining a high quality experience for other users. If this is not acceptable to you, please do not use the Service.
+State events are processed differently to non-state events. State events are used by the Service to record, amongst other things, your membership in a room, the configuration of room settings, your changing of another user's power level and your banning a user from a room. Were we to erase these state events from a room entirely, it would be very damaging to other users' experience of the room, causing banned users to become unbanned, revoking legitimate administrator privileges, etc. We therefore share state events sent by your account with all non-essential data removed (‘redacted'), even after we have processed your request to be forgotten. This means that your username will continue to be publicly associated with rooms in which you have participated, even after we have processed your request to be forgotten. We are actively [working on a solution to ](https://matrix.org/blog/2018/05/08/gdpr-compliance-in-matrix/#mxid_erasure)[work around](https://matrix.org/blog/2018/05/08/gdpr-compliance-in-matrix/#mxid_erasure)[ this restriction](https://matrix.org/blog/2018/05/08/gdpr-compliance-in-matrix/#mxid_erasure) and allow you to be fully forgotten while maintaining a high quality experience for other users. If this is not acceptable to you, please do not use the Service.
 
 ### 2.1.3 Data Portability
 
@@ -200,7 +200,7 @@ You can manage your account by using a Matrix client such as [https://riot.im/ap
 
 We will never change a password for you.
 
-## 2.6 Our Commitment to Children’s Privacy
+## 2.6 Our Commitment to Children's Privacy
 
 We never knowingly collect or maintain information in the Service from those we know are under 16, and no part of the Service is structured to attract anyone under 16. If you are under 16, please do not use the Service.
 
@@ -224,9 +224,9 @@ We use HTTPS to transfer all data. End-to-end encrypted messaging data is stored
 
 ## 2.10 Who Else Has Access to My Data?
 
-We host the majority of the Service on Amazon Web Services (AWS). Amazon employees have access to this data. Here’s [Amazon’s privacy policy](http://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
+We host the majority of the Service on Amazon Web Services (AWS). Amazon employees have access to this data. Here's [Amazon's privacy policy](http://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
 
-We use Cloudflare to mitigate the risk of DDoS attacks. Here’s [CloudFlare’s privacy policy](https://www.cloudflare.com/privacypolicy/).
+We use Cloudflare to mitigate the risk of DDoS attacks. Here's [CloudFlare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 Physical access to our offices and locations use typical physical access restrictions.
 
@@ -240,15 +240,15 @@ In the event that we sell or buy any business or assets, we may disclose your pe
 
 If we or substantially all of our assets are acquired by a third party, personal data held by us about our users will be one of the transferred assets.
 
-## 2.12 How Is My Data Protected from Another User’s Data?
+## 2.12 How Is My Data Protected from Another User's Data?
 
-All of our users’ data for the Service currently resides in the same database cluster. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our user data via software. We do our best and are very confident we’re doing a good job at it, but, like every other service that hosts their user data on the same database, we cannot guarantee that it is immune to a sophisticated attack.
+All of our users' data for the Service currently resides in the same database cluster. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our user data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts their user data on the same database, we cannot guarantee that it is immune to a sophisticated attack.
 
 ## 2.13 What Should I Do If I Find a Security Vulnerability in the Service?
 
-If you have discovered a security concern, please email us at [security@matrix.org](mailto:security@matrix.org). We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@matrix.org](mailto:security@matrix.org) our highest priority, and work to address any issues that arise as quickly as possible.
+If you have discovered a security concern, please email us at [security@matrix.org](mailto:security@matrix.org). We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@matrix.org](mailto:security@matrix.org) our highest priority, and work to address any issues that arise as quickly as possible.
 
-Please act in good faith towards our users’ privacy and data during your disclosure. White hat security researchers are always appreciated.
+Please act in good faith towards our users' privacy and data during your disclosure. White hat security researchers are always appreciated.
 
 # 3. Making a Complaint
 
@@ -260,5 +260,5 @@ If you want to make a complaint about the way we have processed your personal in
 
 * 2018, March 28: created.
 
-**A note to other startups:** this document was heavily inspired by [Balsamiq’s plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
+**A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
 

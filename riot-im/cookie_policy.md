@@ -16,7 +16,7 @@ We use cookies to help us track anonymous usage data - this data helps us unders
 
 Our analytics are opt-in - if you do not choose to share your anonymous usage data Riot.im will not need to place any cookies on your computer for analytics.
 
-Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. We don’t share any analytics data with third parties.
+Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. We don't share any analytics data with third parties.
 
 All cookies created by Matomo start with either  _pk_ref, _pk_cvar, _pk_id, or _pk_ses.
 
