@@ -42,7 +42,7 @@ We will not act on complaints regarding:
 - Good faith and non-malicious conduct whose object is to ameliorate the conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
 - Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you"
 - Refusal to explain or debate social justice concepts
-- Communicating in a ‘tone' you don't find congenial
+- Communicating in a 'tone' you don't find congenial
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behaviour or assumptions
 
 |
