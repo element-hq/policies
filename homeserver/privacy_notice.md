@@ -64,7 +64,7 @@ In situations where the interests of the individual appear to be in conflict wit
 
 ### 2.1.2 Right to Erasure
 
-You can request that we forget your copy of message and files by instructing us to deactivate your account (using a matrix client such as [https://riot.im/app](https://riot.im/app)) and selecting the option instructing us to forget your messages. What happens next depends on who else had access to the messages and files you had shared.
+You can request that we forget your copy of messages and files by instructing us to deactivate your account (using a matrix client such as [https://riot.im/app](https://riot.im/app)) and selecting the option instructing us to forget your messages. What happens next depends on who else had access to the messages and files you had shared.
 
 Any messages or files that were only accessible by your account will be deleted from our servers within 30 days.
 
