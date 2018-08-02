@@ -20,11 +20,13 @@ Erasing a state event may result in our needing to erase the entire conversation
 
 * to what degree these other users would have their fundamental rights and freedoms put at risk if the Right to Erasure were to be exercised
 
+[](TODO: This needs some thought)
+If the homeserver is a commercial service paid for by a Customer, any exceptional erasure will be conducted in conjunction with the Customer.
+
 The Personal Data contained in a state event is usually limited to the username, the timestamp and the conversation in which the state event was issued. State events only represent that a user participated in a given conversation at a given time. It is rare that this data is sensitive enough to warrant its erasure given the drastic impact this will have on other users.
 
 Each case will be decided based on the factors listed above. In most situations we will not erase state events. In extreme situations, where not erasing state events will place people at material risk of harm, we may choose to erase state events or remove the entire conversation.
 
 # 3. Contacting Us
 
-If you would like us to consider erasing state events containing your Personal Data, please get in touch at [support@matrix.org](mailto:support@matrix.org).
-
+If you would like us to consider erasing state events containing your Personal Data, please get in touch at [support@modular.im](mailto:support@modular.im).
