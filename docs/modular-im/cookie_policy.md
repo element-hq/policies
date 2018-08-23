@@ -1,4 +1,4 @@
-# Riot.im Cookie Policy
+# Modular.im Cookie Policy
 
 This is the Cookie Policy for https://www.modular.im.
 
@@ -14,7 +14,7 @@ Cookies are small files that websites place on your computer as you browse the w
 
 We use cookies to help us track anonymous usage data - this data helps us understand how our users are using the application so that we can make improvements.
 
-Our analytics are opt-in - if you do not choose to share your anonymous usage data Riot.im will not need to place any cookies on your computer for analytics.
+Our analytics are opt-in - if you do not choose to share your anonymous usage data Modular.im will not need to place any cookies on your computer for analytics.
 
 Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. We don't share any analytics data with third parties.
 
