@@ -57,7 +57,6 @@ We don't amend this document for any specific Customers, Users or use case, but 
 
 If we make a material change to this document we will provide the Customer with reasonable notice prior to the change coming into effect. We will set forth the date upon which the changes will become effective, and any use of the Service by a User after said date will constitute the Customer's acceptance of these changes.
 
-[](TODO: Should we commit to telling the user about changes to the t's and c's, too?)
 Your access and use of the Service is always subject to the most current version of this document.
 
 ## 2. Access to Your Data / Privacy Policy
