@@ -1,6 +1,6 @@
-# {{ policy_homeserver }} Homeserver User Terms and Conditions
+# {{ hhs_name }}.{{ hhs_client_domain}} Homeserver User Terms and Conditions
 
-These {{ policy_homeserver }} homeserver User Terms and Conditions (‘User Terms’) describe your rights and responsibilities when using the services enabled by the {{ policy_homeserver }} Homeserver. Please read this document carefully before accessing or using this service!
+These {{ hhs_name }}.{{ hhs_client_domain}} homeserver User Terms and Conditions (‘User Terms’) describe your rights and responsibilities when using the services enabled by the {{ hhs_name }}.{{ hhs_client_domain }} Homeserver. Please read this document carefully before accessing or using this service!
 
 ## 1. Introduction
 
@@ -14,23 +14,23 @@ We decided to use plain English as much as possible, to make our terms as clear 
 
 You have been invited, or you have registered freely, to use a communication service which is controlled by a ‘Homeserver Owner’. You are as such an ‘Authorised User’ of this service. The Homeserver Owner is the organisation represented by the individual who signed up to provision the Service, or the individual themselves if they are not affiliated to any organisation.
 
-The Homeserver Owner contracted us to run this {{ policy_homeserver }} homeserver in order to provide the Service to a group of people of their choice. If you have been invited to create an account on this homeserver by your employer, your employer is probably the Homeserver Owner. If you are joining a community run by a given organisation or individual, the organisation or the individual are probably the Homeserver Owner.
+The Homeserver Owner contracted us to run this {{ hhs_name }}.{{ hhs_client_domain }} homeserver in order to provide the Service to a group of people of their choice. If you have been invited to create an account on this homeserver by your employer, your employer is probably the Homeserver Owner. If you are joining a community run by a given organisation or individual, the organisation or the individual are probably the Homeserver Owner.
 
-When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** for communication purposes, potentially including instant messaging (in public and private chat rooms), voice and video calls and interactions with third-party applications. The {{ policy_homeserver }} homeserver stores your account and personal conversation history. If the Homeserver Owner choose, the homeserver may provide services such as bots and bridges, and may communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+When you read 'the {{ hhs_name }}.{{ hhs_client_domain }} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_client_domain }}** for communication purposes, potentially including instant messaging (in public and private chat rooms), voice and video calls and interactions with third-party applications. The {{ hhs_name }}.{{ hhs_client_domain }} homeserver stores your account and personal conversation history. If the Homeserver Owner choose, the homeserver may provide services such as bots and bridges, and may communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read 'New Vector', 'New Vector Ltd.' or 'we' or 'us' below, it refers to New Vector Limited, and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
+Where you read 'New Vector', 'New Vector Ltd.' or 'we' or 'us' below, it refers to New Vector Limited, and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ hhs_name }}.{{ hhs_client_domain }}) provided by New Vector Ltd.**
 
 If this agreement is not acceptable, please use a Matrix homeserver provided by someone else!
 
 ### 1.3 Using The Service Means Accepting These Terms
 
-By accessing or using the Service in any way, whether you have created a Matrix account on the {{ policy_homeserver }} homeserver, or whether you are accessing content federated from the {{ policy_homeserver }} homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, you agree to and are bound by the terms and conditions written in this document.
+By accessing or using the Service in any way, whether you have created a Matrix account on the {{ hhs_name }}.{{ hhs_client_domain }} homeserver, or whether you are accessing content federated from the {{ hhs_name }}.{{ hhs_client_domain }} homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, please use a Matrix server provided by someone else and refrain from accessing content federated from this server.
 
 ### 1.4 Between You and the Homeserver Owner
 
-The Homeserver Owner gave you either explicit (by inviting you) or implicit (by allowing others to do so, or opening up free registration) authorisation to use the service they provisioned and most likely are paying for. They have separately agreed to our Homeserver Owner Terms and Conditions or entered into a written agreement with us (in either case the ‘Contract’) which gives them the right to provision, configure and invite others to use the {{ policy_homeserver }} homeserver. They may enable or disable federation to the rest of the Matrix network, close rooms, turn off the access to the service, change the accessibility rules (from invite only to open registration or vice versa) etc... You agree to not hold the Homeserver Owner or us liable for any inconvenience these changes causes. The Contract also contains our commitment to deliver the Service to the Homeserver Owner.
+The Homeserver Owner gave you either explicit (by inviting you) or implicit (by allowing others to do so, or opening up free registration) authorisation to use the service they provisioned and most likely are paying for. They have separately agreed to our Homeserver Owner Terms and Conditions or entered into a written agreement with us (in either case the ‘Contract’) which gives them the right to provision, configure and invite others to use the {{ hhs_name }}.{{ hhs_client_domain }} homeserver. They may enable or disable federation to the rest of the Matrix network, close rooms, turn off the access to the service, change the accessibility rules (from invite only to open registration or vice versa) etc... You agree to not hold the Homeserver Owner or us liable for any inconvenience these changes causes. The Contract also contains our commitment to deliver the Service to the Homeserver Owner.
 
 You agree that it is solely the Homeserver Owner’s responsibility to inform you and other Authorised Users of any relevant policies and practices on their Service which come in addition to the below.
 
@@ -66,11 +66,11 @@ If you think we removed your access by mistake, send an email to [support@modula
 
 ### 2.1 Who Owns the IP of My Messages and Files?
 
-Unless stated otherwise in direct agreements between the Homeserver Owner and yourself (e.g. an employment contract), the Homeserver Owner do not claim intellectual property rights over rooms, message content or files you uploaded to the {{ policy_homeserver }} homeserver, directly or over federation or bridging
+Unless stated otherwise in direct agreements between the Homeserver Owner and yourself (e.g. an employment contract), the Homeserver Owner do not claim intellectual property rights over rooms, message content or files you uploaded to the {{ hhs_name }}.{{ hhs_client_domain }} homeserver, directly or over federation or bridging
 
 You acknowledge and agree that we have no liability of any kind should anyone you granted access to your messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that you may impose on the use of your shared content.
 
-User messages or files may be pre-screened to prevent spam and other abuse, and messages or files (including entire rooms) may be removed from the {{ policy_homeserver }} homeserver for any reason without notice at the discretion of either New Vector Ltd. or the Homeserver Owner. By posting or uploading your messages or files, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Use, including all the rights necessary for you to post or upload said messages or files.
+User messages or files may be pre-screened to prevent spam and other abuse, and messages or files (including entire rooms) may be removed from the {{ hhs_name }}.{{ hhs_client_domain }} homeserver for any reason without notice at the discretion of either New Vector Ltd. or the Homeserver Owner. By posting or uploading your messages or files, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Use, including all the rights necessary for you to post or upload said messages or files.
 
 You are solely and entirely responsible for all of your messages and files that you post or otherwise submit via the Service. You shall assume all risks associated with the use of said content including any reliance on the accuracy, completeness or usefulness. New Vector does not guarantee the accuracy, integrity or quality of your messages or files. 
 
@@ -84,13 +84,13 @@ You acknowledge and agree that by accessing or using the Service, you may be exp
 
 You agree that you shall not:
 
-* Use or attempt to gain unauthorised access to or use another's account, password, data, or computer systems or networks connected to the {{ policy_homeserver }} homeserver, whether through malicious attacks, password mining or any other means.
+* Use or attempt to gain unauthorised access to or use another's account, password, data, or computer systems or networks connected to the {{ hhs_name }}.{{ hhs_client_domain }} homeserver, whether through malicious attacks, password mining or any other means.
 
 * Access or attempt to access any material that you are not authorized to access.
 
 * Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://riot.im/copyright) for further details.
 
-* Disrupt or interfere with the security of, or otherwise cause harm to, the {{ policy_homeserver }} homeserver, systems resources, accounts, passwords, servers or networks connected to or accessible through the Service or any affiliated or linked sites.
+* Disrupt or interfere with the security of, or otherwise cause harm to, the {{ hhs_name }}.{{ hhs_client_domain }} homeserver, systems resources, accounts, passwords, servers or networks connected to or accessible through the Service or any affiliated or linked sites.
 
 * Use the Service to transmit unsolicited or bulk communications to anyone at all, be they users of the Service, federated Matrix homeservers, or connected on a bridged network.
 
@@ -108,7 +108,7 @@ You agree that you shall not:
 
 * Violate the rights of New Vector or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
 
-Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. New Vector Ltd. offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, the {{ policy_homeserver }} service or another third-party service. You agree that you will not hold New Vector Ltd. responsible or liable with respect to the third-party services.
+Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. New Vector Ltd. offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, the {{ hhs_name }}.{{ hhs_client_domain }} service or another third-party service. You agree that you will not hold New Vector Ltd. responsible or liable with respect to the third-party services.
 
 ### 3.2 Illegal Content
 
@@ -120,13 +120,13 @@ Any content containing or promoting indecent images/depictions of children is il
 
 In short, we do not. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet. We do not yet offer contracted SLA for availability of the Service and your data.
 
-We monitor the Service closely and have set up automated alarms to be notified (via email, push notifications and phone calls) when the {{ policy_homeserver }} homeserver is under stress, so that we can deal with the issue before it becomes a problem that might impact user access.
+We monitor the Service closely and have set up automated alarms to be notified (via email, push notifications and phone calls) when the {{ hhs_name }}.{{ hhs_client_domain }} homeserver is under stress, so that we can deal with the issue before it becomes a problem that might impact user access.
 
-You acknowledge and agree that New Vector Ltd. shall not be liable for any failure to store your materials on the {{ policy_homeserver }} homeserver at any time.
+You acknowledge and agree that New Vector Ltd. shall not be liable for any failure to store your materials on the {{ hhs_name }}.{{ hhs_client_domain }} homeserver at any time.
 
 ## 5. Support
 
-We do not yet offer contracted support for the {{ policy_homeserver }} homeserver, which is in consequence provided on a best effort basis by New Vector Ltd - however, support is often available from the wider Matrix Community in the public Matrix Support rooms (as listed in the +matrix:matrix.org community).
+We do not yet offer contracted support for the {{ hhs_name }}.{{ hhs_client_domain }} homeserver, which is in consequence provided on a best effort basis by New Vector Ltd - however, support is often available from the wider Matrix Community in the public Matrix Support rooms (as listed in the +matrix:matrix.org community).
 
 Queries sent to [support@modular.im](mailto:support@modular.im) will be addressed on a best-effort basis by the paid team. Phone support is not provided.
 
@@ -156,7 +156,7 @@ The Service may include links that will take you to other sites outside of the t
 
 ## 10. Warranties and Disclaimers
 
-The {{ policy_homeserver }} service is provided by New Vector under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, New Vector and the Homeserver Owner make no warranty that:
+The {{ hhs_name }}.{{ hhs_client_domain }} service is provided by New Vector under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, New Vector and the Homeserver Owner make no warranty that:
 
 1. the Service will meet your requirements;
 

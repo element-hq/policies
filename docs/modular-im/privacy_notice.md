@@ -14,7 +14,7 @@ Where you read 'modular.im' or 'Modular', it refers to the service made availabl
 
 Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Modular which store User account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us*, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us*, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
 
 New Vector Ltd. is both the Data Controller and the Data Processor for Modular. We can be contacted as per the details below:
 

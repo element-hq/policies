@@ -1,16 +1,16 @@
-# {{ policy_homeserver }} Policy for Exceptional Exercising of Right To Erasure on State Events
+# {{ hhs_name }}.{{ hhs_server_domain }} Policy for Exceptional Exercising of Right To Erasure on State Events
 
 # 1. Introduction
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This policy does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this policy only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This policy does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this policy only applies to the server ({{ hhs_name }}.{{ hhs_client_domain }}) provided by New Vector Ltd.**
 
-The legal basis for our processing Personal Data, the reasons for there being restrictions upon users' ability to exercise their *Right to Erasure (Right to be Forgotten)* upon state events, and the description of those restrictions, are detailed in the [full {{ policy_homeserver }} Privacy Notice]({{ privacy_policy_uri }}).
+The legal basis for our processing Personal Data, the reasons for there being restrictions upon users' ability to exercise their *Right to Erasure (Right to be Forgotten)* upon state events, and the description of those restrictions, are detailed in the [full {{ hhs_name }}.{{ hhs_server_domain }} Privacy Notice]({{ hhs_name }}.{{ hhs_client_domain }}/privacy_policy/en/privacy_notice.html).
 
 This document serves to detail how we decide what to do in the event of the interests of an individual user appearing to be in conflict with the broader societal interests.
 
 # 2. How we decide
 
-As described in the [full {{ policy_homeserver }} Privacy Notice]({{ privacy_policy_uri }}), erasing state events is very damaging to the integrity of a Matrix conversation.
+As described in the [full {{ hhs_name }}.{{ hhs_server_domain }} Privacy Notice]({{ hhs_name }}.{{ hhs_client_domain }}/privacy_policy/en/privacy_notice.html), erasing state events is very damaging to the integrity of a Matrix conversation.
 
 Erasing a state event may result in our needing to erase the entire conversation at the same time. Deciding whether to take this drastic step will require a balancing exercise to be carried out at the time of the request, and will depend on:
 
