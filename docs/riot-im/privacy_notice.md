@@ -8,7 +8,7 @@ Riot.im is an Open Source Matrix client which you can use to connect to any serv
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix’s development: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. 
 
-Where you read ‘the Service’ in this document, it refers to the Riot.im instances exposed on [https://riot.im](https://riot.im) by New Vector Ltd.
+Where you read ‘the Service’ in this document, it refers to the Riot.im instances exposed on [riot.im](https://riot.im) (or subdomains) by New Vector Ltd.
 
 ## 1.1 Riot.im Instances Provided By New Vector
 
