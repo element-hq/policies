@@ -2,27 +2,16 @@
   "name": "policies",
   "version": "1.0.0",
   "description": "Policy documents for services run by New Vector",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build:mkdir": "rm -rf build && mkdir -p build && cd docs && find . -type d | cpio -pd ../build",
-    "build:genhtml": "for filename in $(cd docs && find . -name '*.md'); do md2html docs/$filename > build/${filename%???}.html; done",
-    "crap": "> ../build/$filename; done",
+    "build:genhtml": "echo \"Converting md -> HTML:\"; for filename in $(cd docs && find . -name '*.md' | grep -v \"README.md\"); do echo \" - $filename -> build/${filename%???}.html\"; md2html docs/$filename > build/${filename%???}.html; done",
     "build": "npm run build:mkdir && npm run build:genhtml"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vector-im/policies.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vector-im/policies/issues"
-  },
-  "homepage": "https://github.com/vector-im/policies#readme",
+  "author": "Thomas Lant",
   "dependencies": {
     "markdown": "^0.5.0"
   }
