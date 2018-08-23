@@ -1,0 +1,9 @@
+for file in ~/dev/hhs/policies/modular.im/*
+    python md2gd.py $file 12HhxztBA3KpvR3F6UMJBL605GHUQJrrC
+end
+for file in ~/dev/hhs/policies/riot-im/*
+    python md2gd.py $file 14GsZKsOq31TttYwKhVwqJ-sjadhueTmP
+end
+for file in ~/dev/hhs/policies/hosted-homeserver/*
+    python md2gd.py $file 1qqhA20RTIg6d_kCCvtRo5rdfEFx5KHQ5
+end
