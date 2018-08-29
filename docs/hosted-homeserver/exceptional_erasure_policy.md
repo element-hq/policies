@@ -1,8 +1,8 @@
-# {{ hhs_name }}.{{ hhs_server_domain }} Policy for Exceptional Exercising of Right To Erasure on State Events
+# {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Policy for Exceptional Exercising of Right To Erasure on State Events
 
 # 1. Introduction
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This policy does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this policy only applies to the server ({{ hhs_name }}.{{ hhs_client_domain }}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This policy does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this policy only applies to the server ({{ hhs_name }}.{{ hhs_server_domain }}) provided by New Vector Ltd.**
 
 The legal basis for our processing Personal Data, the reasons for there being restrictions upon users' ability to exercise their *Right to Erasure (Right to be Forgotten)* upon state events, and the description of those restrictions, are detailed in the [full {{ hhs_name }}.{{ hhs_server_domain }} Privacy Notice]({{ hhs_name }}.{{ hhs_client_domain }}/privacy_policy/en/privacy_notice.html).
 

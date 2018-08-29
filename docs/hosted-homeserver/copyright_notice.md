@@ -1,8 +1,8 @@
-# {{ hhs_name }}.{{ hhs_client_domain }} Copyright Notice
+# {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Copyright Notice
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
 
-When you read 'the {{ hhs_name }}.{{ hhs_client_domain }} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_client_domain }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network. 
+When you read 'the {{ hhs_name }}.{{ hhs_server_domain }} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_server_domain }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network. 
 
 If the terms of this copyright notice are not acceptable, please use a Matrix server provided by someone else!
 
