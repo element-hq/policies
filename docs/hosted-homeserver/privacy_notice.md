@@ -17,7 +17,7 @@ Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers 
 If this agreement is not acceptable, please use a Matrix server provided by someone else!
 
 {{ hhs_entity_name }} is the Data Controller for the Service. They can be contacted as per the details below:
-{{ hhs_admin_email }}
+[{{ hhs_admin_email }}](mailto:{{ hhs_admin_email }})
 
 New Vector Ltd. is the Data Processor for the Service. We can be contacted as per the details below:
 
