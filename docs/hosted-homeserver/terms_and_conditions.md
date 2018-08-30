@@ -18,7 +18,7 @@ The Homeserver Owner contracted us to run this {{ hhs_name }}.{{ hhs_server_doma
 
 When you read 'the {{ hhs_name }}.{{ hhs_server_domain }} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_server_domain }}** for communication purposes, potentially including instant messaging (in public and private chat rooms), voice and video calls and interactions with third-party applications. The {{ hhs_name }}.{{ hhs_server_domain }} homeserver stores your account and personal conversation history. If the Homeserver Owner choose, the homeserver may provide services such as bots and bridges, and may communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read 'New Vector', 'New Vector Ltd.' or 'we' or 'us' below, it refers to New Vector Limited, and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ hhs_name }}.{{ hhs_serve_domain }}) provided by New Vector Ltd.**
+Where you read 'New Vector', 'New Vector Ltd.' or 'we' or 'us' below, it refers to New Vector Limited, and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ hhs_name }}.{{ hhs_server_domain }}) provided by New Vector Ltd.**
 
 If this agreement is not acceptable, please use a Matrix homeserver provided by someone else!
 
