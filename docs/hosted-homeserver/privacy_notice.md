@@ -10,9 +10,9 @@ Most Terms of Use and Privacy Policy documents are unreadable. They are written 
 
 Data privacy is important, and we want you to understand the issues involved. For that reason we decided to use plain English instead as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
-Where you read 'the {{ hhs_name }}.{{ hhs_server_domain}} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_server_domain}}** which store your account and personal conversation history, provide integrations such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+Where you read 'the {{ hhs_name }}.{{ hhs_server_domain }} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_server_domain }}** which store your account and personal conversation history, provide integrations such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ hhs_name }}.{{ hhs_server_domain}}) provided by New Vector Ltd.**
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ hhs_name }}.{{ hhs_server_domain }}) provided by New Vector Ltd.**
 
 If this agreement is not acceptable, please use a Matrix server provided by someone else!
 
@@ -33,17 +33,17 @@ Should you have other questions or concerns about this document, please send us 
 
 ### 1.2 Scope of This Document
 
-This document explains Data Privacy to the Users of the {{ hhs_name }}.{{ hhs_server_domain}} homeserver.
+This document explains Data Privacy to the Users of the {{ hhs_name }}.{{ hhs_server_domain }} homeserver.
 
 ### 1.3 The Customer and The User
 
-Put simply, you're a Customer if you're paying (or otherwise compensating) New Vector Ltd to provide a hosted messaging service. If you have an account registered on {{ hhs_name }}.{{ hhs_server_domain}} that you use to send and receive messages, you're a User.
+Put simply, you're a Customer if you're paying (or otherwise compensating) New Vector Ltd to provide a hosted messaging service. If you have an account registered on {{ hhs_name }}.{{ hhs_server_domain }} that you use to send and receive messages, you're a User.
 
 It is possible to be both a Customer and a User, but we encourage you to consider these roles separately when thinking about Data Privacy.
 
 ### 1.4 Using The Service Means Accepting These Terms
 
-By accessing or using the Service in any way, whether you have created a Matrix account on the {{ hhs_name }}.{{ hhs_server_domain}} homeserver, or whether you are accessing content federated from the {{ hhs_name }}.{{ hhs_server_domain}} homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, you agree to and are bound by the terms and conditions written in this document.
+By accessing or using the Service in any way, whether you have created a Matrix account on the {{ hhs_name }}.{{ hhs_server_domain }} homeserver, or whether you are accessing content federated from the {{ hhs_name }}.{{ hhs_server_domain }} homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, please use a Matrix server provided by someone else and refrain from accessing content federated from this server.
 
@@ -161,11 +161,11 @@ Currently, we log the IP addresses of everyone who accesses the Service. This da
 
 #### 2.3.1 Sharing Data with Connected Services
 
-The {{ hhs_name }}.{{ hhs_server_domain}} homeserver is a *decentralised* and, if the Customer has enabled federation, *open* service. If federation is enabled, to support communication between users on different homeservers or different messaging platforms, your username, display name and messages and files are sometimes shared with other services that are connected with the {{ hhs_name }}.{{ hhs_server_domain}} homeserver.
+The {{ hhs_name }}.{{ hhs_server_domain }} homeserver is a *decentralised* and, if the Customer has enabled federation, *open* service. If federation is enabled, to support communication between users on different homeservers or different messaging platforms, your username, display name and messages and files are sometimes shared with other services that are connected with the {{ hhs_name }}.{{ hhs_server_domain }} homeserver.
 
 ##### Federation
 
-If the Customer has enabled federation, then the {{ hhs_name }}.{{ hhs_server_domain}} homeserver will share user data with the wider ecosystem over federation:
+If the Customer has enabled federation, then the {{ hhs_name }}.{{ hhs_server_domain }} homeserver will share user data with the wider ecosystem over federation:
 
 * When you send messages or files in a room, a copy of the data is sent to all participants in the room. If these participants are on remote homeservers, your username, display name, messages and files may be replicated across each participating homeserver.
 
@@ -187,7 +187,7 @@ Access control settings, requests to remove messages by "redactions" or remove p
 
 ##### Integration Services (Bots and Widgets)
 
-The {{ hhs_name }}.{{ hhs_server_domain}} homeserver provides a range of integrations in the form of Widgets (miniature web applications accessed as part of a Matrix Client) and Bots (automated participants in rooms). Bots and Widgets currently have access to all the messages and files in any room in which they participate, although we are adding a more sophisticated access control system.
+The {{ hhs_name }}.{{ hhs_server_domain }} homeserver provides a range of integrations in the form of Widgets (miniature web applications accessed as part of a Matrix Client) and Bots (automated participants in rooms). Bots and Widgets currently have access to all the messages and files in any room in which they participate, although we are adding a more sophisticated access control system.
 
 ### 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights
 
@@ -225,9 +225,9 @@ You can access all your personally identifiable information that we collect by u
 
 ### 2.8 Who Can See My Messages and Files?
 
-{{ hhs_name }}.{{ hhs_server_domain}} is a paid-for, hosted homeserver operating under the instructions of the Customer. All unencrypted messages and files submitted to the homeserver are visible to the Customer.
+{{ hhs_name }}.{{ hhs_server_domain }} is a paid-for, hosted homeserver operating under the instructions of the Customer. All unencrypted messages and files submitted to the homeserver are visible to the Customer.
 
-In unencrypted and encrypted rooms, users connecting to the {{ hhs_name }}.{{ hhs_server_domain}} homeserver (directly or over federation) will be able to see messages and files according to the access permissions configuration of the relevant room. This data is stored in the format it was received on our servers, and can be viewed by New Vector engineers (employees and contractors) under the conditions outlined below.
+In unencrypted and encrypted rooms, users connecting to the {{ hhs_name }}.{{ hhs_server_domain }} homeserver (directly or over federation) will be able to see messages and files according to the access permissions configuration of the relevant room. This data is stored in the format it was received on our servers, and can be viewed by New Vector engineers (employees and contractors) under the conditions outlined below.
 
 In encrypted rooms, the data is stored in our databases but the encryption keys are stored only on your devices or by yourself. In future we may allow users to optionally backup an encrypted copy of their keys on the Service to aid recovery if they lose all their keys and devices. This key backup would be encrypted by a recovery key that only the user has access to. This means that nobody, even New Vector engineers (employees and contractors) can see your message content in our database, and if you lose access to your encryption keys you lose access to your messages forever.
 
@@ -259,7 +259,7 @@ If we or substantially all of our assets are acquired by a third party, personal
 
 ### 2.12 How Is My Data Protected from Another User's Data?
 
-All of the Users' data for the {{ hhs_name }}.{{ hhs_server_domain}} homeserver resides within the same dedicated cluster. We use software best practices to guarantee that only people designated by Customer or a User as viewers of a User's data can access it. In other words, we segment User data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts User data on the same database, we cannot guarantee that it is immune to a sophisticated attack.
+All of the Users' data for the {{ hhs_name }}.{{ hhs_server_domain }} homeserver resides within the same dedicated cluster. We use software best practices to guarantee that only people designated by Customer or a User as viewers of a User's data can access it. In other words, we segment User data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts User data on the same database, we cannot guarantee that it is immune to a sophisticated attack.
 
 ### 2.13 What Should I Do If I Find a Security Vulnerability in the Service?
 
