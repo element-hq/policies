@@ -72,7 +72,7 @@ We love Matrix and will support our users as much as we can, but we are also a s
 
 ## 3.1 Who Owns the IP of My Messages and Files?
 
-We do not claim intellectual property rights over rooms, message content or files uploaded to the Service.
+Unless stated otherwise in direct agreements between the Homeserver Owner and yourself (e.g. an employment contract), the Homeserver Owner can not claim intellectual property rights over rooms, message content or files you uploaded to the {{ hhs_name }}.{{ hhs_server_domain }} homeserver, directly or over federation or bridging
 
 You acknowledge and agree that we have no liability of any kind should anyone you granted access to your messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that you may impose on the use of your shared content.
 
