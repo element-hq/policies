@@ -66,7 +66,7 @@ If you think we removed your access by mistake, send an email to [support@modula
 
 ### 2.1 Who Owns the IP of My Messages and Files?
 
-Unless stated otherwise in direct agreements between the Homeserver Owner and yourself (e.g. an employment contract), the Homeserver Owner do not claim intellectual property rights over rooms, message content or files you uploaded to the {{ hhs_name }}.{{ hhs_server_domain }} homeserver, directly or over federation or bridging
+Unless stated otherwise in direct agreements between the Homeserver Owner and yourself (e.g. an employment contract), the Homeserver Owner can not claim intellectual property rights over rooms, message content or files you uploaded to the {{ hhs_name }}.{{ hhs_server_domain }} homeserver, directly or over federation or bridging
 
 You acknowledge and agree that we have no liability of any kind should anyone you granted access to your messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that you may impose on the use of your shared content.
 
