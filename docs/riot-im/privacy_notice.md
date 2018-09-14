@@ -8,7 +8,7 @@ Riot.im is an Open Source Matrix client which you can use to connect to any serv
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. 
 
-Where you read ‘the Service’ in this document, it refers to the Riot.im instances exposed on [riot.im](https://riot.im) (or subdomains) by New Vector Ltd.
+Where you read 'the Service' in this document, it refers to the Riot.im instances exposed on [riot.im](https://riot.im) (or subdomains) by New Vector Ltd.
 
 ## 1.1 Riot.im Instances Provided By New Vector
 
@@ -34,7 +34,7 @@ Postal address: 10 Queen Street Place, London, United Kingdom. EC4R 1AG.
 
 In giving you access to the Service we collect the bare minimum of information required to expose any service via the web.
 
-**This agreement does not cover your relationship with the Matrix server!** Your account details and preferences, messages, files and any other data you share via the Matrix protocol are the responsibility of the Matrix server, and it is the provider of that server’s job to make sure your data is handled appropriately and that you are well informed.
+**This agreement does not cover your relationship with the Matrix server!** Your account details and preferences, messages, files and any other data you share via the Matrix protocol are the responsibility of the Matrix server, and it is the provider of that server's job to make sure your data is handled appropriately and that you are well informed.
 
 If you are using the server provided by New Vector Ltd, **matrix.org**, you can find the relevant Privacy Notice and Terms and Conditions here:
 
@@ -58,6 +58,6 @@ We collect this information to support operational maintenance and to protect ag
 
 ## Data collected if you opt-in to analytics
 
-All our analytics data is **opt-in** and **fully anonymised**. We don’t record any personal or identifiable data for our analytics.
+All our analytics data is **opt-in** and **fully anonymised**. We don't record any personal or identifiable data for our analytics.
 
 We record analytics using a self-hosted instance of Matomo, an Open Source analytics package with an emphasis on data privacy. This means that our analytics data is not accessible by any third party.
