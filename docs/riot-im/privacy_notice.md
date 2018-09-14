@@ -6,7 +6,7 @@ Please read this document carefully before accessing or using this service!
 
 Riot.im is an Open Source Matrix client which you can use to connect to any server that implements the Matrix protocol.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix’s development: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. 
+Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. 
 
 Where you read ‘the Service’ in this document, it refers to the Riot.im instances exposed on [riot.im](https://riot.im) (or subdomains) by New Vector Ltd.
 
@@ -20,13 +20,13 @@ Where you read ‘the Service’ in this document, it refers to the Riot.im inst
 
 * The staging instance, currently accessed at [https://riot.im/staging](https://riot.im/staging)
 
-This agreement covers all of these instances, and any others that we may choose to provide on [https://riot.im](https://riot.im). We might change which instances we run, and how they are accessed, at any time.
+This agreement covers all of these instances, and any others that we may choose to provide on [https://riot.im](https://riot.im) or any subdomain (https://\*.riot.im). We might change which instances we run, and how they are accessed, at any time.
 
 **This agreement does not cover Riot.im instances hosted by anyone else.**
 
 ## 1.2 Company Contact Information
 
-Email: [support@matrix.org](mailto:support@matrix.org)
+Email: [support@vector.org](mailto:support@vector.org)
 
 Postal address: 10 Queen Street Place, London, United Kingdom. EC4R 1AG.
 
