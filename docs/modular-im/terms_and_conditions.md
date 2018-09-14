@@ -114,7 +114,7 @@ You acknowledge and agree that New Vector Ltd. shall not be liable for any failu
 
 ### 4.3 Data Protection and Processing
 
-We will ensure to set-up, at a minimum, reasonable data practices for maintaining the confidentiality and security of the Customer's and User's Data and preventing unauthorized access. For more details please check our [Privacy Policy](/static/privacy_notice.html) and [Cookie Policy](/static/cookie_policy/html).
+We will ensure to set-up, at a minimum, reasonable data practices for maintaining the confidentiality and security of the Customer's and User's Data and preventing unauthorized access. For more details please check our [Privacy Policy](/static/privacy_notice.html) and [Cookie Policy](/static/cookie_policy.html).
 
 ## 5. Pricing Definitions and Payment Obligations
 
