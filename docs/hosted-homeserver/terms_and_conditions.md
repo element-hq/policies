@@ -1,6 +1,6 @@
 # {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver User Terms and Conditions
 
-These User Terms and Conditions (‘User Terms’) describe your rights and responsibilities when using the services enabled by the {{ hhs_name }}.{{ hhs_server_domain }} Homeserver. Please read this document carefully before accessing or using this service!
+These User Terms and Conditions ('User Terms') describe your rights and responsibilities when using the services enabled by the {{ hhs_name }}.{{ hhs_server_domain }} Homeserver. Please read this document carefully before accessing or using this service!
 
 ## 1. Introduction
 
@@ -12,7 +12,7 @@ We decided to use plain English as much as possible, to make our terms as clear 
 
 ### 1.2 Definition of Terms
 
-You have been invited, or you have registered freely, to use a communication service which is controlled by a ‘Homeserver Owner’. You are as such an ‘Authorised User’ of this service. The Homeserver Owner is the organisation represented by the individual who signed up to provision the Service, or the individual themselves if they are not affiliated to any organisation.
+You have been invited, or you have registered freely, to use a communication service which is controlled by a 'Homeserver Owner'. You are as such an 'Authorised User' of this service. The Homeserver Owner is the organisation represented by the individual who signed up to provision the Service, or the individual themselves if they are not affiliated to any organisation.
 
 The Homeserver Owner contracted us to run this {{ hhs_name }}.{{ hhs_server_domain }} homeserver in order to provide the Service to a group of people of their choice. If you have been invited to create an account on this homeserver by your employer, your employer is probably the Homeserver Owner. If you are joining a community run by a given organisation or individual, the organisation or the individual are probably the Homeserver Owner.
 
@@ -30,9 +30,9 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 ### 1.4 Between You and the Homeserver Owner
 
-The Homeserver Owner gave you either explicit (by inviting you) or implicit (by allowing others to do so, or opening up free registration) authorisation to use the service they provisioned and most likely are paying for. They have separately agreed to our Homeserver Owner Terms and Conditions or entered into a written agreement with us (in either case the ‘Contract’) which gives them the right to provision, configure and invite others to use the {{ hhs_name }}.{{ hhs_server_domain }} homeserver. They may enable or disable federation to the rest of the Matrix network, close rooms, turn off the access to the service, change the accessibility rules (from invite only to open registration or vice versa) etc... You agree to not hold the Homeserver Owner or us liable for any inconvenience these changes causes. The Contract also contains our commitment to deliver the Service to the Homeserver Owner.
+The Homeserver Owner gave you either explicit (by inviting you) or implicit (by allowing others to do so, or opening up free registration) authorisation to use the service they provisioned and most likely are paying for. They have separately agreed to our Homeserver Owner Terms and Conditions or entered into a written agreement with us (in either case the 'Contract') which gives them the right to provision, configure and invite others to use the {{ hhs_name }}.{{ hhs_server_domain }} homeserver. They may enable or disable federation to the rest of the Matrix network, close rooms, turn off the access to the service, change the accessibility rules (from invite only to open registration or vice versa) etc... You agree to not hold the Homeserver Owner or us liable for any inconvenience these changes causes. The Contract also contains our commitment to deliver the Service to the Homeserver Owner.
 
-You agree that it is solely the Homeserver Owner’s responsibility to inform you and other Authorised Users of any relevant policies and practices on their Service which come in addition to the below.
+You agree that it is solely the Homeserver Owner's responsibility to inform you and other Authorised Users of any relevant policies and practices on their Service which come in addition to the below.
 
 ### 1.5 This Is a Living Document
 
