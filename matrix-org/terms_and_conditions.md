@@ -134,6 +134,12 @@ You agree that you shall not:
 
 Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. New Vector Ltd. offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, the {{ policy_homeserver }} service or another third-party service. You agree that you will not hold New Vector Ltd. responsible or liable with respect to the third-party services.
 
+## 6.1.1 Room Aliases on the Matrix.org Homeserver
+
+An outside organisation can claim ownership over room aliases bearing that organisation's names or identifiers. If you represent an organisation, and would like to take over a room alias for it, please [contact us](mailto:support@matrix.org).
+
+We want users on the matrix.org homeserver to be able to engage in a healthy, approachable community. To maintain a good user experience we reserve the right to remove or modify room aliases.
+
 ## 6.2 Illegal Content
 
 Any content containing or promoting indecent images/depictions of children is illegal and utterly prohibited on the Service. When we become aware of such content, we refer the details to the relevant authorities. If you've found an account, room or group being used for the distribution or promotion of child sexual exploitation, please share the details in an email to [abuse@matrix.org](mailto:abuse@matrix.org).
