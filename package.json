@@ -4,7 +4,7 @@
   "description": "Policy documents for services run by New Vector",
   "scripts": {
     "build:mkdir": "rm -rf build && mkdir -p build && cd docs && find . -type d | cpio -pd ../build",
-    "build:genhtml": "echo \"Converting md -> HTML:\"; for filename in $(cd docs && find . -name '*.md' | grep -v \"README.md\"); do echo \" - $filename -> build/${filename%???}.html\"; markdown --title \"$(echo ${filename##*/} | sed -e 's/_/ /g' | sed -e 's/.md$//' | perl -ane ' foreach $wrd ( @F ) { print ucfirst($wrd).\" \"; }')\" docs/$filename > build/${filename%???}.html; done",
+    "build:genhtml": "echo \"Converting md -> HTML:\"; for filename in $(cd docs && find . -name '*.md' | grep -v \"README.md\"); do echo \" - $filename -> build/${filename%???}.html\"; markdown-it docs/$filename > build/${filename%???}.html; done",
     "build": "npm run build:mkdir && npm run build:genhtml"
   },
   "repository": {
@@ -13,6 +13,6 @@
   },
   "author": "Thomas Lant",
   "dependencies": {
-    "markdown-to-html": "0.0.13"
+    "markdown-it": "^9.0.1"
   }
 }
