@@ -80,13 +80,9 @@ Identity Servers offer the following services:
 
 You can ask the Identity Server to link your Matrix ID with your email address or phone number. The Identity Server will verify that you own that identifier by sending a link or code to your email address or phone. Other users will not be able to look up your Matrix ID from your Third Party Identifier until your ownership of the Third Party Identifier has been confirmed.
 
-### Account Lookup by Third Party Identifier Hash
+### Account Lookup by Third Party Identifier
 
 You can look up a Matrix ID by searching for its associated Third Party Identifiers. **You cannot look up Third Party Identifiers by searching for their associated Matrix ID**. For example: if Alice has used the Identity Server to link her email, alice@example.com with her Matrix ID, @example:matrix.org, other users can look up her Matrix ID by querying the Identity Server with her email address, but _they cannot discover her email address by querying the service with her Matrix ID_.
-
-Third Party Identifiers are [hashed](https://en.wikipedia.org/wiki/Hash_function) before being submitted to the Identity Server for lookup. This means that if you ask us about a Third Party Identifier that's in our database we can tell you the associated Matrix ID, but if the Third Party Identifier is _not_ in our database it is difficult for us to know which Third Party Identifier you were asking about.
-
-N.B. this is _not_ watertight - there are techniques that can be applied to uncover the Third Party Identifier you looked up _even if it has been hashed_. If privacy is paramount to your use case, don't use Third Party Identifiers at all.
 
 The Identity Server supports both individual and bulk Third Party Identifier lookup:
 
