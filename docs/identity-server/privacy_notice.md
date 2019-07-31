@@ -2,7 +2,10 @@ TODO:
 - consistent legal entities - everything should be updated to read 'provided by New Vector on behalf of the Matrix.org Foundation'
 - do we need to make specific reference to ISes currently being used to power registration with email?
 
-# New Vector Identity Server Privacy Notice
+- New Vector Ltd and The Matrix.org Foundation are Joint Controllers of this data.
+- It's confusing to list New Vector addresses and then Matrix.org contact points.
+
+# Vector.im and matrix.org Identity Servers Privacy Notice
 
 # 1. Introduction
 
@@ -12,33 +15,44 @@ Data privacy is important, and we want you to understand the issues involved. We
 
 When you read 'the Identity Server', 'the Identity Servers', or 'the Service' below, it refers to the Identity Servers made available at https://vector.im and https://matrix.org which provide account discovery services for Matrix users.
 
-Where you read *New Vector*, *New Vector Ltd.*, *we* or *us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development: New Vector Ltd., its French subsidiary: New Vector SARL, and their agents.
+Where you read *New Vector*, *New Vector Ltd.*, *we* or *us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix's development: New Vector Ltd., its French subsidiary: New Vector SARL, and their agents.
+
+Where you read *The Matrix.org Foundation*, or *The Foundation*, it refers to the non-profit incorporated in October 2018 to be the custodians of the Matrix Protocol: The Matrix.org Foundation C.I.C. and their agents.
+
+Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
+
+## 1.2 Who Provides this Service?
+
+This service is provided by New Vector Ltd. for The Matrix.org Foundation. New Vector Ltd. and The Matrix.org Foundation are Joint Data Controllers for the Service.
 
 **This agreement does not apply to Matrix Identity Servers run by anybody else. Matrix is an open network like the Web and this agreement only applies to the Identity Servers (matrix.org and vector.im) provided by New Vector Ltd.**
 
 If this agreement is not acceptable, please use an Identity Server provided by someone else (or none at all).
 
-Email: [support@matrix.org](mailto:support@matrix.org)
+### 1.2.1 Contact Details
+
+#### New Vector Ltd.
+
+Email: [support@vector.im](mailto:support@vector.im)
 
 Postal address:
 
-10 Queen Street Place
-
-London
-
-United Kingdom
-
+10 Queen Street Place<BR>
+London<BR>
+United Kingdom<BR>
 EC4R 1AG
 
-Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
+#### The Matrix.org Foundation
 
-## 1.2 Using The Service Means Accepting These Terms
+Email: [support@matrix.org](mailto:support@matrix.org)
+
+## 1.3 Using The Service Means Accepting These Terms
 
 By accessing or using the Service in any way you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, please do not use this service. You can use an Identity Server provided by somebody else, run your own, or not use an Identity Server at all.
 
-## 1.3 This Is a Living Document
+## 1.4 This Is a Living Document
 
 With your help, we want to make our policy documents the best in the industry.
 
@@ -52,11 +66,11 @@ Your access and use of the Service is always subject to the most current version
 
 # 2. What is a Matrix Identity Server?
 
-Identity Servers support contact discovery on Matrix by letting people look up Third Party Identifiers to see if the owner has publicly linked them with their Matrix ID.
+Identity Servers support contact discovery on Matrix by letting people look up [Third Party Identifiers](#threepid) to see if the owner has publicly linked them with their Matrix ID.
 
-# 2.1 What is a Third Party Identifier?
+# <a name="threepid"></a> 2.1 What is a Third Party Identifier?
 
-A Third Party Identifier is an identifier that uniquely identifies a person, but _isn't_ a Matrix id. Most commonly this is an email address or a telephone number.
+A Third Party Identifier is an identifier that uniquely identifies a person, but _isn't_ a Matrix ID. Most commonly this is an email address or a telephone number.
 
 ## 2.2 How does it support contact discovery?
 
@@ -68,7 +82,7 @@ You can ask the Identity Server to link your Matrix ID with your email address o
 
 ### Account Lookup by Third Party Identifier Hash
 
-You can look up a Matrix ID by searching for its associated Third Party Identifiers. **You cannot look up Third Party Identifiers by searching for their associated Matrix ID**. For example: if Alice has used the Identity Server to link her email, alice@example.com with her Matrix ID, @example:matrix.org, other users can look up her Matrix ID by querying the Identity Server with her email address, but they cannot discover her email address by querying the service.
+You can look up a Matrix ID by searching for its associated Third Party Identifiers. **You cannot look up Third Party Identifiers by searching for their associated Matrix ID**. For example: if Alice has used the Identity Server to link her email, alice@example.com with her Matrix ID, @example:matrix.org, other users can look up her Matrix ID by querying the Identity Server with her email address, but _they cannot discover her email address by querying the service with her Matrix ID_.
 
 Third Party Identifiers are [hashed](https://en.wikipedia.org/wiki/Hash_function) before being submitted to the Identity Server for lookup. This means that if you ask us about a Third Party Identifier that's in our database we can tell you the associated Matrix ID, but if the Third Party Identifier is _not_ in our database it is difficult for us to know which Third Party Identifier you were asking about.
 
@@ -84,21 +98,41 @@ Individual Third Party Identifier Lookup is usually used when inviting a user to
 
 Bulk Third Party Identifier Lookup is usually used to check whether any of your existing contacts already have a Matrix ID.
 
+#### Registration with Email or Phone Number
+
+Some homeservers use the Identity Server as part of new user registration, using the Identity Server to perform the verification of ownership of the email address or phone number.
+
+**This behaviour is being phased out.** In the near future homeservers will be able to complete registration by email address without delegating ownership verification to an Identity Server. This document will be updated when this behaviour has changed.
+
+##### Binding on Registration
+
+When your client is configured to use either the vector.im or the matrix.org Identity Server and you register on a homeserver with your email address and or phone number:
+- if that homeserver is run by New Vector Ltd. (e.g. the homeserver running at matrix.org, or the [Modular](https://modular.im) homeservers), the corresponding homeserver privacy policy will advise you that said registration will also publicly link your email address and/or phone number with your Matrix ID via the Identity Server
+- if that homeserver is **not** run by New Vector Ltd. then registration will **not** publicly link your email addrss or phone number with your Matrix ID. In this case the vector.im or matrix.org Identity Server will only store your data long enough to establish your ownership of the Third Party Identifier.
+
+**This behaviour is also being phased out.** In the near future, choosing to publicly link your Third Party Identifiers with your Matrix ID via an Identity Server will be a wholly separate step, fully divorced from registration. This document will be updated when this behaviour has changed.
+
+## 2.3 Closed Federation Between vector.im and matrix.org Identity Servers
+
+Data is shared between the vector.im and matrix.org Identity Servers in a Closed Federation.
+
+This means that when you ask the Identity Server at vector.im to link your Matrix ID with your email address or phone number, this data is replicated on the matrix.org Identity Server. Likewise if you ask the Identity Server at matrix.org to link your Matrix ID with your email address or phone number, this data is replicated onto the vector.im Identity Server.
+
 # 3. Access to Your Data / Privacy Policy
 
 ## 3.1 What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation)?
 
 ### 3.1.1 Legal Basis for Processing
 
-New Vector processes your data under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*. This means that we process your data only as necessary to deliver the Service, and in a manner that you understand and expect.
+Your data is processed under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*. This means that we process your data only as necessary to deliver the Service, and in a manner that you understand and expect.
 
-The *Legitimate Interest* of our Service is the discoverability of contacts across the wider Matrix ecosystem. The processing of user data we undertake is necessary to provide the Service. **This facility is an optional component of the services provided by New Vector,** designed to make contact discovery easier. Matrix works very well without an Identity Server.
+The *Legitimate Interest* of the Service is the discoverability of contacts across the wider Matrix ecosystem. The processing of user data we undertake is necessary to provide the Service. **This facility is an optional component of the services provided by New Vector,** designed to make contact discovery easier. Matrix works very well without an Identity Server.
 
 ### 3.1.2 Right to Erasure
 
-You can remove your data from the Service at any time by using a Matrix client such as [https://riot.im/app](https://riot.im/app)) to remove your Third Party Identifiers from the connected Identity Server. The data will be rendered inaccessible straight away, and will be deleted from our database within 30 days.
+You can remove your data from the Service at any time by using a Matrix client such as ([https://riot.im/app](https://riot.im/app)) to remove your Third Party Identifiers from the connected Identity Server. The data will be rendered inaccessible across matrix.org and vector.im Identity Servers straight away, and will be deleted from the matrix.org and vector.im databases within 30 days.
 
-If your homeserver is spec-compliant (i.e. if it faithfully implements the protocol specification detailed at https://matrix.org), your Third Party Identifiers will be deleted if your account is deactivated.
+If your homeserver is spec-compliant (i.e. if it faithfully implements the Matrix protocol specification detailed at https://matrix.org/spec), your Third Party Identifiers will be deleted if your account is deactivated.
 
 ### 3.1.3 Data Portability
 
@@ -164,7 +198,7 @@ In exceptional circumstances, we may share information about you with a third pa
 
 (b) protect the security or integrity of our products and services (e.g. for a security audit),
 
-(c) protect New Vector Ltd. and our users from harm or illegal activities, or
+(c) protect New Vector Ltd., The Matrix.org Foundation, and our users from harm or illegal activities, or
 
 (d) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the serious bodily harm of any person.
 
@@ -212,9 +246,7 @@ All of our users' data for the Service currently resides in the same database cl
 
 ## 3.12 What Should I Do If I Find a Security Vulnerability in the Service?
 
-If you have discovered a security concern, please email us at [security@matrix.org](mailto:security@matrix.org). We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@matrix.org](mailto:security@matrix.org) our highest priority, and work to address any issues that arise as quickly as possible.
-
-Please act in good faith towards our users' privacy and data during your disclosure. White hat security researchers are always appreciated.
+If you have discovered a security concern, please follow the Matrix.org [Security Disclosure Policy](https://matrix.org/security-disclosure-policy/).
 
 # 4. Making a Complaint
 
