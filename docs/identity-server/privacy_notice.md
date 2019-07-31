@@ -1,11 +1,4 @@
-TODO:
-- consistent legal entities - everything should be updated to read 'provided by New Vector on behalf of the Matrix.org Foundation'
-- do we need to make specific reference to ISes currently being used to power registration with email?
-
-- New Vector Ltd and The Matrix.org Foundation are Joint Controllers of this data.
-- It's confusing to list New Vector addresses and then Matrix.org contact points.
-
-# Vector.im and matrix.org Identity Servers Privacy Notice
+# Vector.im and Matrix.org Identity Servers Privacy Notice
 
 # 1. Introduction
 
@@ -17,7 +10,7 @@ When you read 'the Identity Server', 'the Identity Servers', or 'the Service' be
 
 Where you read *New Vector*, *New Vector Ltd.*, *we* or *us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix's development: New Vector Ltd., its French subsidiary: New Vector SARL, and their agents.
 
-Where you read *The Matrix.org Foundation*, or *The Foundation*, it refers to the non-profit incorporated in October 2018 to be the custodians of the Matrix Protocol: The Matrix.org Foundation C.I.C. and their agents.
+Where you read *The Matrix.org Foundation*, or *The Foundation*, it refers to the Community Interest Company incorporated on 29 October 2018 to be the neutral custodian of the Matrix protocol: The Matrix Foundation C.I.C., and their agents.
 
 Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
 
@@ -102,8 +95,8 @@ Some homeservers use the Identity Server as part of new user registration, using
 
 ##### Binding on Registration
 
-When your client is configured to use either the vector.im or the matrix.org Identity Server and you register on a homeserver with your email address and or phone number:
-- if that homeserver is run by New Vector Ltd. (e.g. the homeserver running at matrix.org, or the [Modular](https://modular.im) homeservers), the corresponding homeserver privacy policy will advise you that said registration will also publicly link your email address and/or phone number with your Matrix ID via the Identity Server
+When your client is configured to use either the vector.im or the matrix.org Identity Server and you register on a homeserver with your email address and/or phone number:
+- if that homeserver is run by New Vector Ltd. (e.g. the homeserver running at matrix.org, or a [Modular](https://modular.im) homeserver), the corresponding homeserver privacy policy will advise you that the act of registration will _also_ publicly link your email address and/or phone number with your Matrix ID via the Identity Server
 - if that homeserver is **not** run by New Vector Ltd. then registration will **not** publicly link your email addrss or phone number with your Matrix ID. In this case the vector.im or matrix.org Identity Server will only store your data long enough to establish your ownership of the Third Party Identifier.
 
 **This behaviour is also being phased out.** In the near future, choosing to publicly link your Third Party Identifiers with your Matrix ID via an Identity Server will be a wholly separate step, fully divorced from registration. This document will be updated when this behaviour has changed.
@@ -172,9 +165,7 @@ We collect information about you when you input it into the Service or otherwise
 
 #### Third Party Identifiers you look up
 
-Third Party Identifiers you look up are hashed to make it harder (but not always impossible) for us see which Third Party Identifiers you are looking for if they are not already in our database.
-
-These hashes are logged in our load balancer logs. These logs are kept for not longer than 180 days.
+Third Party Identifiers that are looked up are logged in our application logs. These logs are kept for not longer than 180 days.
 
 #### Connection Information
 
@@ -211,6 +202,8 @@ You can view and modify your published Third Party Identifiers by using any comp
 Anyone who knows your Third Party Identifier can query the Service to see if you have publicly linked it with a Matrix ID. Queries _only work in this direction_ It is not possible for parties who only know your Matrix ID to query the service and discover your Third Party Identifiers.
 
 The association between your Matrix ID and your Third Party Identifiers is stored in New Vector Ltd. databases. This means that, unlike regular users, New Vector employees and contractors can look up your Third Party Identifiers from you Matrix ID (subject to the New Vector data access guidelines below).
+
+Employees or agents of The Matrix.org Foundation do not have access to the database (except in cases that they are also employees or agents of New Vector Ltd.).
 
 ## 3.8 What Are the Guidelines New Vector Follows When Accessing My Data?
 
