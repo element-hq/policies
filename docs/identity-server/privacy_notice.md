@@ -71,7 +71,7 @@ Identity Servers offer the following services:
 
 ### Verified Association of Matrix ID with Third Party Identifier
 
-You can ask the Identity Server to link your Matrix ID with your email address or phone number. The Identity Server will verify that you own that identifier by sending a link or code to your email address or phone. Other users will not be able to look up your Matrix ID from your Third Party Identifier until your ownership of the Third Party Identifier has been confirmed.
+You can ask the Identity Server to establish that you own your email address or phone number and associate it with your matrix ID. The Identity Server will verify that you own that identifier by sending a link or code to your email address or phone. The association is not considered valid until your ownership of the Third Party Identifier has been confirmed. 
 
 ### Account Lookup by Third Party Identifier
 
@@ -89,21 +89,27 @@ Bulk Third Party Identifier Lookup is usually used to check whether any of your 
 
 #### Registration with Email or Phone Number
 
-Some homeservers use the Identity Server as part of new user registration, using the Identity Server to perform the verification of ownership of the email address or phone number.
+Some homeservers rely upon the Identity Server for part of new user registration, using the Identity Server to perform the verification of ownership of the email address or phone number.
 
-**This behaviour is being phased out.** In the near future homeservers will be able to complete registration by email address without delegating ownership verification to an Identity Server. This document will be updated when this behaviour has changed.
+**We will be removing support for user registration from the New Vector Identity Servers.** In the near future homeservers will be able to complete registration by email address without delegating ownership verification to an Identity Server. This document will be updated when this behaviour has changed.
+
+#### Password Reset
+
+Some homeservers rely upon the Identity Server for password reset by email, using the Identity Server to send a unique link to the user to complete password reset securely.
+
+**We will be removing support for password reset from the New Vector Identity Servers.** Homeservers can already complete password reset by email without delegating to an Identity Server. Homeserver administrators should not rely on New Vector Ltd. Identity Servers for password reset.
 
 ##### Binding on Registration
 
 When your client is configured to use either the vector.im or the matrix.org Identity Server and you register on a homeserver with your email address and/or phone number:
 - if that homeserver is run by New Vector Ltd. (e.g. the homeserver running at matrix.org, or a [Modular](https://modular.im) homeserver), the corresponding homeserver privacy policy will advise you that the act of registration will _also_ publicly link your email address and/or phone number with your Matrix ID via the Identity Server
-- if that homeserver is **not** run by New Vector Ltd. then registration will **not** publicly link your email addrss or phone number with your Matrix ID. In this case the vector.im or matrix.org Identity Server will only store your data long enough to establish your ownership of the Third Party Identifier.
+- if that homeserver is **not** run by New Vector Ltd. then registration will **not** publicly link your email address or phone number with your Matrix ID. In this case the vector.im or matrix.org Identity Server will only store your data long enough to establish your ownership of the Third Party Identifier.
 
 **This behaviour is also being phased out.** In the near future, choosing to publicly link your Third Party Identifiers with your Matrix ID via an Identity Server will be a wholly separate step, fully divorced from registration. This document will be updated when this behaviour has changed.
 
 ## 2.3 Closed Federation Between vector.im and matrix.org Identity Servers
 
-Data is shared between the vector.im and matrix.org Identity Servers in a Closed Federation.
+Data is shared between the vector.im and matrix.org Identity Servers in a closed federation.
 
 This means that when you ask the Identity Server at vector.im to link your Matrix ID with your email address or phone number, this data is replicated on the matrix.org Identity Server. Likewise if you ask the Identity Server at matrix.org to link your Matrix ID with your email address or phone number, this data is replicated onto the vector.im Identity Server.
 
@@ -121,7 +127,7 @@ The *Legitimate Interest* of the Service is the discoverability of contacts acro
 
 You can remove your data from the Service at any time by using a Matrix client such as ([https://riot.im/app](https://riot.im/app)) to remove your Third Party Identifiers from the connected Identity Server. The data will be rendered inaccessible across matrix.org and vector.im Identity Servers straight away, and will be deleted from the matrix.org and vector.im databases within 30 days.
 
-If your homeserver is spec-compliant (i.e. if it faithfully implements the Matrix protocol specification detailed at https://matrix.org/spec), your Third Party Identifiers will be deleted if your account is deactivated.
+If your homeserver is spec-compliant (i.e. if it faithfully implements the Matrix protocol specification detailed at [https://matrix.org/spec](https://matrix.org/spec)), your Third Party Identifiers will be deleted if your account is deactivated.
 
 ### 3.1.3 Data Portability
 
@@ -151,7 +157,7 @@ For more details about these rights, please see [the guidance provided by the IC
 
 ## 3.2 What Information Do You Collect About Me and Why?
 
-### **The information we collect is purely for the purpose of letting people discover Matrix IDs that have been publicly linked with a Third Party Identifier (such as email or telephone number). We do ****not**** profile users or their data on the Service.**
+The information we collect is purely for the purpose of letting people discover Matrix IDs that have been publicly linked with a Third Party Identifier (such as email or telephone number). We do **not** profile users or their data on the Service.
 
 ### 3.2.1 Information you provide to us:
 
@@ -165,7 +171,7 @@ We collect information about you when you input it into the Service or otherwise
 
 #### Third Party Identifiers you look up
 
-Third Party Identifiers that are looked up are logged in our application logs. These logs are kept for not longer than 180 days.
+Third Party Identifiers that are looked up are logged in our application logs. These logs are kept for not longer than 180 days. This will change soon - once [https://github.com/matrix-org/sydent/issues/189](https://github.com/matrix-org/sydent/issues/189) lands we will no longer include looked-up Third Party Identifiers in the application logs.
 
 #### Connection Information
 
