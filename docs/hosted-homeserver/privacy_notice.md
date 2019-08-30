@@ -35,7 +35,7 @@ Should you have other questions or concerns about this document, please send us 
 
 This document explains Data Privacy to the Users of the {{ hhs_name }}.{{ hhs_server_domain }} homeserver.
 
-### 1.3 The Customer and The User
+### 1.3 The Customer and The User
 
 Put simply, you're a Customer if you're paying (or otherwise compensating) New Vector Ltd to provide a hosted messaging service. If you have an account registered on {{ hhs_name }}.{{ hhs_server_domain }} that you use to send and receive messages, you're a User.
 
