@@ -56,7 +56,7 @@ New Vector processes your data under our *[Legitimate Interest](https://ico.org.
 
 We process your information for the purposes of providing our decentralised, openly-federated and (optionally) end-to-end encrypted communication Service, getting in touch with you, responding to your requests, working with our suppliers to deliver the Service and enabling its features, ensuring the security of our Service, developing, fixing and improving our Service, administering our business and complying with the law.
 
-The nature of the Service and its implementation results in some  caveats concerning this processing, particularly in terms of GDPR Article 17 *Right to Erasure (Right to be Forgotten)*. We believe these caveats (discussed in the section below in detail) are in line with the broader societal interests served by providing the Service.
+The nature of the Service and its implementation results in some caveats concerning this processing, particularly in terms of GDPR Article 17 *Right to Erasure (Right to be Forgotten)*. We believe these caveats (discussed in the section below in detail) are in line with the broader societal interests served by providing the Service.
 
 In situations where the interests of the individual appear to be in conflict with the broader societal interests, we will seek to reconcile those differences guided by our policy.
 
