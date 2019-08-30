@@ -32,13 +32,13 @@ Should you have other questions or concerns about this document, please send us 
 
 This document explains Data Privacy as it relates to _Modular Customers_. Modular Customers use Modular to provision and manage hosted homeservers. Apart from where otherwise noted, this document does **not** address Data Privacy issues relating to the messaging and file data submitted by Users to the hosted homeserver instances.
 
-### 1.2 The Customer and The User
+### 1.3 The Customer and The User
 
 This document is designed to explain Data Privacy issues relating to a Modular Customer. Put simply, you're a Customer if you're paying (or otherwise compensating) New Vector Ltd to provide a dedicated hosted messaging service. If you have an account registered on a homeserver that you use to send and receive messages, you're a User.
 
 It is possible to be both a Customer and a User, but we encourage you to consider these roles separately when thinking about Data Privacy concerns.
 
-### 1.3 Changes to This Document
+### 1.4 Changes to This Document
 
 Over time we may make changes to this document. If we make a material change we will provide the Customer with reasonable notice prior to the change. We will set forth the date upon which the changes will become effective; any use of Modular by the Customer, or any use of a hosted homserver by a User will constitute the Customer's acceptance of these changes.
 
