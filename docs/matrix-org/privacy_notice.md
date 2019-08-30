@@ -6,15 +6,17 @@ Please read this document carefully before accessing or using this service!
 
 ## 1.1 English, Not Legalese
 
-Most Terms of Use and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
+Most Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 
 Data privacy is important, and we want you to understand the issues involved. For that reason we decided to use plain English instead as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
 When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
+The public Matrix Network is a _decentralised_ and _openly federated_ communication network. This means that user messages are replicated on each participant's server and messages posted to a room are visible to all participants including in some cases any new joiners. This is further explained at 2.3.
 
-If this agreement is not acceptable, please use a Matrix server provided by someone else!
+Where you read *New Vector*, *New Vector Ltd.* or *we*, *our*, or *us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
+
+**The Matrix protocol is licensed by the Matrix Foundation which makes it available to third parties who set up their own homeserver. This privacy notice does not apply to such Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
 
 New Vector Ltd. is the Data Controller for the Service. We can be contacted as per the details below:
 
@@ -32,21 +34,15 @@ EC4R 1AG
 
 Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
 
-## 1.2 Using The Service Means Accepting These Terms
-
-By accessing or using the Service in any way, whether you have created a Matrix account on the {{ policy_homeserver }} homeserver, or whether you are accessing content federated from the {{ policy_homeserver }} homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, you agree to and are bound by the terms and conditions written in this document.
-
-If you do not agree to all of the terms and conditions contained in this document, please use a Matrix server provided by someone else and refrain from accessing content federated from this server.
-
-## 1.3 This Is a Living Document
+## 1.2 This Is a Living Document
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@matrix.org and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@matrix.org](mailto:support@matrix.org) and we'll chat.
 
 We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
-We will likely improve this document over time. By continuing to use the Service, you will implicitly accept the changes we make.
+We will likely improve this document over time and we will take steps to inform our users about any updates. By continuing to use the Service, you will implicitly accept the changes we make.
 
 Your access and use of the Service is always subject to the most current version of this document.
 
@@ -56,9 +52,11 @@ Your access and use of the Service is always subject to the most current version
 
 ### 2.1.1 Legal Basis for Processing
 
-New Vector processes your data under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*. This means that we process your data only as necessary to deliver the Service, and in a manner that you understand and expect.
+New Vector processes your data under our *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)* to provide our Service to you in a an efficient and secure manner and to ensure the legal compliance and proper administration of our business. Essentially, this means that we process your data only as necessary to deliver the Service and for internal administration purposes,, and in a manner that you understand and expect. We also carry out processing that is necessary to provide our Service to you under our Matrix.org Homeserver Terms and Conditions and processing that is necessary to comply with our legal obligations. Where consent is required by law in relation to certain processing, we will ask for your consent.
 
-The *Legitimate Interest* of our Service is the provision of decentralised, openly-federated and (optionally) end-to-end encrypted communication services. The processing of user data we undertake is necessary to provide the Service. The nature of the Service and its implementation results in some  caveats concerning this processing, particularly in terms of  GDPR Article 17 *Right to Erasure (Right to be Forgotten)*. We believe these caveats (discussed in the section below in detail) are in line with the broader societal interests served by providing the Service.
+We process your information for the purposes of providing our decentralised, openly-federated and (optionally) end-to-end encrypted communication Service, getting in touch with you, responding to your requests, working with our suppliers to deliver the Service and enabling its features, ensuring the security of our Service, developing, fixing and improving our Service, administering our business and complying with the law.
+
+The nature of the Service and its implementation results in some  caveats concerning this processing, particularly in terms of GDPR Article 17 *Right to Erasure (Right to be Forgotten)*. We believe these caveats (discussed in the section below in detail) are in line with the broader societal interests served by providing the Service.
 
 In situations where the interests of the individual appear to be in conflict with the broader societal interests, we will seek to reconcile those differences guided by our policy.
 
@@ -96,13 +94,13 @@ You have rights in relation to the personal data we hold about you. Some of thes
 
 8. Rights in relation to automated decision making and profiling.
 
-For more details about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or are unsure how to exercise your rights, please contact us at [support@matrix.org](mailto:support@matrix.org).
+We may ask for proof of identity before responding to your request. For more details about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or are unsure how to exercise your rights, please contact us at [support@matrix.org](mailto:support@matrix.org).
 
 ## 2.2 What Information Do You Collect About Me and Why?
 
-### **The information we collect is purely for the purpose of providing your communication service via Matrix. We do ****not**** profile users or their data on the Service.**
+**The information we collect is purely for the purpose of providing your communication service via Matrix. We do ****not**** profile users or their data on the Service.**
 
-### Be aware that while we do not profile users on the Service, Matrix clients may gather usage data - for instance Riot.im (the Matrix client provided by New Vector Ltd) optionally gathers anonymised opt-in usage data in order to improve the app.
+Be aware that while we do not profile users on the Service, third party Matrix clients may gather usage data. Riot.im (the Matrix client provided by New Vector Ltd) optionally gathers opt-in anonymised usage data in order to improve the app. This data is retained for not longer than 13 months.
 
 ### 2.2.1 Information you provide to us:
 
@@ -124,6 +122,8 @@ We collect information about you when you register for an account. This informat
 
 Your username and password is used to authenticate your access to the Service and to uniquely identify you within the Service.
 
+Your password is stored until you change it or your account is deactivated (see 2.5 for details on how passwords are handled securely). Your username is stored indefinitely to avoid account recycling.
+
 Your email address and/or telephone number, if you choose to provide them, are used so that other users can look up your Matrix ID from these identifiers. We will also use your email address to let you reset your password if you forget it, and to send you notifications about missed messages from users trying to contact you on Matrix if you enable the option. We may also send you infrequent urgent messages about platform updates.
 
 #### Content you provide through using the Service
@@ -132,7 +132,7 @@ We store and distribute the messages and files you share using the Service (and 
 
 This content includes any information about yourself that you choose to share.
 
-### 2.2.2 Information we collect automatically as you use the service:
+### 2.2.2 Information we collect automatically as you use the Service:
 
 #### Device and Connection Information
 
@@ -146,19 +146,21 @@ Currently, we log the IP addresses of everyone who accesses the Service. This da
 
 ### 2.3.1 Sharing Data with Connected Services
 
-The {{ policy_homeserver }} homeserver is a *decentralised* and *open* service. This means that, to support communication between users on different homeservers or different messaging platforms, your username, display name and messages and files are sometimes shared with other services that are connected with the {{ policy_homeserver }} homeserver.
+We may share you information when working with our suppliers and the Matrix Foundation to provide the Service.
+
+In addition, the {{ policy_homeserver }} homeserver is a *decentralised* and *open* service. This means that, to support communication between users on different homeservers or different messaging platforms, your username, display name and messages and files are sometimes shared with other services that are connected with the {{ policy_homeserver }} homeserver.
 
 #### Federation
 
 Matrix homeservers share user data with the wider ecosystem over federation.
 
-* When you send messages or files in a room, a copy of the data is sent to all participants in the room. If these participants are on remote homeservers, your username, display name, messages and files may be replicated across each participating homeserver.
+* When you send messages or files in a room, a copy of the data is sent to all participants in the room, including (depending on room settings) participants who join the room in future. If these participants are on remote homeservers, your username, display name, messages and files may be replicated across each participating homeserver.
 
 * We will forget your copy of your data upon your request. We will also forward your request to be forgotten onto federated homeservers. However - these homeservers are outside our span of control, so we cannot guarantee they will forget your data.
 
 * Federated homeservers can be located anywhere in the world, and are subject to local laws and regulations.
 
-Access control settings are shared between homeservers, as well as any requests to remove messages by "redactions", or remove personal data under GDPR Article 17 *Right to Erasure (Right to be Forgotten)*. Federated homeservers and Matrix clients which respect the Matrix protocol are asked to honour these controls and redaction/erasure requests, but other federated homeservers are outside of the span of control of New Vector Ltd., and we cannot guarantee how this data will be processed. Federated homeservers can also be located in any territory, and will be subject to the local regulations of that territory. We recommend the use of end-to-end encryption to protect your message and file data over federation, and in future [intend to enable end-to-end encryption by default](https://github.com/vector-im/riot-web/issues/6779). If the way in which data is shared is not acceptable to you, please use a different server or service.
+Access control settings are shared between homeservers, as well as any requests to remove messages by "redactions", or remove personal data under GDPR Article 17 *Right to Erasure (Right to be Forgotten)*. Federated homeservers and Matrix clients which respect the Matrix protocol are expected to honour these controls and redaction/erasure requests, but other federated homeservers are outside of the span of control of New Vector Ltd., and we cannot guarantee how this data will be processed. Federated homeservers can also be located in any territory, and will be subject to the local regulations of that territory. We recommend the use of end-to-end encryption to protect your message and file data over federation, and in future [intend to enable end-to-end encryption by default](https://github.com/vector-im/riot-web/issues/6779).
 
 #### Bridging
 
@@ -173,6 +175,12 @@ Access control settings, requests to remove messages by "redactions" or remove p
 #### Integration Services (Bots and Widgets)
 
 The {{ policy_homeserver }} homeserver provides a range of integrations in the form of Widgets (miniature web applications accessed as part of a Matrix Client) and Bots (automated participants in rooms). Bots and Widgets currently have access to all the messages and files in any room in which they participate, although we are adding a more sophisticated access control system.
+
+### Transfers of your Data
+
+If you use our Service your data will be transferred outside of the UK to other homeservers and services connected with matrix.org as this is necessary to provide the Service to you. By the very nature of our Service, such transfers will occur regularly and we have no control over the safeguards adopted by third party recipients.
+
+Where we engage suppliers to process your data outside the UK we will ensure that appropriate safeguards such as the standard contractual clauses are in place.
 
 ## 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights
 
@@ -192,7 +200,7 @@ We never store password data in plain text; instead they are stored hashed (with
 
 It is your sole responsibility to keep your user name, password and other sensitive information confidential. Actions taken using your credentials shall be deemed to be actions taken by you, with all consequences including service termination, civil and criminal penalties.
 
-If you become aware of any unauthorized use of your account or any other breach of security, you must notify New Vector Ltd. immediately by sending an email to [security@matrix.org](mailto:security@matrix.org). Suspicious devices can be deleted using the User Settings management tools in a Matrix client such as [https://riot.im/app](https://riot.im/app), and users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised. 
+If you become aware of any unauthorised use of your account or any other breach of security, you must notify New Vector Ltd. immediately by sending an email to [security@matrix.org](mailto:security@matrix.org). Suspicious devices can be deleted using the User Settings management tools in a Matrix client such as [https://riot.im/app](https://riot.im/app), and users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised. 
 
 If you forget your password (and you have registered an email address) you can use the password reset facility to reset it.
 
@@ -212,7 +220,7 @@ You can access all your personally identifiable information that we collect by u
 
 In unencrypted and encrypted rooms, users connecting to the {{ policy_homeserver }} homeserver (directly or over federation) will be able to see messages and files according to the access permissions configuration of the relevant room. This data is stored in the format it was received on our servers, and can be viewed by New Vector engineers (employees and contractors) under the conditions outlined below.
 
-In encrypted rooms, the data is stored in our databases but the encryption keys are stored only on your devices or by yourself. In future we may allow users to optionally backup an encrypted copy of their keys on the Service to aid recovery if they lose all their keys and devices. This key backup would be encrypted by a recovery key that only the user has access to. This means that nobody, even New Vector engineers (employees and contractors) can see your message content in our database, and if you lose access to your encryption keys you lose access to your messages forever.
+In encrypted rooms, the data is stored in our databases but the encryption keys are stored only on your devices or by yourself. Users can optionally backup an encrypted copy of their keys on the Service to aid recovery if they lose all their keys and devices. This key backup is encrypted by a recovery key that only the user has access to. This means that nobody, even New Vector engineers (employees and contractors) can see your message content in our database, and if you lose access to your encryption keys you lose access to your messages forever.
 
 We use HTTPS to transfer all data. End-to-end encrypted messaging data is stored encrypted using AES-256, using message keys generated using the [Olm and Megolm cryptographic ratchets](https://matrix.org/blog/2016/11/21/matrixs-olm-end-to-end-encryption-security-assessment-released-and-implemented-cross-platform-on-riot-at-last/).
 
@@ -244,7 +252,7 @@ If we or substantially all of our assets are acquired by a third party, personal
 
 ## 2.12 How Is My Data Protected from Another User's Data?
 
-All of our users' data for the Service currently resides in the same database cluster. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our user data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts their user data on the same database, we cannot guarantee that it is immune to a sophisticated attack.
+All of our users' data for the Service currently resides in the same database cluster which is due to the nature of our Service. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our user data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts their user data on the same database, we cannot guarantee that it is immune to a sophisticated attack.
 
 ## 2.13 What Should I Do If I Find a Security Vulnerability in the Service?
 
@@ -261,6 +269,8 @@ If you want to make a complaint about the way we have processed your personal in
 # 4. Document History
 
 * 2018, March 28: created.
+
+* 2019, August 22: revised.
 
 **A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
 
