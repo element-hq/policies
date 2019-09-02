@@ -52,7 +52,7 @@ Your access and use of the Service is always subject to the most current version
 
 ### 2.1.1 Legal Basis for Processing
 
-New Vector processes your data under our *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)* to provide our Service to you in a an efficient and secure manner and to ensure the legal compliance and proper administration of our business. Essentially, this means that we process your data only as necessary to deliver the Service and for internal administration purposes,, and in a manner that you understand and expect. We also carry out processing that is necessary to provide our Service to you under our Matrix.org Homeserver Terms and Conditions and processing that is necessary to comply with our legal obligations. Where consent is required by law in relation to certain processing, we will ask for your consent.
+New Vector processes your data under our *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)* to provide our Service to you in a an efficient and secure manner and to ensure the legal compliance and proper administration of our business. Essentially, this means that we process your data only as necessary to deliver the Service and for internal administration purposes, and in a manner that you understand and expect. We also carry out processing that is necessary to provide our Service to you under our Matrix.org Homeserver Terms and Conditions and processing that is necessary to comply with our legal obligations. Where consent is required by law in relation to certain processing, we will ask for your consent.
 
 We process your information for the purposes of providing our decentralised, openly-federated and (optionally) end-to-end encrypted communication Service, getting in touch with you, responding to your requests, working with our suppliers to deliver the Service and enabling its features, ensuring the security of our Service, developing, fixing and improving our Service, administering our business and complying with the law.
 
@@ -146,7 +146,7 @@ Currently, we log the IP addresses of everyone who accesses the Service. This da
 
 ### 2.3.1 Sharing Data with Connected Services
 
-We may share you information when working with our suppliers and the Matrix Foundation to provide the Service.
+We may share your information when working with our suppliers and the Matrix Foundation to provide the Service.
 
 In addition, the {{ policy_homeserver }} homeserver is a *decentralised* and *open* service. This means that, to support communication between users on different homeservers or different messaging platforms, your username, display name and messages and files are sometimes shared with other services that are connected with the {{ policy_homeserver }} homeserver.
 
@@ -178,9 +178,9 @@ The {{ policy_homeserver }} homeserver provides a range of integrations in the f
 
 ### Transfers of your Data
 
-If you use our Service your data will be transferred outside of the UK to other homeservers and services connected with matrix.org as this is necessary to provide the Service to you. By the very nature of our Service, such transfers will occur regularly and we have no control over the safeguards adopted by third party recipients.
+If you use our Service your data will be transferred outside of the EU to other homeservers and services connected with matrix.org as this is necessary to provide the Service to you. By the very nature of our Service, such transfers will occur regularly and we have no control over the safeguards adopted by third party recipients.
 
-Where we engage suppliers to process your data outside the UK we will ensure that appropriate safeguards such as the standard contractual clauses are in place.
+Where we engage suppliers to process your data outside the EU we will ensure that appropriate safeguards such as the standard contractual clauses are in place.
 
 ## 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights
 
