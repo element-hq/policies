@@ -30,9 +30,9 @@ Email: [support@vector.im](mailto:support@vector.im)
 
 Postal address:
 
-10 Queen Street Place<BR>
-London<BR>
-United Kingdom<BR>
+10 Queen Street Place  
+London  
+United Kingdom  
 EC4R 1AG
 
 ##### The Matrix.org Foundation C.I.C.
@@ -63,11 +63,11 @@ It is an online store at which you can purchase Matrix.org-branded merchandise, 
 
 ## 3. Access to Your Data / Privacy Policy
 
-### 3.1 What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation
+### 3.1 What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation)
 
 #### 3.1.1 Legal Basis for Processing
 
-Your data is processed under *[Performance of Contract](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/)*. This means that we process your data in order to fulfill orders you make from us.
+Your data is processed under *[Performance of Contract](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/)*. This means that we process your data for the purposes of fulfilling orders you make from us, getting in touch with you, responding to your requests, working with our suppliers to deliver the Service and enabling its features, ensuring the security of our Service, developing, fixing and improving our Service, administering our business and complying with the law.
 
 #### 3.1.2 Your Rights as Data Subject
 
