@@ -116,4 +116,4 @@ else:
                 version.commit,
                 version_number,
                 destination_filepath), file=sys.stderr)
-            f.writelines('\n'.join(version.text))
+            f.writelines(['%s\n' % line for line in version.text])
