@@ -53,11 +53,7 @@ def get_meta(text):
     # We want to ignore empty lines for the purposes of extracting metadata
     text = [line for line in text
             if line.strip()]
-    for line in text:
-        print(line)
-
     index = [i for i, j in enumerate(text) if j == '---']
-    print(index)
 
     if len(index) != 2:
         return {}
