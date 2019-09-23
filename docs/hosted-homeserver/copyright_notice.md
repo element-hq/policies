@@ -1,6 +1,5 @@
 --
 title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Copyright Notice
-slug: Copyright Notice
 version: 1.0.0
 ---
 

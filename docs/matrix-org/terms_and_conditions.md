@@ -1,7 +1,6 @@
 ---
 title: {{ policy_homeserver }} Homeserver Terms and Conditions
 slug: Homeserver Terms and Conditions
-version: 1.0.0
 ---
 
 Please read this document carefully before accessing or using this service!
