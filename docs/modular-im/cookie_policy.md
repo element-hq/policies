@@ -1,6 +1,5 @@
 ---
 title: Modular.im Cookie Policy
-slug: Modular.im Cookie Policy
 version: 1.0.0
 ---
 

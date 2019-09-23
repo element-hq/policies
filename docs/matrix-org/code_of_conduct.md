@@ -1,6 +1,5 @@
 ---
 title: Matrix Code of Conduct
-slug: Matrix Code of Conduct
 version: 1.0.0
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Riot.im Cookie Policy
-slug: Privacy Notice
 version: 1.0.0
 ---
 

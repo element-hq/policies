@@ -1,6 +1,5 @@
 ---
 title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Policy for Exceptional Exercising of Right To Erasure on State Events
-slug: Exceptional Erasure Policy
 version: 1.0.0
 ---
 

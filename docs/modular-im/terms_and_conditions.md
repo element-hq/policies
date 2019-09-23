@@ -1,6 +1,5 @@
 ---
 title: Hosted Homeserver Customer Terms and Conditions
-slug: Privacy Notice
 version: 1.0.0
 ---
 

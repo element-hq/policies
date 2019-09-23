@@ -1,6 +1,5 @@
 ---
 title: Riot.im Privacy Notice
-slug: Riot.im Privacy Notice
 version: 1.0.0
 ---
 

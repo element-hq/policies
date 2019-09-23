@@ -1,6 +1,5 @@
 ---
 title: Modular.im Customer Privacy Notice
-slug: Privacy Notice
 version: 1.0.0
 ---
 

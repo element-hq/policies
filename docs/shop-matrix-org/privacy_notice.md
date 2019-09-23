@@ -1,6 +1,5 @@
 ---
 title: Matrix.org Shop Privacy Notice
-slug: Matrix.org Shop Privacy Notice
 version: 1.0.0
 section: legal
 ---

@@ -1,6 +1,5 @@
 ---
 title: {{ policy_homeserver }} Homeserver Privacy Notice
-slug: Homeserver Privacy Notice
 version: 1.1.0
 ---
 

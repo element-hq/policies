@@ -1,6 +1,5 @@
 ---
 title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver User Terms and Conditions
-slug: Homeserver User Terms and Conditions
 version: 1.0.0
 ---
 

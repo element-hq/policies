@@ -1,6 +1,5 @@
 ---
 title: Vector.im and Matrix.org Identity Servers Privacy Notice
-slug: Privacy Notice
 version: 1.0.0
 ---
 

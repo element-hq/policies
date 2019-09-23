@@ -1,6 +1,5 @@
 ---
 title: {{ policy_homeserver }} Policy for Exceptional Exercising of Right To Erasure on State Events
-slug: Exceptional Erasure Policy
 version: 1.0.0
 ---
 

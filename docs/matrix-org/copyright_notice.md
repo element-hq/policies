@@ -1,6 +1,5 @@
 ---
 title: {{ policy_homeserver }} Copyright Notice
-slug: Copyright Notice
 version: 1.0.0
 ---
 
