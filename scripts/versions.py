@@ -28,6 +28,13 @@ args = parser.parse_args()
 
 Version = namedtuple('Version', ['commit', 'meta', 'text'])
 
+# If an old commit represents a given version of the doc, but we didn't include
+# the proper metadata at the time:
+SPECIAL_CASES = {
+    ('docs/matrix-org/privacy_notice.md', u'e18d9496a02f4da40a823adadfefc54c5dd5f3b9'):
+        {'version': '1.0.0'}
+}
+
 def list_commits(filepath):
     command_output = check_output(['git',
                                    'log',
@@ -76,6 +83,12 @@ def get_version(filepath, commit):
     # Either subprocess or git show is adding an extra newline at the end; let's
     # get rid of it.
     text = command_output.split('\n')[0:-1]
+
+    if (filepath, commit) in SPECIAL_CASES:
+        return Version(commit=commit,
+                meta=SPECIAL_CASES[(filepath, commit)],
+                text=text)
+
     meta = get_meta(text)
     return Version(commit=commit,
                    meta=meta,
