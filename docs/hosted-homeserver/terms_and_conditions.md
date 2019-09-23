@@ -1,4 +1,8 @@
-# {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver User Terms and Conditions
+---
+title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver User Terms and Conditions
+slug: Homeserver User Terms and Conditions
+version: 1.0.0
+---
 
 These User Terms and Conditions ('User Terms') describe your rights and responsibilities when using the services enabled by the {{ hhs_name }}.{{ hhs_server_domain }} Homeserver. Please read this document carefully before accessing or using this service!
 
@@ -10,7 +14,7 @@ Most Terms of Use and Privacy Policy documents are unreadable. They are written 
 
 We decided to use plain English as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
-### 1.2 Definition of Terms
+### 1.2 Definition of Terms
 
 You have been invited, or you have registered freely, to use a communication service which is controlled by a 'Homeserver Owner'. You are as such an 'Authorised User' of this service. The Homeserver Owner is the organisation represented by the individual who signed up to provision the Service, or the individual themselves if they are not affiliated to any organisation.
 

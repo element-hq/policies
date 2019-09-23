@@ -1,7 +1,8 @@
 ---
-section: legal
-version: v1.0
 title: Matrix.org Shop Privacy Notice
+slug: Matrix.org Shop Privacy Notice
+version: 1.0.0
+section: legal
 ---
 
 ## 1. Introduction

@@ -1,6 +1,10 @@
-# {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Policy for Exceptional Exercising of Right To Erasure on State Events
+---
+title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Policy for Exceptional Exercising of Right To Erasure on State Events
+slug: Exceptional Erasure Policy
+version: 1.0.0
+---
 
-# 1. Introduction
+## 1. Introduction
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This policy does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this policy only applies to the server ({{ hhs_name }}.{{ hhs_server_domain }}) provided by New Vector Ltd.**
 
@@ -8,7 +12,7 @@ The legal basis for our processing Personal Data, the reasons for there being re
 
 This document serves to detail how we decide what to do in the event of the interests of an individual user appearing to be in conflict with the broader societal interests.
 
-# 2. How we decide
+## 2. How we decide
 
 As described in the [full {{ hhs_name }}.{{ hhs_server_domain }} Privacy Notice](http://{{ hhs_name }}.{{ hhs_client_domain }}/privacy_policy/en/privacy_notice.html), erasing state events is very damaging to the integrity of a Matrix conversation.
 
@@ -26,6 +30,6 @@ The Personal Data contained in a state event is usually limited to the username,
 
 Each case will be decided based on the factors listed above. In most situations we will not erase state events. In extreme situations, where not erasing state events will place people at material risk of harm, we may choose to erase state events or remove the entire conversation.
 
-# 3. Contacting Us
+## 3. Contacting Us
 
 If you would like us to consider erasing state events containing your Personal Data, please get in touch at [support@modular.im](mailto:support@modular.im).

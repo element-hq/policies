@@ -1,4 +1,8 @@
-# {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Copyright Notice
+--
+title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Copyright Notice
+slug: Copyright Notice
+version: 1.0.0
+---
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
 

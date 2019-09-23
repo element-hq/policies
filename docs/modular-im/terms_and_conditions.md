@@ -1,4 +1,8 @@
-# Hosted Homeserver Customer Terms and Conditions
+---
+title: Hosted Homeserver Customer Terms and Conditions
+slug: Privacy Notice
+version: 1.0.0
+---
 
 These Hosted Homeserver Customer Terms and Conditions ('Customer Terms') govern your use and access of our Services.  Authorised Users are bound by the Users Terms and Conditions ('Users Terms'). Please read this document carefully before accessing or using this service!
 
