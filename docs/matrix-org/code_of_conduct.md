@@ -1,4 +1,8 @@
-# Matrix Code of Conduct
+---
+title: Matrix Code of Conduct
+slug: Matrix Code of Conduct
+version: 1.0.0
+---
 
 This code of conduct outlines our expectations for participants within the Matrix community, as well as steps for reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all, and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.
 

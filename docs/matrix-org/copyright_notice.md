@@ -1,4 +1,8 @@
-# {{ policy_homeserver }} Copyright Notice
+---
+title: {{ policy_homeserver }} Copyright Notice
+slug: Copyright Notice
+version: 1.0.0
+---
 
 Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
 

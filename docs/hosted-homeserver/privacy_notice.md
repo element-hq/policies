@@ -1,4 +1,8 @@
-# {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver Privacy Notice
+---
+title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver Privacy Notice
+slug: Homeserver Privacy Notice
+version: 1.0.0
+---
 
 Please read this document carefully before accessing or using this service!
 

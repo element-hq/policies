@@ -1,4 +1,8 @@
-# Modular.im Customer Privacy Notice
+---
+title: Modular.im Customer Privacy Notice
+slug: Privacy Notice
+version: 1.0.0
+---
 
 Please read this document carefully before accessing or using this service!
 
@@ -20,10 +24,10 @@ New Vector Ltd. is both the Data Controller and the Data Processor for Modular. 
 
 Email: [support@matrix.org](mailto:support@matrix.org)
 
-Postal address:
-10 Queen Street Place
-London
-United Kingdom
+Postal address:  
+10 Queen Street Place  
+London  
+United Kingdom  
 EC4R 1AG
 
 Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
