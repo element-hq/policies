@@ -25,6 +25,12 @@ Identity servers and integration managers manage tracking subjects' 'accepted te
 
 `/scripts/versions.py` will mine the github commit history for a given document and output a file representing the most recent state of that document for each numbered version. `versions.py` doesn't handle templating or markdown->html.
 
+To apply this to all of the policy docs:
+
+```
+for FILE in $(find docs -name '*.md' | grep -v README.md); do ./scripts/versions.py $FILE; done;
+```
+
 ## Building the Docs
 
 This section needs some work. You can generate a full set of html docs from the .md source using:
