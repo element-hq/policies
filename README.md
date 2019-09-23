@@ -15,7 +15,6 @@ Versioning metadata is stored in the top of the policy doc - each doc has a meta
 ```
 ---
 title: Document Title
-slug: Document Title
 version 1.0.0
 ---
 ```
