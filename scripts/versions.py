@@ -32,7 +32,8 @@ Version = namedtuple('Version', ['commit', 'meta', 'text'])
 # the proper metadata at the time:
 SPECIAL_CASES = {
     ('docs/matrix-org/privacy_notice.md', u'e18d9496a02f4da40a823adadfefc54c5dd5f3b9'):
-        {'version': '1.0.0'}
+        {'version': '1.0.0',
+         'title': 'title: {{ policy_homeserver }} Homeserver Privacy Notice'}
 }
 
 def list_commits(filepath):
@@ -46,7 +47,7 @@ def list_commits(filepath):
     return commits
 
 
-def get_meta(text):
+def parse(text):
     """Metadata, if present, appears at the top of the markdown file, as key/value
     pairs, sandwiched between two rows of `---`, e.g.:
     ```
@@ -57,23 +58,23 @@ def get_meta(text):
     ```
     """
 
-    # We want to ignore empty lines for the purposes of extracting metadata
-    text = [line for line in text
-            if line.strip()]
+    # Remove any preceeding empty lines:"
+    while not text[0].strip():
+        text.pop(0)
     index = [i for i, j in enumerate(text) if j == '---']
 
     if len(index) != 2:
-        return {}
+        return ({}, text)
 
     [metastart, metaend] = index
     if metastart != 0:
-        return {}
+        return ({}, text)
 
     # Ladies and gentlemen - we have a file with meta.
     meta = dict([[x.strip() for x in line.split(':')]
                  for line
                  in text[metastart+1:metaend]])
-    return meta
+    return (meta, text[metaend+1:])
 
 
 def get_version(filepath, commit):
@@ -89,10 +90,10 @@ def get_version(filepath, commit):
                 meta=SPECIAL_CASES[(filepath, commit)],
                 text=text)
 
-    meta = get_meta(text)
+    meta, metaless_text = parse(text)
     return Version(commit=commit,
                    meta=meta,
-                   text=text)
+                   text=metaless_text)
 
 
 def versioned_filename(filepath, version):
@@ -102,12 +103,43 @@ def versioned_filename(filepath, version):
     return '%s-%s.%s' % (name, version, extension)
 
 
+def compare_version_strings(a, b):
+    a = [int(x) for x in a.split('.')]
+    b = [int(x) for x in b.split('.')]
+
+    for i in range(len(max(a,b))):
+        a_part = a[i] if len(a) > i else 0
+        b_part = b[i] if len(b) > i else 0
+        if cmp(a_part, b_part) != 0:
+            return cmp(a_part, b_part)
+    return 0
+
+
+def write_file(path, filename, version):
+    if not os.path.exists(path):
+        os.makedirs(path)
+    destination_filepath = '%s/%s' % (path, filename)
+    with open(destination_filepath, 'w') as f:
+        f.write('---\n')
+        for key, value in version.meta.items():
+            f.write('%s: %s\n' % (key, value))
+        f.write('---\n')
+        f.writelines(['%s\n' % line.encode('utf-8') for line in version.text])
+
+
 versions = {}
 for commit in list_commits(args.filepath):
     version = get_version(args.filepath, commit)
     version_number = version.meta.get('version', args.unversioned)
     if version_number is not None:
         versions[version_number] = version
+
+max_major_versions = {}
+for version_number in versions.keys():
+    major_version = version_number.split('.')[0]
+    if compare_version_strings(version_number,
+            max_major_versions.get(major_version, '0')) > 0:
+        max_major_versions[major_version] = version_number
 
 if len(versions) == 0:
     print('%s: no versions found' % args.filepath, file=sys.stderr)
@@ -118,15 +150,21 @@ else:
         # of the output dir (defaulting to `versions`) can mirror the source `docs`
         # directory.
         path = '%s/%s' % (args.destination, os.path.dirname(args.filepath)[len('docs/'):])
-        if not os.path.exists(path):
-            os.makedirs(path)
-        destination_filepath = '%s/%s' % (
-                path,
-                versioned_filename(args.filepath, version_number)
-                )
-        with open(destination_filepath, 'w') as f:
-            print('%s v%s -> %s' % (
+        filenames = [versioned_filename(
+            args.filepath,
+            version_number
+            )]
+        if version_number in max_major_versions.values():
+            filenames.append(versioned_filename(
+                args.filepath,
+                version_number.split('.')[0])
+            )
+
+        for filename in filenames:
+            print('%s v%s -> %s/%s' % (
                 version.commit,
                 version_number,
-                destination_filepath), file=sys.stderr)
-            f.writelines(['%s\n' % line.encode('utf-8') for line in version.text])
+                path,
+                filename), file=sys.stderr)
+            write_file(path, filename, version)
+
