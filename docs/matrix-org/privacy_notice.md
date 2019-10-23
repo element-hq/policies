@@ -149,7 +149,7 @@ Currently, we log the IP addresses of everyone who accesses the Service. This da
 
 #### 2.3.1 Sharing Data with Connected Services
 
-We may share your information when working with our suppliers and the Matrix Foundation to provide the Service.
+We may share your information when working with our suppliers in order to provide the Service.
 
 In addition, the {{ policy_homeserver }} homeserver is a *decentralised* and *open* service. This means that, to support communication between users on different homeservers or different messaging platforms, your username, display name and messages and files are sometimes shared with other services that are connected with the {{ policy_homeserver }} homeserver.
 
