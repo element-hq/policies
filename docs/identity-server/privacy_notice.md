@@ -259,3 +259,6 @@ If you want to make a complaint about the way we have processed your personal in
 
 **A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUyMzAxOTExNl19
+-->
