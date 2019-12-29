@@ -1,6 +1,6 @@
 ---
-title: Matrix Code of Conduct
-version: 1.0.0
+title: Matrix.org Code of Conduct
+version: 1.0.1
 ---
 
 For **Matrix.org** official chatroom ([+matrix:matrix.org](https://matrix.to/#/+matrix:matrix.org)) and code repository ([matrix-org](https://github.com/matrix-org)), (not the greater Matrix community, nor its client software).
