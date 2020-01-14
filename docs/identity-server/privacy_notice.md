@@ -1,6 +1,6 @@
 ---
 title: Vector.im and Matrix.org Identity Servers Privacy Notice
-version: 1.0.0
+version: 1.1.0
 ---
 
 ## 1. Introduction
@@ -13,21 +13,9 @@ When you read 'the Identity Server', 'the Identity Servers', or 'the Service' be
 
 Where you read *New Vector*, *New Vector Ltd.*, *we* or *us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix's development: New Vector Ltd., its French subsidiary: New Vector SARL, and their agents.
 
-Where you read *The Matrix.org Foundation*, or *The Foundation*, it refers to the Community Interest Company incorporated on 29 October 2018 to be the neutral custodian of the Matrix protocol: The Matrix Foundation C.I.C., and their agents.
+**The Matrix protocol is licensed by the Matrix Foundation which makes it available to third parties who set up their own Identity Server. This privacy notice does not apply to Matrix Identity Servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the Identity Servers (Matrix.org and Vector.im) provided by New Vector Ltd.**
 
-Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
-
-### 1.2 Who Provides this Service?
-
-This service is provided by New Vector Ltd. for The Matrix.org Foundation. New Vector Ltd. and The Matrix.org Foundation are Joint Data Controllers for the Service.
-
-**This agreement does not apply to Matrix Identity Servers run by anybody else. Matrix is an open network like the Web and this agreement only applies to the Identity Servers (matrix.org and vector.im) provided by New Vector Ltd.**
-
-If this agreement is not acceptable, please use an Identity Server provided by someone else (or none at all).
-
-#### 1.2.1 Contact Details
-
-##### New Vector Ltd.
+New Vector Ltd. is the Data Controller for the Service.
 
 Email: [support@vector.im](mailto:support@vector.im)
 
@@ -38,21 +26,19 @@ London
 United Kingdom  
 EC4R 1AG
 
-##### The Matrix.org Foundation
+Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
 
-Email: [support@matrix.org](mailto:support@matrix.org)
-
-### 1.3 Using The Service Means Accepting These Terms
+### 1.2 Using The Service Means Accepting These Terms
 
 By accessing or using the Service in any way you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, please do not use this service. You can use an Identity Server provided by somebody else, run your own, or not use an Identity Server at all.
 
-### 1.4 This Is a Living Document
+### 1.3 This Is a Living Document
 
 With your help, we want to make our policy documents the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@matrix.org and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@matrix.org](mailto:support@matrix.org) and we'll chat.
 
 We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
