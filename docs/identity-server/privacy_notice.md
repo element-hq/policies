@@ -28,13 +28,7 @@ EC4R 1AG
 
 Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
 
-### 1.2 Using The Service Means Accepting These Terms
-
-By accessing or using the Service in any way you agree to and are bound by the terms and conditions written in this document.
-
-If you do not agree to all of the terms and conditions contained in this document, please do not use this service. You can use an Identity Server provided by somebody else, run your own, or not use an Identity Server at all.
-
-### 1.3 This Is a Living Document
+### 1.2 This Is a Living Document
 
 With your help, we want to make our policy documents the best in the industry.
 
