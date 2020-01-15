@@ -192,8 +192,6 @@ Anyone who knows your Third Party Identifier can query the Service to see if you
 
 The association between your Matrix ID and your Third Party Identifiers is stored in New Vector Ltd. databases. This means that, unlike regular users, New Vector employees and contractors can look up your Third Party Identifiers from you Matrix ID (subject to the New Vector data access guidelines below).
 
-Employees or agents of The Matrix.org Foundation do not have access to the database (except in cases that they are also employees or agents of New Vector Ltd.).
-
 ### 3.8 What Are the Guidelines New Vector Follows When Accessing My Data?
 
 * We restrict who at New Vector Ltd. (employees and contractors) can access user data to roles which require access in order to maintain the health of the Service.
