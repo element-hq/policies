@@ -15,9 +15,9 @@ Privacy is important, and we want you to understand the issues involved. For tha
 Where you read 'Element', ‘Element Matrix Services’, ‘EMS’, ‘the Element app store’ or ‘element.io’ it refers to all services made available at [https://element.io](https://element.io) for:
 
 * The purchase, provisioning, configuration, monitoring and management of hosted homeservers and associated services via Element Matrix Services (EMS), or the Element app store;
-* The Element chat app, an Open Source Matrix client which you can use to connect to any server that implements the Matrix protocol.
+* The Element chat app, an open source Matrix client which you can use to connect to any server that implements the Matrix protocol.
 
-Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Element which store User account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Element which store the user account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
 Where you read ‘the Service’ in this document, it refers to the Element chat app instances exposed on [https://element.io](https://element.io) (or subdomains) by New Vector Ltd (trading as Element).
 
