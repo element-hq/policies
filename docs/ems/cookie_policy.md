@@ -20,4 +20,4 @@ The table below details Element’s usage of cookies:
 | __cfduid | We use Cloudflare to mitigate the risk of DDoS attacks. Cloudflare uses the __cfduid cookie to identify individual clients behind a shared IP address and apply security settings on a per-client basis. | 4 weeks | Necessary |
 | connect.sid | We use Stripe to process payments. Stripe uses a number of cookies to support its payment processing. | 1 week | Functionality |
 
-For more details on element’s approach to privacy and data protection, please consult our [Privacy Policy](https://element.io/legal/privacy).
+For more details on Element’s approach to privacy and data protection, please consult our [Privacy Policy](https://element.io/legal/privacy).
