@@ -9,7 +9,7 @@ These Element Matrix Services Customer Terms and Conditions ('Customer Terms') g
 
 ### 1.1 Definition of Terms
 
-When you read the 'Customer' or the 'Homeserver Owner' below it refers to the individual, or the organisation represented by the individual, agreeing to these Customer Terms  during the set-up of a homeserver via the Element Matrix Services interface. 
+When you read the 'Customer' or the 'Homeserver Owner' below it refers to the individual, or the organisation represented by the individual, agreeing to these Customer Terms  during the set-up of a homeserver via the Element Matrix Services interface.
 
 If you, as an individual, sign up with a personal email address, you are the Customer.
 
@@ -17,7 +17,7 @@ If you, as an individual, sign up with a corporate email domain, the Customer wi
 
 If the Customer decides to replace you as the representative with ultimate authority for the Homeserver, we will provide you with notice following such decision and you agree to take any actions reasonably requested by us or the Customer to facilitate the transfer of authority to a new representative of the Customer. Please make sure you have the authority to represents an Organisation when signing-up with a corporate email domain and agreeing to these Customer Terms on behalf of the organisation.
 
-The Customer can invite users or open free registration to their Homeservers. People who have been invited, or have registered freely, to use a Homeserver controlled by the Customer are 'Authorised Users' of that Homeserver. 
+The Customer can invite users or open free registration to their Homeservers. People who have been invited, or have registered freely, to use a Homeserver controlled by the Customer are 'Authorised Users' of that Homeserver.
 
 When you read 'Element Matrix Services', 'EMS' or 'the Hosting Service' it refers to the service exposed at [https://element.io/ems](https://element.io/ems) for the purchase, configuration and management of Matrix homeservers hosted and run by New Vector Ltd (trading as Element).
 
@@ -25,7 +25,7 @@ When you read 'the Homeserver' or 'the Communication Service', it refers to an i
 
 The 'Services' refers to both the Hosting and Communication Services.
 
-Where you read 'Element' or *'we'* or *'us'* below, it refers to Element, a trading name of New Vector Ltd. and its French subsidiary: New Vector SARL and their agents. 
+Where you read 'Element' or *'we'* or *'us'* below, it refers to Element, a trading name of New Vector Ltd. and its French subsidiary: New Vector SARL and their agents.
 
 **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server provisioned by the Customer and provided by Element.**
 
@@ -37,11 +37,11 @@ By using the Hosting Service and provisioning a Homeserver the Customer agrees t
 
 By accessing or using the Communication Service in any way, whether the Customer has created a Matrix account on the Homeserver, or whether they are accessing content federated from the Homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, the Customer agrees to and is bound by the Users Terms.
 
-If the Customer does not agree to all of the terms and conditions contained in this document, they should use a Matrix server provided by someone else and refrain from provisioning this server. 
+If the Customer does not agree to all of the terms and conditions contained in this document, they should use a Matrix server provided by someone else and refrain from provisioning this server.
 
 ### 1.3 Between The Customer and The Authorised Users
 
-These Customer Terms gives the Customer the right to provision, configure and invite others to use the Homeserver. They may enable or disable federation to the rest of the Matrix network, close rooms, turn off the access to the service, change the accessibility rules (from invite only to open registration or vice versa, or forbid the read-only mode) etc... 
+These Customer Terms gives the Customer the right to provision, configure and invite others to use the Homeserver. They may enable or disable federation to the rest of the Matrix network, close rooms, turn off the access to the service, change the accessibility rules (from invite only to open registration or vice versa, or forbid the read-only mode) etc...
 
 You agree that it is solely the Customer's responsibility to inform the Authorised Users of any relevant policies and practices they would like to enforce on their Service which come in addition to the default ones we enforce below. If there is any contradiction between the Customer's policies and Element ones, the ones enforced by Element will prevail (e.g. a Customer cannot override the fact that illegal activities are forbidden on the servers, but can enforce the obligation for new users to introduce themselves in a lobby room).
 
@@ -51,7 +51,7 @@ This is a living document. With your help, we want to continuously improve it.
 
 If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@element.io](mailto:support@element.io) and we'll chat.
 
-We don't amend this document for any specific Customers, Users or use case, but if your proposed changes apply more broadly, we'll be happy to update it for everyone. 
+We don't amend this document for any specific Customers, Users or use case, but if your proposed changes apply more broadly, we'll be happy to update it for everyone.
 
 If we make a material change to this document we will provide you with reasonable notice prior to the change coming into effect. We will set forth the date upon which the changes will become effective, and any use of the Hosting Service after said date will constitute your acceptance of these changes, as a Homeserver Owner.
 
@@ -61,7 +61,7 @@ Should you have other questions or concerns about this document, please contact 
 
 Element
 c/o New Vector Ltd.  
-10 Queen Street Place, London, United Kingdom, EC4R 1AG 
+10 Queen Street Place, London, United Kingdom, EC4R 1AG
 
 ### 1.5 Breach of Terms
 
@@ -75,7 +75,7 @@ For the sake of clarity, the Authorised Users are responsible for any breaches o
 
 Unless stated otherwise in direct agreements between the Authorised Users and the Customer (e.g. an employment contract), the Homeserver Owner can not claim intellectual property rights over rooms, message content or files Authorised Users uploaded to the Homeserver, directly or over federation or bridging.
 
-The Customer acknowledges and agrees that Element have no liability of any kind should anyone Authorised Users granted access to their messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that the Users may impose on the use of their shared content.
+The Customer acknowledges and agrees that Element has no liability of any kind should any Authorised Users, who are granted access to their messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that the Users may impose on the use of their shared content.
 
 The Customer may pre-screen Users' messages or files to prevent spam and other abuse, and messages or files (including entire rooms) may be removed from the Homeserver for any reason without notice at the discretion of either Element or the Homeserver Owner. By posting or uploading their messages or files, Authorised Users represent and warrant that they own or otherwise control all of the intellectual property rights and other rights to their user materials as described in the Users Terms of Use, including all the rights necessary for them to post or upload said messages or files.
 
@@ -87,11 +87,11 @@ As part of the User Terms, Authorised Users acknowledge and agree that by access
 
 The Customer must comply with these Customer Terms and ensure that their Authorised Users comply with both these Customer Terms and the Users Terms. We may review the users' conduct for compliance purposes, but we have no obligation to do so. We are not responsible for the content of the Customer's or their Authorised User's data, or the way the Customer or their Users decide to use the Communication Service.
 
-The Customer must ensure that all Authorised Users are at least 16 (sixteen) years old to use both our Hosting and Communication Services or such greater age required in their country to register for or use our Hosting and Communication Services. 
+The Customer must ensure that all Authorised Users are at least 16 (sixteen) years old to use both our Hosting and Communication Services or such greater age required in their country to register for or use our Hosting and Communication Services.
 
 We are not responsible for providing internet connectivity to the Authorised Users for the use of the Services.
 
-Any illegal content, and in particular any content containing or promoting indecent images/depictions of children, are utterly prohibited on the Services. When the Customer becomes aware of such content, they are responsible for reporting it to us so we can refer the details to the relevant authorities. If the Customer has found an account, room or group being used for the distribution or promotion of child sexual exploitation or any illegal content, please share the details in an email to [abuse@element.io](mailto:abuse@element.io). 
+Any illegal content, and in particular any content containing or promoting indecent images/depictions of children, are utterly prohibited on the Services. When the Customer becomes aware of such content, they are responsible for reporting it to us so we can refer the details to the relevant authorities. If the Customer has found an account, room or group being used for the distribution or promotion of child sexual exploitation or any illegal content, please share the details in an email to [abuse@element.io](mailto:abuse@element.io).
 
 If we believe that there is a violation of these terms, which can be simply remedied by the removal of some of the Customer's or User's data, or by disabling a third-party product, we will, in most cases, ask the Customer to take direct action rather than intervene. However, if the Customer doesn't take appropriate action or if we believe there is a credible risk to harm us, the Service, Authorised Users or any third parties, we will directly take what we believe is the appropriate action.
 
@@ -143,7 +143,7 @@ The User Quota chart at the bottom of the "Metrics" section gives an overview of
 
 #### 5.1.2 Resources
 
-Available resources for a given plan are bounded by the system resources allocated to the Homeserver. The Customer can visualise the amount of resources being used in the "Metrics" section of their "Manage your server" page. 
+Available resources for a given plan are bounded by the system resources allocated to the Homeserver. The Customer can visualise the amount of resources being used in the "Metrics" section of their "Manage your server" page.
 
 **Once 100% of the resources have been used up, all usage of the host will be blocked until the Customer contacts us to upgrade to a superior plan**. In the future, upgrading will a simple step or even automatic if the Customer wishes so.
 
