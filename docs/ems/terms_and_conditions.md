@@ -1,15 +1,15 @@
 ---
-title: Hosted Homeserver Customer Terms and Conditions
+title: Element Matrix Services Customer Terms and Conditions
 version: 2.0.0
 ---
 
-These Hosted Homeserver Customer Terms and Conditions ('Customer Terms') govern your use and access of our Services.  Authorised Users are bound by the Users Terms and Conditions ('Users Terms'). Please read this document carefully before accessing or using this service!
+These Element Matrix Services Customer Terms and Conditions ('Customer Terms') govern your use and access of our Services.  Authorised Users are bound by the Users Terms and Conditions ('Users Terms'). Please read this document carefully before accessing or using this service!
 
 ## 1. Introduction
 
 ### 1.1 Definition of Terms
 
-When you read the 'Customer' or the 'Homeserver Owner' below it refers to the individual, or the organisation represented by the individual, agreeing to these Customer Terms  during the set-up of a homeserver via the Element interface. 
+When you read the 'Customer' or the 'Homeserver Owner' below it refers to the individual, or the organisation represented by the individual, agreeing to these Customer Terms  during the set-up of a homeserver via the Element Matrix Services interface. 
 
 If you, as an individual, sign up with a personal email address, you are the Customer.
 
@@ -19,15 +19,15 @@ If the Customer decides to replace you as the representative with ultimate autho
 
 The Customer can invite users or open free registration to their Homeservers. People who have been invited, or have registered freely, to use a Homeserver controlled by the Customer are 'Authorised Users' of that Homeserver. 
 
-When you read 'Element' or 'the Hosting Service' it refers to the service exposed at [https://element.io](https://element.io) for the purchase, configuration and management of Matrix homeservers hosted and run by New Vector Ltd (trading as Element).
+When you read 'Element Matrix Services', 'EMS' or 'the Hosting Service' it refers to the service exposed at [https://element.io/ems](https://element.io/ems) for the purchase, configuration and management of Matrix homeservers hosted and run by New Vector Ltd (trading as Element).
 
 When you read 'the Homeserver' or 'the Communication Service', it refers to an instance of a Matrix homeserver provisioned by the customer via EMS. This instance makes available communication services which might include messaging features in public and private chat room, voice and video calls and interactions with third-party applications. The Homeserver stores the users' account and personal conversation history and may provide services such as bots and bridges, and may communicate via the open Matrix decentralised communication protocol with the public Matrix Network, if you, as the Homerserver Owner, choose to.
 
 The 'Services' refers to both the Hosting and Communication Services.
 
-Where you read 'Element', 'EMS' or *'we'* or *'us'* below, it refers to Element, a trading name of New Vector Ltd. and its French subsidiary: New Vector SARL and their agents. 
+Where you read 'Element' or *'we'* or *'us'* below, it refers to Element, a trading name of New Vector Ltd. and its French subsidiary: New Vector SARL and their agents. 
 
-**This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server provisioned by the Customer and provided by New Vector Ltd.**
+**This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server provisioned by the Customer and provided by Element.**
 
 If this agreement is not acceptable, please use a Matrix homeserver provided by someone else!
 
@@ -43,7 +43,7 @@ If the Customer does not agree to all of the terms and conditions contained in t
 
 These Customer Terms gives the Customer the right to provision, configure and invite others to use the Homeserver. They may enable or disable federation to the rest of the Matrix network, close rooms, turn off the access to the service, change the accessibility rules (from invite only to open registration or vice versa, or forbid the read-only mode) etc... 
 
-You agree that it is solely the Customer's responsibility to inform the Authorised Users of any relevant policies and practices they would like to enforce on their Service which come in addition to the default ones we enforce below. If there is any contradiction between the Customer's policies and Element ones, the ones enforced by New Vector will prevail (e.g. a Customer cannot override the fact that illegal activities are forbidden on the servers, but can enforce the obligation for new users to introduce themselves in a lobby room).
+You agree that it is solely the Customer's responsibility to inform the Authorised Users of any relevant policies and practices they would like to enforce on their Service which come in addition to the default ones we enforce below. If there is any contradiction between the Customer's policies and Element ones, the ones enforced by Element will prevail (e.g. a Customer cannot override the fact that illegal activities are forbidden on the servers, but can enforce the obligation for new users to introduce themselves in a lobby room).
 
 ### 1.4 This Is a Living Document
 
@@ -59,6 +59,7 @@ Your access and use of the Hosting Service is always subject to the most current
 
 Should you have other questions or concerns about this document, please contact us at [support@element.io](mailto:support@element.io) or at our mailing address below:
 
+Element
 c/o New Vector Ltd.  
 10 Queen Street Place, London, United Kingdom, EC4R 1AG 
 
@@ -74,13 +75,13 @@ For the sake of clarity, the Authorised Users are responsible for any breaches o
 
 Unless stated otherwise in direct agreements between the Authorised Users and the Customer (e.g. an employment contract), the Homeserver Owner can not claim intellectual property rights over rooms, message content or files Authorised Users uploaded to the Homeserver, directly or over federation or bridging.
 
-The Customer acknowledges and agrees that Element. have no liability of any kind should anyone Authorised Users granted access to their messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that the Users may impose on the use of their shared content.
+The Customer acknowledges and agrees that Element have no liability of any kind should anyone Authorised Users granted access to their messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that the Users may impose on the use of their shared content.
 
-The Customer may pre-screen Users' messages or files to prevent spam and other abuse, and messages or files (including entire rooms) may be removed from the Homeserver for any reason without notice at the discretion of either Element. or the Homeserver Owner. By posting or uploading their messages or files, Authorised Users represent and warrant that they own or otherwise control all of the intellectual property rights and other rights to their user materials as described in the Users Terms of Use, including all the rights necessary for them to post or upload said messages or files.
+The Customer may pre-screen Users' messages or files to prevent spam and other abuse, and messages or files (including entire rooms) may be removed from the Homeserver for any reason without notice at the discretion of either Element or the Homeserver Owner. By posting or uploading their messages or files, Authorised Users represent and warrant that they own or otherwise control all of the intellectual property rights and other rights to their user materials as described in the Users Terms of Use, including all the rights necessary for them to post or upload said messages or files.
 
 Authorised Users are solely and entirely responsible for all of the messages and files that they post or otherwise submit via the Service. Authorised Users shall assume all risks associated with the use of said content including any reliance on the accuracy, completeness or usefulness. Element does not guarantee the accuracy, integrity or quality of their messages or files.
 
-As part of the USer Terms, Authorised Users acknowledge and agree that by accessing or using the Communication Service, they may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
+As part of the User Terms, Authorised Users acknowledge and agree that by accessing or using the Communication Service, they may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
 
 ## 3. Use of The Hosting and Communication Services
 
@@ -148,31 +149,33 @@ Available resources for a given plan are bounded by the system resources allocat
 
 #### 5.1.3 Pricing
 
-We have defined a flat price per MAU per month. Every payment needs to be made upfront and is not cancelable, except if stated otherwise in a contract between the Customer and Element. Fees already paid are not refundable, and the full plan price will automatically be debited from the saved card on the monthly anniversary of the subscription. The Customer can find the details of their upcoming and past bills in the "Billing" section of the "Billing" section of their account. **If the payment can't be taken access to the server will be blocked for all users until the payment is cleared.**
+We have defined a price per MAU per month which varies wiith the bundle to which you are subscribing. Every payment needs to be made upfront and is not cancelable, except if stated otherwise in a contract between the Customer and Element. Fees already paid are not refundable, and the full plan price will automatically be debited from the saved card on the billing anniversary of the subscription. The Customer can find the details of their upcoming and past bills in the "Billing" section of the "Billing" section of their account. **If the payment can't be taken, access to the server will be blocked for all users until the payment is cleared.**
 
 An upgrade to a superior hosting plan can take place at any point in the billing period. A downgrade can only happen at the anniversary date of the subscription.
 
-Every plan includes one free user. That means that for example, for a 100 MAU server, at $1.50 per MAU per month, one will only pay $148.50 per month in total.
 
 ### 5.2 Matrix Hosting: Additional Users
 
 The resource usage of a server is not linearly linked to the number of MAU on it: a small number of users can use huge resources and vice-versa. To palliate this we've introduced the ability to buy additional MAUs, the "Additional Users": if the server reached the maximum number of MAU but the resources usage is relatively low, the Customer can buy the ability to add more users on the plan. This will not increase the amount of resources available.
 
-These Additional Users have the same status as the MAUs included in the plan and just add up to the total count.
+These Additional Users will be priced at the same rate as the other users and have the same status as the MAUs included in the plan and just add up to the total count.
 
 Additional Users can be added and removed from the plan at any time and will be charged pro-rata temporis: full MAU price is charged at acquisition and the proportion of unused amount of time is reimbursed at deprovisioning. The consumed time is not refundable.
 
 ## 6. Support
 
-We do not yet offer contracted support for the homeserver, which is in consequence provided on a best effort basis by Element - however, support is often available from the wider Matrix Community in the public Matrix Support rooms (as listed in the[ +matrix:matrix.org](https://matrix.to/#/+matrix:matrix.org) community).
+Support is available by email to [support@element.io](mailto:support@element.io). Queries will be addressed at a different priority level depending on the bundle which has been subscribed to:
+    - Nickel: queries will be addressed on a best-effort basis.
+    - Silver: queries will be prioritised, but no SLA is guaranteed.
+    - Gold and above: queries will be prioritsed and we guarantee a turnaround within the next business day.
 
-Queries sent to [support@element.io](mailto:support@element.io) will be addressed on a best-effort basis by the paid team. Phone support is not provided.
+Phone support is not yet provided.
 
 ## 7. App Developers
 
 We encourage everyone to write software that uses the Matrix Protocol and interfaces with the Communication Service.
 
-The Matrix Protocol and our implementation will change over time, and we may change or deprecate APIs or behaviour for any feature of the Communiation Service from time to time - it is the Application Developer's responsibility to ensure that calls or requests they make to or via our Service are compatible with then-current APIs for the Communication Service. We will always try to inform the Application Developer of any changes with reasonable notice so they can adjust their Application, but we are under no obligation to do so.
+The Matrix Protocol and our implementation will change over time, and we may change or deprecate APIs or behaviour for any feature of the Communication Service from time to time - it is the Application Developer's responsibility to ensure that calls or requests they make to or via our Service are compatible with then-current APIs for the Communication Service. We will always try to inform the Application Developer of any changes with reasonable notice so they can adjust their Application, but we are under no obligation to do so.
 
 Provided that the Application Developer comply with the terms of this Agreement and our policies and procedures, you may use the Hosting Service to execute Applications owned by them. You are solely responsible for the Applications you run, including any data, text, images or content they contain.
 
@@ -185,6 +188,8 @@ The Customer can terminate the subscription at any time, although the fees for t
 ## 9. Encryption
 
 The Communication Service may allow the Authorised Users to encrypt their communications end-to-end between devices. There may be restrictions and limitations on the import, possession, use, transfer and/or export of strong encryption technology under the laws of the country in which the Authorised Users intend to use the Communication Service. As mentioned in the Users Terms it is their sole obligation and responsibility to check such restrictions and limitations before using the Communication Service and to comply with them. We reserve the right to suspend the Communication Service immediately and without notice if we determine, in our sole judgment, that the Service is being used in violation of local regulations governing the use of cryptographic technologies (even though we have no responsibility to make such determination).
+
+Some of our plans give the opportunity to disable end-to-end encryption.
 
 ## 10. Warranties and Disclaimers
 
