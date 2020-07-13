@@ -1,5 +1,5 @@
 ---
-title: Element and Matrix.org Identity Servers Privacy Notice
+title: Vector.im and Matrix.org Identity Servers Privacy Notice
 version: 1.1.0
 ---
 
@@ -28,13 +28,13 @@ London
 United Kingdom  
 EC4R 1AG
 
-Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
+Should you have other questions or concerns about this document, please send us an email at [support@element.io](mailto:support@element.io).
 
 ### 1.2 This Is a Living Document
 
 With your help, we want to make our policy documents the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@melement.io](mailto:support@element.io) and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@element.io](mailto:support@element.io) and we'll chat.
 
 We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
@@ -76,7 +76,7 @@ Bulk Third Party Identifier Lookup is usually used to check whether any of your 
 
 Some homeservers rely upon the Identity Server for part of new user registration, using the Identity Server to perform the verification of ownership of the email address or phone number.
 
-**We will be removing support for user registration from the New Vector Identity Servers.** In the near future homeservers will be able to complete registration by email address without delegating ownership verification to an Identity Server. This document will be updated when this behaviour has changed.
+**We will be removing support for user registration from the Element Identity Servers.** In the near future homeservers we manage will be able to complete registration by email address without delegating ownership verification to an Identity Server. This document will be updated when this behaviour has changed.
 
 ##### Password Reset
 
@@ -87,7 +87,7 @@ Some homeservers rely upon the Identity Server for password reset by email, usin
 ###### Binding on Registration
 
 When your client is configured to use either the vector.im or the matrix.org Identity Server and you register on a homeserver with your email address and/or phone number:
-- if that homeserver is run by Element (e.g. the homeserver running at matrix.org, or a [EMS](https://element.io/matrix-services) homeserver), the corresponding homeserver privacy policy will advise you that the act of registration will _also_ publicly link your email address and/or phone number with your Matrix ID via the Identity Server
+- if that homeserver is run by Element (e.g. the homeserver running at matrix.org, or a [Element Matrix Services](https://element.io/matrix-services) homeserver), the corresponding homeserver privacy policy will advise you that the act of registration will _also_ publicly link your email address and/or phone number with your Matrix ID via the Identity Server
 - if that homeserver is **not** run by Element then registration will **not** publicly link your email address or phone number with your Matrix ID. In this case the vector.im or matrix.org Identity Server will only store your data long enough to establish your ownership of the Third Party Identifier.
 
 **This behaviour is also being phased out.** In the near future, choosing to publicly link your Third Party Identifiers with your Matrix ID via an Identity Server will be a wholly separate step, fully divorced from registration. This document will be updated when this behaviour has changed.
@@ -110,7 +110,7 @@ The *Legitimate Interest* of the Service is the discoverability of contacts acro
 
 #### 3.1.2 Right to Erasure
 
-You can remove your data from the Service at any time by using a Matrix client such as ([https://element.io/app](https://element.io/app)) to remove your Third Party Identifiers from the connected Identity Server. The data will be rendered inaccessible across matrix.org and vector.im Identity Servers straight away, and will be deleted from the matrix.org and vector.im databases within 30 days.
+You can remove your data from the Service at any time by using a Matrix client (such as [Element](https://element.io/app)) to remove your Third Party Identifiers from the connected Identity Server. The data will be rendered inaccessible across matrix.org and vector.im Identity Servers straight away, and will be deleted from the matrix.org and vector.im databases within 30 days.
 
 If your homeserver is spec-compliant (i.e. if it faithfully implements the Matrix protocol specification detailed at [https://matrix.org/spec](https://matrix.org/spec)), your Third Party Identifiers will be deleted if your account is deactivated.
 
@@ -186,7 +186,7 @@ We never knowingly collect or maintain information in the Service from those we 
 
 ### 3.6 How Can I Access or Correct My Information?
 
-You can view and modify your published Third Party Identifiers by using any compatible Matrix client (such as [https://element.io/app](https://element.io/app)) and managing your User Settings.
+You can view and modify your published Third Party Identifiers by using any compatible Matrix client (such as [Element](https://element.io/app)) and managing your User Settings.
 
 ### 3.7 Who Can See My Matrix ID/Third Party Identifier associations?
 
@@ -228,7 +228,7 @@ If you have discovered a security concern, please follow the Matrix.org [Securit
 
 ## 4. Making a Complaint
 
-We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention at [support@elementt.io](mailto:support@element.io) if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
+We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention at [support@element.io](mailto:support@element.io) if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
 
 If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law) at [https://www.ico.org.uk/concerns](https://www.ico.org.uk/concerns).
 
