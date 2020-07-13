@@ -9,11 +9,11 @@ These Element Chat Client Terms and Conditions ('User Terms') govern your use an
 
 ### 1.1 Definition of Terms
 
-When you read the 'User' below it refers to the individual, or the organisation represented by the individual, agreeing to these Customer Terms  during the set-up of the Element Chat App.
+When you read the 'User' below it refers to the individual, or the organisation represented by the individual, agreeing to these User Terms  during the set-up of the Element Chat App.
 
 When you read 'Element' or 'the App' it refers to the Element chat App, an open source Matrix client which you can use to connect to any server that implements the Matrix protocol.
 
-Where you read ‘the Service’ in this document, it refers to the Element chat App instances exposed on [https://element.io](https://element.io) (or subdomains) by New Vector Ltd (trading as Element).
+Where you read ‘the Service’ in this document, it refers to the Element chat App instances exposed on [https://element.io](https://element.io/) (or subdomains) by New Vector Ltd (trading as Element).
 
 Where you read *Element* (trading name of New Vector Ltd.), or *we* or *us*, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
 
@@ -23,7 +23,7 @@ If this agreement is not acceptable, please use a Matrix client provided by some
 
 By using the App the User agrees to and is bound by the terms and conditions written in this document.
 
-By accessing or using the App in any way, whether the User has created a Matrix account on the Homeserver, or whether they are accessing content federated from the Homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, the User agrees to and is bound by the Users Terms.
+By accessing or using the App in any way, wherever their account is hosted, if they are are just browsing rooms as an unauthenticated guest, the User agrees to and is bound by the Users Terms.
 
 If the User does not agree to all of the terms and conditions contained in this document, they should use a Matrix client provided by someone else.
 
@@ -33,7 +33,7 @@ This is a living document. With your help, we want to continuously improve it.
 
 If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@element.io](mailto:support@element.io) and we'll chat.
 
-We don't amend this document for any specific Users or use case, but if your proposed changes Apply more broadly, we'll be hAppy to update it for everyone.
+We don't amend this document for any specific Users or use case, but if your proposed changes apply more broadly, we'll be happy to update it for everyone.
 
 If we make a material change to this document we will provide you with reasonable notice prior to the change coming into effect. We will set forth the date upon which the changes will become effective, and any use of the App after said date will constitute your acceptance of these changes, as a User.
 
@@ -89,7 +89,7 @@ You acknowledge and agree that Element shall not be liable for any failure to ac
 
 ### 4.3 Data Protection and Processing
 
-We will ensure to set-up, at a minimum, reasonable data practices for maintaining the confidentiality and security of the Customer's and User's Data and preventing unauthorized access. For more details please check our [Privacy Policy](/privacy_policy) and [Cookie Policy](/cookie_policy).
+We will ensure to set-up, at a minimum, reasonable data practices for maintaining the confidentiality and security of the Customer's and User's Data and preventing unauthorized access. For more details please check our [Privacy Policy](https://element.io/privacy_policy) and [Cookie Policy](https://element.io/cookie_policy).
 
 ## 6. Support
 
