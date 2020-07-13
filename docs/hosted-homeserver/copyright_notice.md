@@ -3,9 +3,9 @@ title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Copyright 
 version: 1.0.0
 ---
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
+Where you read *Element*, *we* or *us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is trading name of New Vector.
 
-When you read 'the {{ hhs_name }}.{{ hhs_server_domain }} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_server_domain }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network. 
+When you read 'the {{ hhs_name }}.{{ hhs_server_domain }} homeserver' or 'the Service' below, it refers to the services made available at **{{ hhs_name }}.{{ hhs_server_domain }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
 If the terms of this copyright notice are not acceptable, please use a Matrix server provided by someone else!
 
@@ -32,16 +32,12 @@ We will respond to notices of alleged copyright infringement that comply with ap
 Our designated Copyright Agent to receive DMCA Notices is:
 
 Matthew Hodgson
-
 10 Queen Street Place
-
 London
-
 United Kingdom
-
 EC4R 1AG
 
-By email: support@matrix.org
+By email: support@element.io
 
 If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective.
 
@@ -68,4 +64,3 @@ Please be aware that if you knowingly materially misrepresent that material or a
 ### Repeat infringers
 
 It is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
-
