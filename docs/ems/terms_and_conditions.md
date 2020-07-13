@@ -3,7 +3,7 @@ title: Element Matrix Services Customer Terms and Conditions
 version: 2.0.0
 ---
 
-These Element Matrix Services Customer Terms and Conditions ('Customer Terms') govern your use and access of our Services.  Authorised Users are bound by the Users Terms and Conditions ('Users Terms'). Please read this document carefully before accessing or using this service!
+These Element Matrix Services Customer Terms and Conditions ('Customer Terms') govern your use and access of our Services.  Authorised Users are bound by the [Users Terms and Conditions](https://element.io/user-terms-of-service) ('Users Terms'). Please read this document carefully before accessing or using this service!
 
 ## 1. Introduction
 
@@ -111,7 +111,7 @@ You acknowledge and agree that Element shall not be liable for any failure to st
 
 ### 4.3 Data Protection and Processing
 
-We will ensure to set-up, at a minimum, reasonable data practices for maintaining the confidentiality and security of the Customer's and User's Data and preventing unauthorized access. For more details please check our [Privacy Policy](/privacy_policy) and [Cookie Policy](/cookie_policy).
+We will ensure to set-up, at a minimum, reasonable data practices for maintaining the confidentiality and security of the Customer's and User's Data and preventing unauthorized access. For more details please check our [Privacy Policy](https://element.io/privacy) and [Cookie Policy](https://element.io/cookie-policy).
 
 ## 5. Pricing Definitions and Payment Obligations
 
