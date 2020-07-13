@@ -32,12 +32,13 @@ We will respond to notices of alleged copyright infringement that comply with ap
 Our designated Copyright Agent to receive DMCA Notices is:
 
 Matthew Hodgson
+c/o New Vector Ltd
 10 Queen Street Place
 London
 United Kingdom
 EC4R 1AG
 
-By email: support@matrix.org
+By email: dmca@matrix.org
 
 If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective.
 
