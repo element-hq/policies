@@ -90,7 +90,7 @@ In short, we do not. Like all other cloud-based applications, we are vulnerable 
 
 We monitor the Service closely and have set up automated alarms to be notified (via email, push notifications and phone calls) when the {{ policy_homeserver }} homeserver is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
-You acknowledge and agree that New Vector Ltd. shall not be liable for any failure to store your materials on the {{ policy_homeserver }} homeserver at any time.
+You acknowledge and agree that New Vector Ltd., trading as Element, shall not be liable for any failure to store your materials on the {{ policy_homeserver }} homeserver at any time.
 
 ## 5. App Developers
 
@@ -152,7 +152,7 @@ The Service may include links that will take you to other sites outside of the t
 
 ## 10. Warranties and Disclaimers
 
-The {{ policy_homeserver }} service is provided by New Vector under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, New Vector makes no warranty that:
+The {{ policy_homeserver }} service is provided by Element under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, Element makes no warranty that:
 
 1. the Service will meet your requirements;
 
@@ -172,7 +172,7 @@ You acknowledge and agree that:
 
 4. Element shall not be liable or responsible for any materials or services offered by third parties.
 
-New Vector does not control or endorse the materials or message content found in any rooms or communities. To the maximum extent permitted by law, Element Ltd. will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. Element also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user messages or files.
+Element does not control or endorse the materials or message content found in any rooms or communities. To the maximum extent permitted by law, New Vector Ltd., trading as Element, will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. Element also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user messages or files.
 
 The use of the Service is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system, loss of data or other harm that results from such activities. Element assumes no liability for any computer virus or other similar software code that is downloaded to your computer from the site or in connection with any services or materials. No advice or information, whether oral or written, obtained by you from Element or via the site, services or materials shall create any warranty not expressly stated in the terms of use. Element will not be liable for any loss that you may incur as a result of someone else using your password or account with respect to the site or any services or materials, either with or without your knowledge.
 
@@ -236,7 +236,7 @@ This Agreement shall be governed by the laws of England and Wales, excluding its
 
 ## 15. General
 
-The Service is licensed, not sold, to you by Element Ltd for use strictly in accordance with the terms and conditions of this Agreement. Ownership of the Service shall at all times remain with Element. Access to the Service is provided to you only to allow you to exercise your rights under this Agreement.
+The Service is licensed, not sold, to you by Element for use strictly in accordance with the terms and conditions of this Agreement. Ownership of the Service shall at all times remain with Element. Access to the Service is provided to you only to allow you to exercise your rights under this Agreement.
 
 ### 15.1 Grant of Licence
 
@@ -247,5 +247,6 @@ You may also be subject to additional terms and conditions that may apply when y
 ## 16. Document History
 
 * 2018, March 28: created.
+* 2020, July 15: Updated
 
 **A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
