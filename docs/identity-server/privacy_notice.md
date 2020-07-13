@@ -156,7 +156,7 @@ We collect information about you when you input it into the Service or otherwise
 
 ##### Third Party Identifiers you look up
 
-Third Party Identifiers that are looked up are logged in our application logs. These logs are kept for not longer than 180 days. This will change soon - once [https://github.com/matrix-org/sydent/issues/189](https://github.com/matrix-org/sydent/issues/189) lands we will no longer include looked-up Third Party Identifiers in the application logs.
+Third Party Identifiers that are looked up are logged in our application logs. These logs are kept for not longer than 7 days. Haproxy logs may be kept up to 60 days.
 
 ##### Connection Information
 
