@@ -202,15 +202,15 @@ The association between your Matrix ID and your Third Party Identifiers is store
 
 ### 3.9 Who Else Has Access to My Data?
 
-We host the Element Matrix Services on Amazon Web Services (AWS). Amazon employees have access to this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
+We host the Element Matrix Services on UpCloud datacentres in London. Here's [UpCloud's privacy policy](https://upcloud.com/privacy-policy/). UpCloud controls physical access to their locations.
 
 We use Cloudflare to mitigate the risk of DDoS attacks. Here's [CloudFlare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 Physical access to our offices and locations use typical physical access restrictions.
 
-We use secure private keys when accessing servers via SSH, and protect our AWS console passwords locally with a password management tool.
+We use secure private keys when accessing servers via SSH, and protect our console passwords locally with a password management tool.
 
-We log application data (caller IP and user agent). We keep logs for no longer than 180 days.
+We log application data (caller IP and user agent). We keep logs for no longer than 60 days.
 
 ### 3.10 What happens if Element is sold?
 
