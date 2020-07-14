@@ -112,7 +112,7 @@ You agree that you shall not:
 
 * Access or attempt to access any material that you are not authorized to access.
 
-* Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://element.io/copyright) for further details.
+* Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://matrix.org/legal/copyright-notice) for further details.
 
 * Disrupt or interfere with the security of, or otherwise cause harm to, the {{ policy_homeserver }} homeserver, systems resources, accounts, passwords, servers or networks connected to or accessible through the Service or any affiliated or linked sites.
 
