@@ -1,6 +1,6 @@
 ---
 title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Copyright Notice
-version: 1.0.0
+version: 2.0.0
 ---
 
 Where you read *Element*, *we* or *us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is trading name of New Vector.
