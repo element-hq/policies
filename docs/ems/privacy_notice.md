@@ -42,7 +42,7 @@ Should you have other questions or concerns about this document, please send us 
 This document explains how we process personal data, as it relates to:
 
 * *Element chat app users*: Element chat app users use Element to connect to any server that implements the Matrix Protocol.
-* *Element Customers*: Element Customers use Element Matrix Services (EMS) to provision and manage hosted homeservers. Apart from where otherwise noted, this document does **not** address data protections issues relating to the messaging and file data submitted by Users to the hosted homeserver instances.
+* *Element Customers*: Element Customers use Element Matrix Services (EMS) to provision and manage hosted homeservers. Apart from where otherwise noted, this document does **not** address data protections issues relating to the messaging and file data submitted by Users to the hosted homeserver instances, as this is the legal responsability of the Customer. For general Terms of Use for Homeserver users, please see: https://element.io/user-terms-of-service
 
 This document does not cover:
 
