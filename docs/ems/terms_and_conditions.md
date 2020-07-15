@@ -19,7 +19,7 @@ If the Customer decides to replace you as the representative with ultimate autho
 
 The Customer can invite users or open free registration to their Homeservers. People who have been invited, or have registered freely, to use a Homeserver controlled by the Customer are 'Authorised Users' of that Homeserver.
 
-When you read 'Element Matrix Services', 'EMS' or 'the Hosting Service' it refers to the service exposed at [https://element.io/ems](https://element.io/ems) for the purchase, configuration and management of Matrix homeservers hosted and run by New Vector Ltd (trading as Element).
+When you read 'Element Matrix Services', 'EMS' or 'the Hosting Service' it refers to the service exposed at [https://element.io/matrix-services](https://element.io/matrix-services) for the purchase, configuration and management of Matrix homeservers hosted and run by New Vector Ltd (trading as Element).
 
 When you read 'the Homeserver' or 'the Communication Service', it refers to an instance of a Matrix homeserver provisioned by the customer via EMS. This instance makes available communication services which might include messaging features in public and private chat room, voice and video calls and interactions with third-party applications. The Homeserver stores the users' account and personal conversation history and may provide services such as bots and bridges, and may communicate via the open Matrix decentralised communication protocol with the public Matrix Network, if you, as the Homerserver Owner, choose to.
 
