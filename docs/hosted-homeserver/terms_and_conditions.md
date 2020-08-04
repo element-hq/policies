@@ -135,7 +135,7 @@ Queries sent to [support@modular.im](mailto:support@modular.im) will be addresse
 
 We love Matrix and will support our users as much as we can, but we are also a small team and value our work/life balance. This means that although we'll try our best, we do not provide 24/7 support.
 
-## 6. App Developers
+## 6. App Developers
 
 We encourage you to write software that uses the Matrix Protocol and interfaces with the Service!
 
