@@ -120,7 +120,7 @@ Your authentication identifier is used to authenticate your access to Element Ma
 
 **Element Matrix Services (EMS) Customer Account Transaction and Billing Information**
 
-Paying for hosted homeserver service via EMS is handled entirely by our payment processor, Stripe. The processor stores your credit card information as well as your billing contact information in order to process your monthly or annual automatic renewals, or to allow you to upgrade or downgrade your subscription without re-entering a credit card number.
+Paying for hosted homeserver service via EMS is handled entirely by our payment processor, [Stripe](https://stripe.com/en-gb/privacy). The processor stores your credit card information as well as your billing contact information in order to process your monthly or annual automatic renewals, or to allow you to upgrade or downgrade your subscription without re-entering a credit card number.
 
 We never have access to, nor store your full credit card information.
 
@@ -132,6 +132,7 @@ The history of changes to the billing contact information on the invoice made by
 
 The data we collect in our transaction database, including Personal Data, is not shared with third parties, except for the purposes of determining the validity of a payment. In this case we may share the name and email address associated with the purchase with the credit card holder, your company's accounting department, or with our payment processor when responding to a chargeback.
 
+We use a third-party, [Quaderno](https://quaderno.io/policies/privacy/), to help us with tax automation within our billing system.
 #### 2.2.2 Information we collect automatically as you use the service:
 
 **Connection Information**
@@ -139,13 +140,13 @@ The data we collect in our transaction database, including Personal Data, is not
 We log the IP addresses of everyone who accesses Element. This data is used in order to mitigate abuse, debug operational issues, and monitor traffic patterns. Our logs are kept for:
 
 * 30 days, for EMS Customer IP addresses;
-* 180 days, for Element chat app IP addresses; 
+* 180 days, for Element chat app IP addresses;
 
 **Usage Information**
 
-We track fully anonymised usage data for Element hosting services. This data helps us to understand how our users are using the application so that we can make improvements.
+We track usage data for Element hosting services. When you are signed in to your account we may track your usage of the site and associate that information with your account details. This data helps us understand how our users are using the application so that we can make improvements to the Service.
 
-Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. We don't share any analytics data with third parties.
+Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. The servers which host this data are located in the EEA, specifically in London, United Kingdom. We don't share any analytics data with third parties.
 
 If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this.
 
@@ -179,7 +180,7 @@ We never knowingly collect or maintain information in Element, through any of th
 
 If you are a customer of Element Matrix Services (EMS) you can access all personal information that we collect by using the account management interface at [https://element.io](https://element.io) You can download a copy of all your data as per section 2.1.3.
 
-If you are a user of the Element chat app you can request a copy of your data by emailing [dpo@element.io](mailto:dpo@element.io). We are working on a solution which will allow you to download the data automatically. 
+If you are a user of the Element chat app you can request a copy of your data by emailing [dpo@element.io](mailto:dpo@element.io). We are working on a solution which will allow you to download the data automatically.
 
 ### 2.8 Who Can See My Homeserver Configuration?
 
@@ -192,7 +193,12 @@ Data stored in Element is accessible by the Customer's account and by Element en
 
 ### 2.10 Who Else Has Access to My Data?
 
-We host the Element Matrix Services on Amazon Web Services (AWS). Amazon employees have access to this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
+We host the Element Matrix Services on Amazon Web Services (AWS), specifically:
+* Our admin server is hosted in an AWS data centre in Amsterdam;
+* Our deployment server is hosted in an AWS data centre in London;
+* Customer deployments have the option to select the geographical location which is the most convenient for them;
+
+Amazon employees have access to this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
 
 We use Cloudflare to mitigate the risk of DDoS attacks. Here's [CloudFlare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
@@ -227,3 +233,4 @@ If you want to make a complaint about the way we have processed your personal in
 * 2018, March 28: Policy document for public homeserver exposed at https://matrix.org was created.
 * 2018, August 2: This document was derived from the above.
 * 2020, July 15: Document revision
+* 2020, August 14: Updates to section 2.2.2 and 2.10
