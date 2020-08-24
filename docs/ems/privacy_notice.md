@@ -4,6 +4,7 @@ version: 2.0.0
 ---
 
 Please read this document carefully before accessing or using this service!
+
 ## 1. Introduction
 
 ### 1.1 English, Not Legalese
@@ -14,8 +15,8 @@ Privacy is important, and we want you to understand the issues involved. For tha
 
 Where you read 'Element', ‘Element Matrix Services’, ‘EMS’, ‘the Element app store’ or ‘element.io’ it refers to all services made available at [https://element.io](https://element.io) for:
 
-* The Element chat app, an open source Matrix client which you can use to connect to any server that implements the Matrix protocol.
-* The purchase, provisioning, configuration, monitoring and management of hosted homeservers and associated services via Element Matrix Services (EMS), or the Element app store;
+*   The Element chat app, an open source Matrix client which you can use to connect to any server that implements the Matrix protocol.
+*   The purchase, provisioning, configuration, monitoring and management of hosted homeservers and associated services via Element Matrix Services (EMS), or the Element app store;
 
 Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Element which store the user account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
@@ -41,19 +42,19 @@ Should you have other questions or concerns about this document, please send us 
 
 This document explains how we process personal data, as it relates to:
 
-* *Element chat app users*: Element chat app users use Element to connect to any server that implements the Matrix Protocol.
-* *Element Customers*: Element Customers use Element Matrix Services (EMS) to provision and manage hosted homeservers. Apart from where otherwise noted, this document does **not** address data protections issues relating to the messaging and file data submitted by Users to the hosted homeserver instances, as this is the legal responsability of the Customer. For general Terms of Use for Homeserver users, please see: https://element.io/user-terms-of-service
+*   *Element chat app users*: Element chat app users use Element to connect to any server that implements the Matrix Protocol.
+*   *Element Customers*: Element Customers use Element Matrix Services (EMS) to provision and manage hosted homeservers. Apart from where otherwise noted, this document does **not** address data protections issues relating to the messaging and file data submitted by Users to the hosted homeserver instances, as this is the legal responsability of the Customer. For general Terms of Use for Homeserver users, please see: https://element.io/user-terms-of-service
 
 This document does not cover:
 
-* *Your relationship with the Matrix server if it isn't provided by EMS*: Your account details and preferences, messages, files and any other data you share via the Matrix protocol are the responsibility of the Matrix server, and it is the provider of that server's job to make sure your data is handled appropriately and that you are well informed.
+*   *Your relationship with the Matrix server if it isn't provided by EMS*: Your account details and preferences, messages, files and any other data you share via the Matrix protocol are the responsibility of the Matrix server, and it is the provider of that server's job to make sure your data is handled appropriately and that you are well informed.
 
 If you are using the matrix.org server provided by the Matrix Foundation, you can find the relevant Privacy Notice and Terms and Conditions here:
 
-* Matrix.org Privacy Notice - [https://matrix.org/docs/guides/privacy_notice.html](https://matrix.org/docs/guides/privacy_notice.html)
-* Matrix.org Terms and Conditions - [https://matrix.org/docs/guides/terms_and_conditions.html](https://matrix.org/docs/guides/terms_and_conditions.html)
-* Matrix.org Code of Conduct - [https://matrix.org/docs/guides/code_of_conduct](https://matrix.org/docs/guides/code_of_conduct)
-* Matrix.org Copyright Notice - [https://matrix.org/docs/guides/copyright_notice](https://matrix.org/docs/guides/copyright_notice)
+*   Matrix.org Privacy Notice - [https://matrix.org/docs/guides/privacy_notice.html](https://matrix.org/docs/guides/privacy_notice.html)
+*   Matrix.org Terms and Conditions - [https://matrix.org/docs/guides/terms_and_conditions.html](https://matrix.org/docs/guides/terms_and_conditions.html)
+*   Matrix.org Code of Conduct - [https://matrix.org/docs/guides/code_of_conduct](https://matrix.org/docs/guides/code_of_conduct)
+*   Matrix.org Copyright Notice - [https://matrix.org/docs/guides/copyright_notice](https://matrix.org/docs/guides/copyright_notice)
 
 ### 1.2 The Customer and the User
 
@@ -75,8 +76,8 @@ Your access and use of Element is always subject to the most current version of 
 
 Element has different legal basis for processing, based on which product you are using:
 
-* Element chat app users: we collect your IP address when you request access to the Element client from our web server. This data is collected under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*, to support operational maintenance and to protect against malicious actions against our infrastructure.
-* *Element customers*: your data is processed under *[Performance of Contract](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/)*. This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);
+*   Element chat app users: we collect your IP address when you request access to the Element client from our web server. This data is collected under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*, to support operational maintenance and to protect against malicious actions against our infrastructure.
+*   *Element customers*: your data is processed under *[Performance of Contract](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/)*. This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);
 
 #### 2.1.2 Data Ownership - Messaging and File data within hosted homeservers
 
@@ -87,14 +88,15 @@ This means that, in addition to the usual data access controls defined by the Ma
 #### 2.1.3 Your Rights as Data Subject
 
 You have rights in relation to the personal data we hold about you. Some of these only apply in certain circumstances. Some of these rights are explored in more detail elsewhere in this document. For completeness, your rights under GDPR are:
-1. The right to be informed
-1. The right of access
-1. The right to rectification
-1. The right to erasure
-1. The right to restrict processing
-1. The right to data portability
-1. The right to object
-1. Rights in relation to automated decision making and profiling.
+
+1.  The right to be informed
+2.  The right of access
+3.  The right to rectification
+4.  The right to erasure
+5.  The right to restrict processing
+6.  The right to data portability
+7.  The right to object
+8.  Rights in relation to automated decision making and profiling.
 
 For more information about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or are unsure how to exercise your rights, please contact us at [dpo@element.io](mailto:dpo@element.io).
 
@@ -110,11 +112,11 @@ We collect information about you when you input it to the Element or Element Mat
 
 We collect information when you register for an account. This information is kept to a minimum on purpose, and is restricted to:
 
-* Email address
-* Authentication Identifier; one of:
-    * Email address and password
-    * Twitter id
-    * Google id
+*   Email address
+*   Authentication Identifier; one of:
+    *   Email address and password
+    *   Twitter id
+    *   Google id
 
 Your authentication identifier is used to authenticate your access to Element Matrix Services at https://ems.host and to uniquely identify you.
 
@@ -188,8 +190,8 @@ Data stored in Element is accessible by the Customer's account and by Element en
 
 ### 2.9 What Are the Guidelines Element Follows When Accessing My Data?
 
-* We restrict who at Element (employees and contractors) can access Element data to roles which require access in order to maintain the health of the Element apps and services.
-* We never share what we see with other users or the general public.
+*   We restrict who at Element (employees and contractors) can access Element data to roles which require access in order to maintain the health of the Element apps and services.
+*   We never share what we see with other users or the general public.
 
 ### 2.10 Who Else Has Access to My Data?
 
