@@ -17,7 +17,6 @@ Data privacy is important, and we want you to understand the issues involved. Fo
 
 Where you read 'the {{ their_server_name }} homeserver' or 'the Service' below, it refers to the services made available at **{{ our_server_fqdn }} **{{ their_server_name }}** which store your account and personal conversation history, provide integrations such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.**
 
-**
 
 Where you read *Element*, or *we* or *us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is a trading name of New Vector. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ our_server_fqdn }}) provided by Element.**
 
@@ -285,5 +284,3 @@ If you want to make a complaint about the way we have processed your personal in
 
 *   2018, March 28: Policy document for public homeserver exposed at [https://matrix.org](https://matrix.org) was created.
 *   2018, August 2: This document was derived from the above.
-
-**

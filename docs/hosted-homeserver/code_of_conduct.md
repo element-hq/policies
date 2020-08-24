@@ -18,7 +18,6 @@ Our open source community strives to:
 *   **Be careful in the words that we choose**: Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behaviour aren't acceptable.
 *   **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
-|
 
 ## Definitions
 
@@ -40,7 +39,6 @@ Harassment includes, but is not limited to:
 *   Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect others from intentional abuse
 *   Publication of non-harassing private communication
 
-|
 
 We will not act on complaints regarding:
 
@@ -50,7 +48,6 @@ We will not act on complaints regarding:
 *   Communicating in a 'tone' you don't find congenial
 *   Criticizing racist, sexist, cissexist, or otherwise oppressive behaviour or assumptions
 
-|
 
 ### Diversity Statement
 
@@ -59,7 +56,6 @@ We encourage everyone to participate and are committed to building a community f
 Although this list cannot be exhaustive, we explicitly honour diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected  
 characteristics above, including participants with disabilities.
 
-|
 
 ### Reporting Issues
 
@@ -73,7 +69,6 @@ If you experience or witness unacceptable behaviour — or have any other concer
 
 After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
 
-|
 
 ### Attribution & Acknowledgements
 
