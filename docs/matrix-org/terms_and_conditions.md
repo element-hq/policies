@@ -15,7 +15,7 @@ We decided to use plain English as much as possible, to make our terms as clear 
 
 When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by New Vector Ltd.**
+Where you read *Element*, or *we *or* us* below, it refers to the company we created in July 2017, to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is a trading name of New Vector Ltd. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by Element**
 
 If this agreement is not acceptable, please use a Matrix server provided by someone else!
 
@@ -26,11 +26,8 @@ Email: [support@matrix.org](mailto:support@matrix.org)
 Postal address:
 
 10 Queen Street Place
-
 London
-
 United Kingdom
-
 EC4R 1AG
 
 Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
@@ -55,9 +52,9 @@ Your access and use of the Service is always subject to the most current version
 
 ### 1.4 Breach of Terms
 
-If you breach any of the terms and conditions in this document, your authorization to access or use the Service automatically terminates. 
+If you breach any of the terms and conditions in this document, your authorization to access or use the Service automatically terminates.
 
-We may block, restrict, disable, suspend or terminate your access to all or part of the Service at any time in our sole discretion, without prior notice or liability to you. 
+We may block, restrict, disable, suspend or terminate your access to all or part of the Service at any time in our sole discretion, without prior notice or liability to you.
 
 If you think we removed your access by mistake, send an email to [support@matrix.org](mailto:support@matrix.org) and we'll give you our reasoning.
 
@@ -81,7 +78,7 @@ You acknowledge and agree that we have no liability of any kind should anyone yo
 
 We may pre-screen user messages or files to prevent spam and other abuse, and we may remove any messages or files (including entire rooms) from the {{ policy_homeserver }} homeserver for any reason without notice at our sole discretion. By posting or uploading your messages or files, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Use, including all the rights necessary for you to post or upload said messages or files.
 
-You are solely and entirely responsible for all of your messages and files that you post or otherwise submit via the Service. You shall assume all risks associated with the use of said content including any reliance on the accuracy, completeness or usefulness. New Vector does not guarantee the accuracy, integrity or quality of your messages or files. 
+You are solely and entirely responsible for all of your messages and files that you post or otherwise submit via the Service. You shall assume all risks associated with the use of said content including any reliance on the accuracy, completeness or usefulness. New Vector does not guarantee the accuracy, integrity or quality of your messages or files.
 
 You acknowledge and agree that by accessing or using the Service, you may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
 
@@ -93,11 +90,11 @@ In short, we do not. Like all other cloud-based applications, we are vulnerable 
 
 We monitor the Service closely and have set up automated alarms to be notified (via email, push notifications and phone calls) when the {{ policy_homeserver }} homeserver is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
-You acknowledge and agree that New Vector Ltd. shall not be liable for any failure to store your materials on the {{ policy_homeserver }} homeserver at any time.
+You acknowledge and agree that New Vector Ltd., trading as Element, shall not be liable for any failure to store your materials on the {{ policy_homeserver }} homeserver at any time.
 
 ## 5. App Developers
 
-We encourage you to write software that uses the Matrix Protocol and interfaces with the Service! 
+We encourage you to write software that uses the Matrix Protocol and interfaces with the Service!
 
 The Matrix Protocol and our implementation will change over time, and we may change or deprecate APIs or behaviour for any feature of the Service from time to time - it is your responsibility to ensure that calls or requests you make to or via our Service are compatible with then-current APIs for the Service. We will always try to inform you of any changes with reasonable notice so you can adjust your Application, but we are under no obligation to do so.
 
@@ -115,7 +112,7 @@ You agree that you shall not:
 
 * Access or attempt to access any material that you are not authorized to access.
 
-* Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://riot.im/copyright) for further details.
+* Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://matrix.org/legal/copyright-notice) for further details.
 
 * Disrupt or interfere with the security of, or otherwise cause harm to, the {{ policy_homeserver }} homeserver, systems resources, accounts, passwords, servers or networks connected to or accessible through the Service or any affiliated or linked sites.
 
@@ -155,7 +152,7 @@ The Service may include links that will take you to other sites outside of the t
 
 ## 10. Warranties and Disclaimers
 
-The {{ policy_homeserver }} service is provided by New Vector under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, New Vector makes no warranty that:
+The {{ policy_homeserver }} service is provided by Element under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, Element makes no warranty that:
 
 1. the Service will meet your requirements;
 
@@ -167,17 +164,17 @@ The {{ policy_homeserver }} service is provided by New Vector under these terms 
 
 You acknowledge and agree that:
 
-1. New Vector does not control, endorse, or accept responsibility for any materials or services offered by third parties (except where stated otherwise), including third-party vendors and third parties accessible through linked sites;
+1. Element does not control, endorse, or accept responsibility for any materials or services offered by third parties (except where stated otherwise), including third-party vendors and third parties accessible through linked sites;
 
-2. New Vector makes no representations or warranties whatsoever about any such third parties, their materials or services;
+2. Element makes no representations or warranties whatsoever about any such third parties, their materials or services;
 
 3. any dealings you may have with such third parties are at your own risk; and
 
-4. New Vector shall not be liable or responsible for any materials or services offered by third parties.
+4. Element shall not be liable or responsible for any materials or services offered by third parties.
 
-New Vector does not control or endorse the materials or message content found in any rooms or communities. To the maximum extent permitted by law, New Vector Ltd. will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. New Vector Ltd. also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user messages or files.
+Element does not control or endorse the materials or message content found in any rooms or communities. To the maximum extent permitted by law, New Vector Ltd., trading as Element, will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. Element also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user messages or files.
 
-The use of the Service is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system, loss of data or other harm that results from such activities. New Vector assumes no liability for any computer virus or other similar software code that is downloaded to your computer from the site or in connection with any services or materials. No advice or information, whether oral or written, obtained by you from New Vector or via the site, services or materials shall create any warranty not expressly stated in the terms of use. New Vector will not be liable for any loss that you may incur as a result of someone else using your password or account with respect to the site or any services or materials, either with or without your knowledge.
+The use of the Service is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system, loss of data or other harm that results from such activities. Element assumes no liability for any computer virus or other similar software code that is downloaded to your computer from the site or in connection with any services or materials. No advice or information, whether oral or written, obtained by you from Element or via the site, services or materials shall create any warranty not expressly stated in the terms of use. Element will not be liable for any loss that you may incur as a result of someone else using your password or account with respect to the site or any services or materials, either with or without your knowledge.
 
 Some states or jurisdictions do not allow the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you. To the extent permissible, any implied warranties are limited to ninety days.
 
@@ -185,7 +182,7 @@ Some states or jurisdictions do not allow the exclusion of implied warranties or
 
 *Note on Plain English: We know that the language in this section still reads like legalese - this will be improved in later revisions of this document.*
 
-You agree to indemnify and hold New Vector and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of:
+You agree to indemnify and hold Element and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of:
 
 1. your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through the Service, including a third party's use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
 
@@ -211,7 +208,7 @@ The Service does not and is not intended to support or carry emergency calls to 
 
 *Note on Plain English: We know that the language in this section still reads like legalese - this will be improved in later revisions of this document.*
 
-In no event shall New Vector, its officers, directors, employees, partners or suppliers be liable to you or any third party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if New Vector has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
+In no event shall Element, its officers, directors, employees, partners or suppliers be liable to you or any third party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if Element has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
 
 1. the access or use of or the inability to access or use the Service;
 
@@ -239,17 +236,17 @@ This Agreement shall be governed by the laws of England and Wales, excluding its
 
 ## 15. General
 
-The Service is licensed, not sold, to you by New Vector Ltd for use strictly in accordance with the terms and conditions of this Agreement. Ownership of the Service shall at all times remain with New Vector Ltd. Access to the Service is provided to you only to allow you to exercise your rights under this Agreement.
+The Service is licensed, not sold, to you by Element for use strictly in accordance with the terms and conditions of this Agreement. Ownership of the Service shall at all times remain with Element. Access to the Service is provided to you only to allow you to exercise your rights under this Agreement.
 
 ### 15.1 Grant of Licence
 
-Subject to your acceptance of, and compliance with, this Agreement and any payment requirements for the Service (if applicable), New Vector Ltd hereby grants you a limited, non-exclusive, non-transferable, revocable, non-sublicensable licence, in and under our intellectual property rights, to access and use the Services, solely in accordance with the terms and conditions of this Agreement. Unless explicitly stated otherwise, any new features provided by us that augment or enhance the current Service shall also constitute "Service" and shall be subject to these terms and conditions. All rights not expressly granted under this Agreement are retained by New Vector Ltd.
+Subject to your acceptance of, and compliance with, this Agreement and any payment requirements for the Service (if applicable), Element hereby grants you a limited, non-exclusive, non-transferable, revocable, non-sublicensable licence, in and under our intellectual property rights, to access and use the Services, solely in accordance with the terms and conditions of this Agreement. Unless explicitly stated otherwise, any new features provided by us that augment or enhance the current Service shall also constitute "Service" and shall be subject to these terms and conditions. All rights not expressly granted under this Agreement are retained by Element.
 
-You may also be subject to additional terms and conditions that may apply when you use other New Vector services, third party content or third party software. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by New Vector to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
+You may also be subject to additional terms and conditions that may apply when you use other Element services, third party content or third party software. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by Element to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
 
 ## 16. Document History
 
 * 2018, March 28: created.
+* 2020, July 15: Updated
 
 **A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
-

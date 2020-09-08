@@ -1,17 +1,17 @@
 ---
-title: New Vector Integration Manager and Connected Services Privacy Notice
+title: Element Manager and Connected Services Privacy Notice
 slug: Privacy Notice
 section: legal
-version: 1.0.0
+version: 2.0.0
 ---
 
 ## 1. Introduction
 
 ### 1.1 English, Not Legalese
 
-Data privacy is important, and we want you to understand the issues involved. We have decided to use plain English as much as possible, to make our terms as clear as possible.
+Privacy is important, and we want you to understand the issues involved. We have decided to use plain English as much as possible, to make our terms as clear as possible.
 
-When you read 'the integration manager' below, it refers to the integration managers made available by New Vector Ltd., which provide bots, bridges, widgets and sticker packs to Matrix users. New Vector Ltd. hosts several integration manager instances - today these include:
+When you read 'the integration manager' below, it refers to the integration managers made available by Element (a trading name of New Vector Ltd.), which provide bots, bridges, widgets and sticker packs to Matrix users. Element hosts several integration manager instances - today these include:
 
 * The primary instance, currently made available to compatible Matrix clients at https://scalar.vector.im
 
@@ -19,24 +19,25 @@ When you read 'the integration manager' below, it refers to the integration mana
 
 This agreement covers all of these instances, and any others that we may choose to provide on https://vector.im or any subdomain (https://\*.vector.im). We might change which instances we run, and how they are accessed, at any time.
 
-Where you read *New Vector*, *New Vector Ltd.*, *we* or *us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix's development: New Vector Ltd., its French subsidiary: New Vector SARL, and their agents.
+Where you read *Element*, *we* or *us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix's development: New Vector Ltd., its French subsidiary: New Vector SARL, and their agents. Element is trading name of New Vector.
 
-Should you have other questions or concerns about this document, please send us an email at [support@vector.im](mailto:support@vector.im).
+Should you have other questions or concerns about this document, please send us an email at [support@element.io](mailto:support@element.io).
 
 ### 1.2 Who Provides this Service?
 
-This service is provided by New Vector Ltd. New Vector Ltd. is the Data Controller for this service.
+This service is provided by Element. Element is the Data Controller for this service.
 
-**This agreement does not apply to integration managers run by anybody else. Matrix is an open network like the Web and this agreement only applies to the integration manager provided by New Vector Ltd.**
+**This agreement does not apply to integration managers run by anybody else. Matrix is an open network like the Web and this agreement only applies to the integration manager provided by Element**
 
 #### 1.2.1 Contact Details
 
-##### New Vector Ltd.
+##### Element
 
-Email: [support@vector.im](mailto:support@vector.im)
+Email: [support@element.io](mailto:support@element.io
 
 Postal address:
 
+c/o New Vector Ltd
 10 Queen Street Place  
 London  
 United Kingdom  
@@ -50,7 +51,7 @@ New Vector uses an integration manager to give you access to additional connecte
 
 This is a living document. With your help, we want to make our policy documents the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@vector.im](mailto:support@vector.im) and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@element.io](mailto:support@element.io) and we'll chat.
 
 We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
@@ -102,15 +103,15 @@ Stickers are selected to send using a sticker picker, which is itself a widget p
 
 Your data is processed under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*. This means that we process your data only as necessary to deliver the Service, and in a manner that you understand and expect.
 
-The *Legitimate Interest* of the Service is the ability to make use of additional services connected into the Matrix ecosystem. The processing of user data we undertake is necessary to provide the Service. **This facility is an optional component of the services provided by New Vector** - Matrix works very well without an integration manager.
+The *Legitimate Interest* of the Service is the ability to make use of additional services connected into the Matrix ecosystem. The processing of user data we undertake is necessary to provide the Service. **This facility is an optional component of the services provided by Element** - Matrix works very well without an integration manager.
 
 #### 3.1.2 Right to Erasure
 
-We are working on bots' and bridges' exposing uniform support for erasure of configuration data. Until this is in place, data is erased manually. If you deactivate your account on the matrix.org homeserver we will within 30 days run a manual erasure process to delete your data from New Vector-provided bots and bridges. If you have an account on a different homeserver, or if you would like to erase your data on a subset of bots/bridges or without deactivating your account, please get in touch with [@gdpr:matrix.org](https://matrix.to/#/@gdpr:matrix.org).
+We are working on bots' and bridges' exposing uniform support for erasure of configuration data. Until this is in place, data is erased manually. If you deactivate your account on the matrix.org homeserver we will within 30 days run a manual erasure process to delete your data from Element-provided bots and bridges. If you have an account on a different homeserver, or if you would like to erase your data on a subset of bots/bridges or without deactivating your account, please get in touch with [dpo@matrix.org](mailto:dpo@matrix.org).
 
 #### 3.1.3 Data Portability
 
-Under GDPR you have a right to request a copy of your data in a commonly-accepted format. If you would like a copy of your data from the integration manager, please send a request over Matrix to [@gdpr:matrix.org](https://matrix.to/#/@gdpr:matrix.org).
+Under GDPR you have a right to request a copy of your data in a commonly-accepted format. If you would like a copy of your data from the integration manager, please send a request over Matrix to [dpo@matrix.org](mailto:dpo@matrix.org).
 
 #### 3.1.4 Your Rights as Data Subject
 
@@ -132,17 +133,17 @@ You have rights in relation to the personal data we hold about you. Some of thes
 
 8. Rights in relation to automated decision making and profiling.
 
-For more details about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or are unsure how to exercise your rights, please contact us at [support@matrix.org](mailto:support@matrix.org).
+For more details about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or are unsure how to exercise your rights, please contact us at [dpo@matrix.org](mailto:dpo@matrix.org).
 
 ### 3.2 What Information Do You Collect About Me and Why?
 
 **The information we collect is purely for the purpose of letting people use bots, bridges, widgets and sticker packs within the federated Matrix ecosystem. We do ****not**** profile users or their data on the Service.**
 
-Data required to support the operation of bots, bridges, widgets and sticker packs via the New Vector integration manager may be collected across _four different service layers_. Use of the New Vector integration manager may cause your personal data to be persisted to:
+Data required to support the operation of bots, bridges, widgets and sticker packs via the New Vector integration manager may be collected across _four different service layers_. Use of the Element integration manager may cause your personal data to be persisted to:
 
 * room data, stored on your homeserver and subject to the privacy policy of your chosen homeserver
 
-* the New Vector integration manager, subject to this privacy policy
+* the Element integration manager, subject to this privacy policy
 
 * configuration metadata within the New Vector-provided bots and bridges, subject to this privacy policy
 
@@ -154,7 +155,7 @@ The precise details will vary depending on the implementation and feature set of
 |-------------|-------------|---------------------|-----------------------------------|-------------------|
 | Bot | The bot's membership is persisted to the room state events and timeline | Setup metadata (who invited the bot, some at-setup configuration metadata) | Anything the bot might require to function - most likely third party service connection data such as OAuth access tokens or username/password | Bots have visibility on all events in any room in which they participate, so the bot may choose to share all events with a third party connected service. |
 | Bridge | Membership and messages sent by users on third party connected services may be persisted to the room state events and timeline | n/a | Anything the bridge might require to function - most likely webhook URLs or third party service connection data such as OAuth access tokens or username/password | The visibility a bridge has is configured by the homeserver admin - a bridge will usually be configured by the bridge provider to have access to a restricted set of namespaced rooms and users. | The purposed of a bridge is to share traffic between Matrix and a third party connected service, usually bidirectionally, so you can assume that all events in all bridged rooms are persisted to the third party connected service.
-| Widget | All widget configuration data is persisted to room state events. | Setup metadata (who configured the widget, some at-setup configuration metadata) | n/a | Anything shared with the widget, potentially including the user's display name, avatar, matrix ID and choice of theme within Riot, as well as connection data such as IP address, may be persisted by the third party service providing the widget |
+| Widget | All widget configuration data is persisted to room state events. | Setup metadata (who configured the widget, some at-setup configuration metadata) | n/a | Anything shared with the widget, potentially including the user's display name, avatar, matrix ID and choice of theme within Element, as well as connection data such as IP address, may be persisted by the third party service providing the widget |
 | Sticker pack | Stickers sent by the user are persisted to the room timeline | Which sticker packs are enabled/purchased is tracked within the integration manager | n/a | n/a | 
 
 #### 3.2.1 Information you provide to us when configuring connected services:
@@ -215,27 +216,27 @@ We collect (within the integration manager and the configuration metadata for th
 
 ##### Bots
 
-All unencrypted events in rooms in which a New Vector-managed bot is participating are theoretically visible to New Vector.
+All unencrypted events in rooms in which a Element-managed bot is participating are theoretically visible to New Vector.
 
 Bots log activity, including in some cases user-sent message text, as part of standard service operation. These logs are held for not longer than 14 days.
 
 ##### Bridges
 
-All traffic sent via the bridges is visible to New Vector, and may be logged as part of standard service operation. These logs are held for not longer than 14 days.
+All traffic sent via the bridges is visible to Element, and may be logged as part of standard service operation. These logs are held for not longer than 14 days.
 
 ##### Widgets
 
-All data shared with widgets hosted by New Vector is visible to New Vector.
+All data shared with widgets hosted by Element is visible to Element.
 
-All data shared with widgets hosted by third party providers is visible to the third party provider and subject to their Data Privacy policy.
+All data shared with widgets hosted by third party providers is visible to the third party provider and subject to their Privacy policy.
 
 ##### Sticker packs
 
-* If you are using the New Vector sticker picker, New Vector can see which sticker packs you have enabled on your account.
+* If you are using the Element sticker picker, Element can see which sticker packs you have enabled on your account.
 
 #### 3.2.3 Information we collect automatically as you use the Integration Manager
 
-In addition to the information you provide, the integration manager also logs your IP address and user agent. This data is used in order to mitigate abuse, debug operational issues, and monitor traffic patterns. These logs are held for not longer than 180 days.
+In addition to the information you provide, the integration manager also logs your IP address and user agent. This data is used in order to mitigate abuse, debug operational issues, and monitor traffic patterns. These logs are held for not longer than 60 days.
 
 IP addresses and user agent are logged by the integration manager when you configure a bot or bridge.
 
@@ -258,7 +259,7 @@ In exceptional circumstances, we may share information about you with a third pa
 
 (b) protect the security or integrity of our products and services (e.g. for a security audit),
 
-(c) protect New Vector Ltd., The Matrix.org Foundation, and our users from harm or illegal activities, or
+(c) protect Element, The Matrix.org Foundation, and our users from harm or illegal activities, or
 
 (d) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the serious bodily harm of any person.
 
@@ -268,15 +269,15 @@ We never knowingly collect or maintain information in the Service from those we 
 
 ### 3.6 How Can I Access or Correct My Information?
 
-We are in the process of improving our tooling to access information supplied to the integration manager. For the time being, if you would like access to this data, please submit a request to [@gdpr:matrix.org](https://matrix.to/#/@gdpr:matrix.org) and we'll provide manual assistance.
+We are in the process of improving our tooling to access information supplied to the integration manager. For the time being, if you would like access to this data, please submit a request to [dpo@matrix.org](mailto:dpo@matrix.org) and we'll provide manual assistance.
 
 ### 3.7 Who can see my service configuration data?
 
-Integration manager setup configuration metadata and bot/bridge configuration data are stored in New Vector Ltd databases. New Vector employees and agents can access this data, subject to the New Vector data access guidelines detailed below.
+Integration manager setup configuration metadata and bot/bridge configuration data are stored in Element databases. Element employees and agents can access this data, subject to the Element data access guidelines detailed below.
 
 ### 3.8 What Are the Guidelines New Vector Follows When Accessing My Data?
 
-* We restrict who at New Vector Ltd. (employees and contractors) can access user data to roles which require access in order to maintain the health of the Service.
+* We restrict who at Element (employees and contractors) can access user data to roles which require access in order to maintain the health of the Service.
 
 * We never share what we see with other users or the general public.
 
@@ -290,9 +291,9 @@ Physical access to our offices and locations use typical physical access restric
 
 We use secure private keys when accessing servers via SSH, and protect our AWS console passwords locally with a password management tool.
 
-We log application data (caller IP and user agent). We keep logs for no longer than 180 days.
+We log application data (caller IP and user agent). We keep logs for no longer than 60 days.
 
-### 3.10 What happens if New Vector is sold?
+### 3.10 What happens if Element is sold?
 
 In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
@@ -314,7 +315,8 @@ If you want to make a complaint about the way we have processed your personal in
 
 ## 5. Document History
 
-* 2019, July 23: created (content derived from [New Vector Ltd. Matrix.org Homeserver Privacy Policy](https://matrix.org/legal/privacy-notice)).
+* 2019, July 23: created (content derived from [Matrix.org Homeserver Privacy Policy](https://matrix.org/legal/privacy-notice)).
+* 2020, July 14: brand name changes
 
 **A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
 

@@ -3,9 +3,9 @@ title: {{ policy_homeserver }} Copyright Notice
 version: 1.0.0
 ---
 
-Where you read *New Vector*, *New Vector Ltd.* or *we *or* us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
+Where you read *Element*, or *we* or *us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents, which is currently trading as Element.
 
-When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network. 
+When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
 If the terms of this copyright notice are not acceptable, please use a Matrix server provided by someone else!
 
@@ -32,16 +32,13 @@ We will respond to notices of alleged copyright infringement that comply with ap
 Our designated Copyright Agent to receive DMCA Notices is:
 
 Matthew Hodgson
-
+c/o New Vector Ltd
 10 Queen Street Place
-
 London
-
 United Kingdom
-
 EC4R 1AG
 
-By email: support@matrix.org
+By email: dmca@matrix.org
 
 If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective.
 
@@ -68,4 +65,3 @@ Please be aware that if you knowingly materially misrepresent that material or a
 ### Repeat infringers
 
 It is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
-
