@@ -15,8 +15,9 @@ Privacy is important, and we want you to understand the issues involved. For tha
 
 Where you read 'Element', ‘Element Matrix Services’, ‘EMS’, ‘the Element app store’ or ‘element.io’ it refers to all services made available at [https://element.io](https://element.io) for:
 
-*   The Element chat app, an open source Matrix client which you can use to connect to any server that implements the Matrix protocol.
-*   The purchase, provisioning, configuration, monitoring and management of hosted homeservers and associated services via Element Matrix Services (EMS), or the Element app store;
+*   The Element chat app, an open source Matrix client which you can use to connect to any server that implements the Matrix protocol;
+*   The Gitter developer communication app;
+*   The purchase, provisioning, configuration, monitoring and management of hosted homeservers and associated services via Element Matrix Services (EMS), or the Element app store.
 
 Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Element which store the user account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
@@ -43,6 +44,7 @@ Should you have other questions or concerns about this document, please send us 
 This document explains how we process personal data, as it relates to:
 
 *   *Element chat app users*: Element chat app users use Element to connect to any server that implements the Matrix Protocol.
+*   *Gitter app users*: Gitter.im is now a part of Element, its users can use it to bridge with the Matrix Protocol.
 *   *Element Customers*: Element Customers use Element Matrix Services (EMS) to provision and manage hosted homeservers. Apart from where otherwise noted, this document does **not** address data protections issues relating to the messaging and file data submitted by Users to the hosted homeserver instances, as this is the legal responsability of the Customer. For general Terms of Use for Homeserver users, please see: https://element.io/user-terms-of-service
 
 This document does not cover:
@@ -76,7 +78,7 @@ Your access and use of Element is always subject to the most current version of 
 
 Element has different legal basis for processing, based on which product you are using:
 
-*   Element chat app users: we collect your IP address when you request access to the Element client from our web server. This data is collected under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*, to support operational maintenance and to protect against malicious actions against our infrastructure.
+*   *Element chat app users*: we collect your IP address when you request access to the Element client from our web server. This data is collected under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*, to support operational maintenance and to protect against malicious actions against our infrastructure.
 *   *Element customers*: your data is processed under *[Performance of Contract](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/)*. This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);
 
 #### 2.1.2 Data Ownership - Messaging and File data within hosted homeservers
@@ -199,6 +201,8 @@ We host the Element Matrix Services on Amazon Web Services (AWS), specifically:
 * Our admin server is hosted in an AWS data centre in Amsterdam;
 * Our deployment server is hosted in an AWS data centre in London;
 * Customer deployments have the option to select the geographical location which is the most convenient for them;
+
+We also host the Gitter.im app on AWS, specifically the US East location.
 
 Amazon employees have access to this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
 
