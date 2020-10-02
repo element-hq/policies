@@ -155,6 +155,8 @@ Our analytics are powered by the Free and Open Source analytics platform [Matomo
 
 If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this.
 
+When reporting error we might collect some information to help us find a solution. This may include your IP address, hostname, full name and e-mail address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/) and is subject to strict retention policies.
+
 ### 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights
 
 In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to
@@ -241,3 +243,4 @@ If you want to make a complaint about the way we have processed your personal in
 * 2018, August 2: This document was derived from the above.
 * 2020, July 15: Document revision
 * 2020, August 14: Updates to section 2.2.2 and 2.10
+* 2020, October 2: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
