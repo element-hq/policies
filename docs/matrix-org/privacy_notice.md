@@ -189,7 +189,7 @@ Each device you use to access the Service is allocated a (user-configurable) ide
 
 This information is gathered to help you to manage your devices - you can view and manage the list of devices by connecting to the Service with a Matrix client such as the Element app.
 
-Currently, we log the IP addresses of everyone who accesses the Service. This data is used in order to mitigate abuse, debug operational issues, and monitor traffic patterns. Our logs are kept for not longer than 180 days. Once Matrix is out of beta we will consider implementing log minimisation.
+Currently, we log the IP addresses of everyone who accesses the Service. This data is used in order to mitigate abuse, debug operational issues, and monitor traffic patterns. Our logs are kept for not longer than 180 days.
 
 ### 2.3 What Information is Shared With Third Parties and Why?
 
