@@ -153,7 +153,7 @@ We track usage data for Element hosting services. When you are signed in to your
 
 Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. The servers which host this data are located in the EEA, specifically in London, United Kingdom. We don't share any analytics data with third parties.
 
-If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this.
+If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes. 
 
 When reporting error we might collect some information to help us find a solution. This may include your IP address, hostname, full name and e-mail address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/) and is subject to strict retention policies.
 
@@ -243,4 +243,4 @@ If you want to make a complaint about the way we have processed your personal in
 * 2018, August 2: This document was derived from the above.
 * 2020, July 15: Document revision
 * 2020, August 14: Updates to section 2.2.2 and 2.10
-* 2020, October 2: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
+* 2020, October 9: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
