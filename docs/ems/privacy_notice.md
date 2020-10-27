@@ -62,7 +62,7 @@ If you are using the matrix.org server provided by the Matrix Foundation, you ca
 
 This document is designed to explain Data Protections issues relating to Element Customers and Users. Put simply, you're a Customer if you're paying (or otherwise compensating) Element to provide a dedicated hosted messaging service. If you have an account registered on a homeserver that you use to send and receive messages, or use the Element chat app to connect any server within the Matrix Protocol, you are a User.
 
-It is possible to be both a Customer and a User, but we encourage you to consider these roles separately when thinking about Data Privacy concerns.
+It is possible to be both a Customer and a User, but we encourage you to consider these roles separately when thinking about Data Protection concerns.
 
 ### 1.3 Changes to This Document
 
@@ -79,7 +79,7 @@ Your access and use of Element is always subject to the most current version of 
 Element has different legal basis for processing, based on which product you are using:
 
 *   *Element chat app users*: we collect your IP address when you request access to the Element client from our web server. This data is collected under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*, to support operational maintenance and to protect against malicious actions against our infrastructure.
-*   *Gitter app users*: we collect the details of whatever account you use to sign-up to Gitter, via OAuth (this could be GitLab/GitHub/Twitter). This data is collected under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*, to allow you to user the service.
+*   *Gitter app users*: we collect the details of whatever account you use to sign-up to Gitter, via OAuth (this could be GitLab/GitHub/Twitter). This data is collected under *[Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)*, to allow you to use the service.
 *   *Element customers*: your data is processed under *[Performance of Contract](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/)*. This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);
 
 #### 2.1.2 Data Ownership - Messaging and File data within hosted homeservers
@@ -138,6 +138,17 @@ The history of changes to the billing contact information on the invoice made by
 The data we collect in our transaction database, including Personal Data, is not shared with third parties, except for the purposes of determining the validity of a payment. In this case we may share the name and email address associated with the purchase with the credit card holder, your company's accounting department, or with our payment processor when responding to a chargeback.
 
 We use a third-party, [Quaderno](https://quaderno.io/policies/privacy/), to help us with tax automation within our billing system.
+
+**Lead generation and marketing information**
+
+We might collect information about you through adverts placed in third-party platforms such as [LinkedIn](https://www.linkedin.com/), [Twitter](https://twitter.com/) or [Google](https://www.google.com/). Whenever you click an advert on these platforms you may be asked to provide details such as:
+
+* Email address
+* Organisation of employment
+* Job title
+
+Within each of these adverts you will be notified of the legal basis under which your data will be processed. This information will be stored on our marketing automation platform [Force24](https://www.force24.co.uk/) and our CRM system [Pipedrive](https://www.pipedrive.com/), and will be processed in accordance with this policy.
+
 #### 2.2.2 Information we collect automatically as you use the service:
 
 **Connection Information**
@@ -153,9 +164,9 @@ We track usage data for Element hosting services. When you are signed in to your
 
 Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. The servers which host this data are located in the EEA, specifically in London, United Kingdom. We don't share any analytics data with third parties.
 
-If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes. 
+If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes.
 
-When reporting error we might collect some information to help us find a solution. This may include your IP address, hostname, full name and e-mail address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/) and is subject to strict retention policies.
+When reporting errors we might collect some information to help us find a solution. This may include your IP address, hostname, full name and e-mail address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/) and is subject to strict retention policies.
 
 ### 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights
 
@@ -244,3 +255,4 @@ If you want to make a complaint about the way we have processed your personal in
 * 2020, July 15: Document revision
 * 2020, August 14: Updates to section 2.2.2 and 2.10
 * 2020, October 9: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
+* 2020, October 27: update to section 2.2.1 to include marketing Information
