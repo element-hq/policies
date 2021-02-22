@@ -1,6 +1,6 @@
 ---
 title: Element Customer Privacy Policy
-version: 2.0.0
+version: 2.1.0
 ---
 
 Please read this document carefully before accessing or using this service!
@@ -58,13 +58,13 @@ If you are using the matrix.org server provided by the Matrix Foundation, you ca
 *   Matrix.org Code of Conduct - [https://matrix.org/docs/guides/code_of_conduct](https://matrix.org/docs/guides/code_of_conduct)
 *   Matrix.org Copyright Notice - [https://matrix.org/docs/guides/copyright_notice](https://matrix.org/docs/guides/copyright_notice)
 
-### 1.2 The Customer and the User
+### 1.3 The Customer and the User
 
 This document is designed to explain Data Protections issues relating to Element Customers and Users. Put simply, you're a Customer if you're paying (or otherwise compensating) Element to provide a dedicated hosted messaging service. If you have an account registered on a homeserver that you use to send and receive messages, or use the Element chat app to connect any server within the Matrix Protocol, you are a User.
 
 It is possible to be both a Customer and a User, but we encourage you to consider these roles separately when thinking about Data Protection concerns.
 
-### 1.3 Changes to This Document
+### 1.4 Changes to This Document
 
 Over time we may make changes to this document. If we make a material change we will provide the Customer with reasonable notice prior to the change. We will set forth the date upon which the changes will become effective; any use of Element by the Customer, or any use of a hosted homeserver from EMS by a User will constitute the Customer's acceptance of these changes.
 
@@ -111,7 +111,7 @@ The information we collect is for the purpose of supporting your management of h
 
 We collect information about you when you input it to the Element or Element Matrix Services apps or otherwise provide it directly to us.
 
-**Element Matrix Services Customer Account and Profile Information**
+**Element Matrix Services (EMS) and Element Home Customer Account and Profile Information**
 
 We collect information when you register for an account. This information is kept to a minimum on purpose, and is restricted to:
 
@@ -123,9 +123,9 @@ We collect information when you register for an account. This information is kep
 
 Your authentication identifier is used to authenticate your access to Element Matrix Services at https://ems.host and to uniquely identify you.
 
-**Element Matrix Services (EMS) Customer Account Transaction and Billing Information**
+**Element Matrix Services (EMS) Customer and Element Home Account Transaction and Billing Information**
 
-Paying for hosted homeserver service via EMS is handled entirely by our payment processor, [Stripe](https://stripe.com/en-gb/privacy). The processor stores your credit card information as well as your billing contact information in order to process your monthly or annual automatic renewals, or to allow you to upgrade or downgrade your subscription without re-entering a credit card number.
+Paying for hosted homeserver services via EMS is handled entirely by our payment processor, [Stripe](https://stripe.com/en-gb/privacy). The processor stores your credit card information as well as your billing contact information in order to process your monthly or annual automatic renewals, or to allow you to upgrade or downgrade your subscription without re-entering a credit card number.
 
 We never have access to, nor store your full credit card information.
 
@@ -138,6 +138,18 @@ The history of changes to the billing contact information on the invoice made by
 The data we collect in our transaction database, including Personal Data, is not shared with third parties, except for the purposes of determining the validity of a payment. In this case we may share the name and email address associated with the purchase with the credit card holder, your company's accounting department, or with our payment processor when responding to a chargeback.
 
 We use a third-party, [Quaderno](https://quaderno.io/policies/privacy/), to help us with tax automation within our billing system.
+
+**Element Home Account Setup**
+
+When setting up an Element Home account via the setup wizard, we will temporarily access your account data, in order to migrate your existing Matrix account to your new Element Home account. This includes:
+
+  * List of rooms you have joined
+  * Power levels in those rooms
+  * Your avatar
+
+The setup wizard will also request your OpenID and access token, in order to retrieve your name and verified email address. This information will be temporarily sent to our backend, but will not be retained following your setup completion.
+
+If you do not have an email address verified by a trusted homeserver (such as Matrix.org), we will require you to add and verify a valid email address, for billing and host setup purposes.
 
 **Lead generation and marketing information**
 
@@ -186,7 +198,7 @@ We never store password data in plain text; instead they are stored hashed (with
 
 It is your sole responsibility to keep your user name, password and other sensitive information confidential. Actions taken using your credentials shall be deemed to be actions taken by you, with all consequences including service termination, civil and criminal penalties.
 
-If you become aware of any unauthorized use of your account or any other breach of security, you must notify Element immediately by sending an email to [dpo@element.io](mailto:dpo@element.io). Users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised.
+If you become aware of any unauthorised use of your account or any other breach of security, you must notify Element immediately by sending an email to [dpo@element.io](mailto:dpo@element.io). Users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised.
 
 If you forget your password (and you have registered an email address) you can use the password reset facility to reset it.
 
@@ -218,7 +230,7 @@ We host the Element Matrix Services on Amazon Web Services (AWS), specifically:
 
 We also host the Gitter.im app on AWS, in a datacenter based in the East of the US.
 
-Amazon employees have access to this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
+Amazon employees may have access to this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
 
 We use Cloudflare to mitigate the risk of DDoS attacks. Here's [CloudFlare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
@@ -254,5 +266,6 @@ If you want to make a complaint about the way we have processed your personal in
 * 2018, August 2: This document was derived from the above.
 * 2020, July 15: Document revision
 * 2020, August 14: Updates to section 2.2.2 and 2.10
-* 2020, October 9: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
-* 2020, October 27: update to section 2.2.1 to include marketing Information
+* 2020, October 2: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
+* 2021, February 22: Updates to section 2, to include Element Home offering and update to section 2.2.1 to include marketing Information
+
