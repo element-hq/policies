@@ -1,6 +1,6 @@
 ---
 title: Element Customer Privacy Policy
-version: 2.1.0
+version: 2.1.1
 ---
 
 Please read this document carefully before accessing or using this service!
@@ -23,7 +23,7 @@ Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the
 
 Where you read ‘the Service’ in this document, it refers to the Element chat app instances exposed on [https://element.io](https://element.io) (or subdomains) by New Vector Ltd (trading as Element).
 
-Where you read *Element* (trading name of New Vector Ltd.), or *we* or *us*, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
+Where you read 'Element' or 'we' or 'us' below, it refers to Element, a trading name of New Vector Ltd., its French subsidiary: New Vector SARL, its U.S. subsidiary: Element Software Inc, and their agents.
 
 Element is the Data Controller for your data. We can be contacted as per the details below:
 
@@ -123,6 +123,8 @@ We collect information when you register for an account. This information is kep
 
 Your authentication identifier is used to authenticate your access to Element Matrix Services at https://ems.host and to uniquely identify you.
 
+You will be giving the choice to set up 2-Factor Authentication to secure your account. For 2FA over SMS, we will require your phone number. This information will be shared with [Twilio](https://www.twilio.com/), our 2FA provider.
+
 **Element Matrix Services (EMS) Customer and Element Home Account Transaction and Billing Information**
 
 Paying for hosted homeserver services via EMS is handled entirely by our payment processor, [Stripe](https://stripe.com/en-gb/privacy). The processor stores your credit card information as well as your billing contact information in order to process your monthly or annual automatic renewals, or to allow you to upgrade or downgrade your subscription without re-entering a credit card number.
@@ -176,7 +178,7 @@ We track usage data for Element hosting services. When you are signed in to your
 
 Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. The servers which host this data are located in the EEA, specifically in London, United Kingdom. We don't share any analytics data with third parties.
 
-If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes.
+If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients after opt-in, your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes.
 
 When reporting errors we might collect some information to help us find a solution. This may include your IP address, hostname, full name and e-mail address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/) and is subject to strict retention policies.
 
@@ -225,7 +227,7 @@ Data stored in Element is accessible by the Customer's account and by Element en
 
 We host the Element Matrix Services on Amazon Web Services (AWS), specifically:
 * Our admin server is hosted in an AWS data centre in Amsterdam;
-* Our deployment server is hosted in an AWS data centre in London;
+* Our deployment server is hosted in an AWS data centre in Stockholm;
 * Customer deployments have the option to select the geographical location which is the most convenient for them;
 
 We also host the Gitter.im app on AWS, in a datacenter based in the East of the US.
@@ -268,4 +270,5 @@ If you want to make a complaint about the way we have processed your personal in
 * 2020, August 14: Updates to section 2.2.2 and 2.10
 * 2020, October 2: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
 * 2021, February 22: Updates to section 2, to include Element Home offering and update to section 2.2.1 to include marketing Information
+* 2021, April 23: Updates to 1.1 to include US subsidiary and 2.2.1 to cover Twilio for 2FA
 
