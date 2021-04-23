@@ -123,7 +123,7 @@ We collect information when you register for an account. This information is kep
 
 Your authentication identifier is used to authenticate your access to Element Matrix Services at https://ems.host and to uniquely identify you.
 
-You will be giving the choice to set up 2-Factor Authentication to secure your account. For 2FA over SMS, we will require your phone number. This information will be shared with [Twilio](https://www.twilio.com/), our 2FA provider.
+You will be given the choice to set up 2-Factor Authentication to secure your account. For 2FA over SMS, we will require your phone number. This information will be shared with [Twilio](https://www.twilio.com/), our 2FA provider.
 
 **Element Matrix Services (EMS) Customer and Element Home Account Transaction and Billing Information**
 
