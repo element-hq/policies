@@ -1,5 +1,5 @@
 ---
-title: {{ policy_homeserver }} Homeserver Terms and Conditions
+title: Gitter Homeserver Terms and Conditions
 slug: Gitter Terms and Conditions
 ---
 
@@ -13,7 +13,7 @@ Most Terms of Use and Privacy Policy documents are unreadable. They are written 
 
 We decided to use plain English as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
-When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+When you read 'the Gitter homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
 Where you read *Element*, or *we *or* us* below, it refers to the company we created in July 2017, to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is a trading name of New Vector Ltd. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by Element**
 
@@ -21,7 +21,7 @@ If this agreement is not acceptable, please use a Matrix server provided by some
 
 Contact Information:
 
-Email: [support@matrix.org](mailto:support@matrix.org)
+Email: [support@gitter.io](mailto:support@gitter.io)
 
 Postal address:
 
@@ -60,6 +60,10 @@ If you think we removed your access by mistake, send an email to [support@matrix
 
 ## 2. Support
 
+If your support inquiry doesn't need to be private, drop by the [gitter/gitter](https://gitter.im/gitter/gitter) room.
+
+Otherwise, send a message to support@gitter.im
+
 Support for the {{ policy_homeserver }} homeserver is provided on a best effort basis by New Vector Ltd - however, support is often available from the wider Matrix Community in the public Matrix Support rooms (as listed in the [+matrix:matrix.org](https://matrix.to/#/+matrix:matrix.org) community).
 
 Queries sent to [support@gitter.im](mailto: support@gitter.im) will be addressed on a best-effort basis. Phone support is not provided.
@@ -72,7 +76,7 @@ We will support our users as much as we can, but we are also a small team and va
 
 ### 3.1 Who Owns the IP of My Messages and Files?
 
-We do not claim intellectual property rights over rooms, message content or files uploaded to the Service.
+We do not claim intellectual property rights over rooms(groups in the codebase), message content or files uploaded to the Service.
 
 You acknowledge and agree that we have no liability of any kind should anyone you granted access to your messages or files modify, destroy, corrupt, copy or distribute them, or violate the terms of use or other limitations that you may impose on the use of your shared content.
 
