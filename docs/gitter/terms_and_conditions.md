@@ -13,7 +13,7 @@ Most Terms of Use and Privacy Policy documents are unreadable. They are written 
 
 We decided to use plain English as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
-When you read 'the Gitter homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+When you read 'the Gitter homeserver' or 'the Service' below, it refers to the services made available at gitter.im which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
 Where you read *Element*, or *we *or* us* below, it refers to the company we created in July 2017, to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is a trading name of New Vector Ltd. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by Element**
 
