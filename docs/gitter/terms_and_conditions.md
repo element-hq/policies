@@ -17,7 +17,7 @@ When you read 'the Gitter homeserver' or 'the Service' below, it refers to the s
 
 Where you read *Element*, or *we *or* us* below, it refers to the company we created in July 2017, to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is a trading name of New Vector Ltd. **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server ({{ policy_homeserver }}) provided by Element**
 
-If this agreement is not acceptable, please use a Matrix server provided by someone else!
+If this agreement is not acceptable, please do not use the Gitter server and use a Matrix server provided by someone else!
 
 Contact Information:
 
@@ -30,11 +30,11 @@ London
 United Kingdom
 EC4R 1AG
 
-Should you have other questions or concerns about this document, please send us an email at [support@matrix.org](mailto:support@matrix.org).
+Should you have other questions or concerns about this document, please send us an email at [support@gitter.io](mailto:support@gitter.io)
 
 ### 1.2 Using The Service Means Accepting These Terms
 
-By accessing or using the Service in any way, whether you have created a Matrix account on the {{ policy_homeserver }} homeserver, or whether you are accessing content federated from the {{ policy_homeserver }} homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, you agree to and are bound by the terms and conditions written in this document.
+By accessing or using the Service in any way, whether you have created a Gitter account on the {{ policy_homeserver }} homeserver, or whether you are accessing content federated from the {{ policy_homeserver }} homeserver to another Matrix homeserver, or are just browsing rooms as an unauthenticated guest, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, please use a Matrix server provided by someone else and refrain from accessing content federated from this server.
 
@@ -42,7 +42,7 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@matrix.org and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@gitter.io and we'll chat.
 
 We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
@@ -116,7 +116,7 @@ You agree that you shall not:
 
 * Access or attempt to access any material that you are not authorized to access.
 
-* Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://matrix.org/legal/copyright-notice) for further details.
+* Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://element.io/copyright) for further details.
 
 * Disrupt or interfere with the security of, or otherwise cause harm to, the {{ policy_homeserver }} homeserver, systems resources, accounts, passwords, servers or networks connected to or accessible through the Service or any affiliated or linked sites.
 
@@ -130,17 +130,17 @@ You agree that you shall not:
 
 * Violate any applicable laws or regulations related to the access to or use of the Service, or engage in any activity prohibited by the Terms of Use.
 
-* Use the Service for any unlawful purposes or in support of illegal activities under UK/EU law. By using the Service, you agree to comply with all applicable laws governing your online conduct and content
+* Use the Service for any unlawful purposes or in support of illegal activities under UK law. By using the Service, you agree to comply with all applicable laws governing your online conduct and content
 
-* Act in a way that is in violation of our [Code of Conduct]({{ code_of_conduct_uri }}) in rooms that are part of the Matrix community ([+matrix:matrix.org](https://matrix.to/#/+matrix:matrix.org)).
+* Act in a way that is in violation of our [Code of Conduct]({{ code_of_conduct_uri }}) in rooms that are part of the ([Gitter community](https://gitter.im/explore/tags/?action=explore&source=homepage)).
 
-* Violate the rights of New Vector or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
+* Violate the rights of Gitter, New Vector or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
 
 Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. New Vector Ltd. offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, the {{ policy_homeserver }} service or another third-party service. You agree that you will not hold New Vector Ltd. responsible or liable with respect to the third-party services.
 
 ### 6.2 Illegal Content
 
-Any content containing or promoting indecent images/depictions of children is illegal and utterly prohibited on the Service. When we become aware of such content, we refer the details to the relevant authorities. If you've found an account, room or group being used for the distribution or promotion of child sexual exploitation, please share the details in an email to [abuse@matrix.org](mailto:abuse@matrix.org).
+Any content containing or promoting indecent images/depictions of children is illegal and utterly prohibited on the Service. When we become aware of such content, we refer the details to the relevant authorities. If you've found an account, room or group being used for the distribution or promotion of child sexual exploitation, please share the details in an email to [abuse@matrix.org](mailto:abuse@m.org).
 
 ## 7. Restriction and Termination of Use
 
@@ -186,7 +186,7 @@ Some states or jurisdictions do not allow the exclusion of implied warranties or
 
 *Note on Plain English: We know that the language in this section still reads like legalese - this will be improved in later revisions of this document.*
 
-You agree to indemnify and hold Element and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of:
+You agree to indemnify and hold Element, Gitter and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of:
 
 1. your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through the Service, including a third party's use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
 
@@ -248,9 +248,8 @@ Subject to your acceptance of, and compliance with, this Agreement and any payme
 
 You may also be subject to additional terms and conditions that may apply when you use other Element services, third party content or third party software. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by Element to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
 
-## 16. Document History
+## 17. Document History
 
-* 2018, March 28: created.
-* 2020, July 15: Updated
-
+* 2021, April 29: created.
+* 
 **A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
