@@ -21,7 +21,7 @@ If this agreement is not acceptable, please do not use the Gitter server and use
 
 Contact Information:
 
-Email: [support@gitter.io](mailto:support@gitter.io)
+Email: [support@gitter.im](mailto:support@gitter.im) 
 
 Postal address:
 
@@ -30,7 +30,7 @@ London
 United Kingdom
 EC4R 1AG
 
-Should you have other questions or concerns about this document, please send us an email at [support@gitter.io](mailto:support@gitter.io)
+Should you have other questions or concerns about this document, please send us an email at [support@gitter.im](mailto:support@gitter.im)
 
 ### 1.2 Using The Service Means Accepting These Terms
 
@@ -42,7 +42,7 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@gitter.io and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@gitter.im and we'll chat.
 
 We don't amend this document for any specific users or use case, but if your proposed changes apply to all of our users, we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
