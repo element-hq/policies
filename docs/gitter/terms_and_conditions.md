@@ -60,7 +60,7 @@ If you think we removed your access by mistake, send an email to [support@gitter
 
 ## 2. Support
 
-If your support inquiry doesn't need to be private, drop by the [gitter/gitter](https://gitter.im/gitter/gitter) room.
+If your support inquiry doesn't need to be private, [create an issue](https://gitlab.com/gitterHQ/webapp/-/issues) or drop by the [gitter/gitter](https://gitter.im/gitter/gitter) room.
 
 Otherwise, send a message to support@gitter.im
 
