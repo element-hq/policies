@@ -56,7 +56,7 @@ If you breach any of the terms and conditions in this document, your authorizati
 
 We may block, restrict, disable, suspend or terminate your access to all or part of the Service at any time in our sole discretion, without prior notice or liability to you.
 
-If you think we removed your access by mistake, send an email to [support@matrix.org](mailto:support@matrix.org) and we'll give you our reasoning.
+If you think we removed your access by mistake, send an email to [support@gitter.im](mailto:support@gitter.im) and we'll give you our reasoning.
 
 ## 2. Support
 
@@ -140,7 +140,7 @@ Materials and Services provided by third parties are governed by separate agreem
 
 ### 6.2 Illegal Content
 
-Any content containing or promoting indecent images/depictions of children is illegal and utterly prohibited on the Service. When we become aware of such content, we refer the details to the relevant authorities. If you've found an account, room or group being used for the distribution or promotion of child sexual exploitation, please share the details in an email to [abuse@matrix.org](mailto:abuse@m.org).
+Any content containing or promoting indecent images/depictions of children is illegal and utterly prohibited on the Service. When we become aware of such content, we refer the details to the relevant authorities. If you've found an account, room or group being used for the distribution or promotion of child sexual exploitation, please share the details in an email to [abuse@element.io](mailto:abuse@element.io).
 
 ## 7. Restriction and Termination of Use
 
