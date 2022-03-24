@@ -1,7 +1,7 @@
-----
--title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver User Terms and Conditions
--version: 1.0.0
-----
+---
+- title: {{ hhs_entity_name }} ({{ hhs_name }}.{{ hhs_server_domain }}) Homeserver User Terms and Conditions
+- version: 1.0.0
+---
 
 These User Terms and Conditions ('User Terms') describe your rights and responsibilities when using the services enabled by the {{ their_server_name }} Homeserver. Please read this document carefully before accessing or using this service!
 

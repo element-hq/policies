@@ -1,6 +1,6 @@
 # policies
 
-Policy documents for services run by New Vector
+Policy documents for services run by New Vector Ltd (trading as Element)
 
 ## Versioning
 
@@ -33,7 +33,7 @@ for FILE in $(find docs -name '*.md' | grep -v README.md); do ./scripts/versions
 
 ## Templating
 
-Most of these files are templated using `{{ variable_name }}`, to be digested by ansible/jinja2 somewhere down the line for deployment to different instances. To apply New Vector data to the templates, you can use [jinja2-cli](https://pypi.org/project/jinja2-cli/):
+Most of these files are templated using `{{ variable_name }}`, to be digested by ansible/jinja2 somewhere down the line for deployment to different instances. To apply Element data to the templates, you can use [jinja2-cli](https://pypi.org/project/jinja2-cli/):
 
 ```
 $ jinja2 <filename> ~/path/to/new_vector.json --format=json
