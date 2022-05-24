@@ -1,6 +1,6 @@
 ---
 title: Element Matrix Services Customer Terms and Conditions
-version: 2.0.0
+version: 2.1.0
 ---
 
 These Element Matrix Services Customer Terms and Conditions ('Customer Terms') govern your use and access of our Services.  Authorised Users are bound by the [Users Terms and Conditions](https://element.io/user-terms-of-service) ('Users Terms'). Please read this document carefully before accessing or using this service!
@@ -19,13 +19,13 @@ If the Customer decides to replace you as the representative with ultimate autho
 
 The Customer can invite users or open free registration to their Homeservers. People who have been invited, or have registered freely, to use a Homeserver controlled by the Customer are 'Authorised Users' of that Homeserver.
 
-When you read 'Element Matrix Services', 'EMS' or 'the Hosting Service' it refers to the service exposed at [https://element.io/matrix-services](https://element.io/matrix-services) for the purchase, configuration and management of Matrix homeservers hosted and run by New Vector Ltd (trading as Element).
+When you read 'Element Matrix Services', 'EMS', 'Element Home', or 'the Hosting Service' it refers to the service exposed at [https://element.io/matrix-services](https://element.io/matrix-services) for the purchase, configuration and management of Matrix homeservers hosted and run by New Vector Ltd (trading as Element).
 
 When you read 'the Homeserver' or 'the Communication Service', it refers to an instance of a Matrix homeserver provisioned by the customer via EMS. This instance makes available communication services which might include messaging features in public and private chat room, voice and video calls and interactions with third-party applications. The Homeserver stores the users' account and personal conversation history and may provide services such as bots and bridges, and may communicate via the open Matrix decentralised communication protocol with the public Matrix Network, if you, as the Homerserver Owner, choose to.
 
 The 'Services' refers to both the Hosting and Communication Services.
 
-Where you read 'Element' or *'we'* or *'us'* below, it refers to Element, a trading name of New Vector Ltd. and its French subsidiary: New Vector SARL and their agents.
+Where you read 'Element' or *'we'* or *'us'* below, it refers to Element, a trading name of New Vector Ltd., its French subsidiary: New Vector SARL, its U.S. subsidiary: Element Software Inc, and their agents.
 
 **This agreement does not apply to Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server provisioned by the Customer and provided by Element.**
 
@@ -49,7 +49,7 @@ You agree that it is solely the Customer's responsibility to inform the Authoris
 
 This is a living document. With your help, we want to continuously improve it.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [support@element.io](mailto:support@element.io) and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [ems-support@element.io](mailto:ems-support@element.io) and we'll chat.
 
 We don't amend this document for any specific Customers, Users or use case, but if your proposed changes apply more broadly, we'll be happy to update it for everyone.
 
@@ -57,7 +57,7 @@ If we make a material change to this document we will provide you with reasonabl
 
 Your access and use of the Hosting Service is always subject to the most current version of this document.
 
-Should you have other questions or concerns about this document, please contact us at [support@element.io](mailto:support@element.io) or at our mailing address below:
+Should you have other questions or concerns about this document, please contact us at [ems-support@element.io](mailto:ems-support@element.io) or at our mailing address below:
 
 Element
 c/o New Vector Ltd.  
@@ -127,7 +127,7 @@ Each size of homeserver corresponds to a given pricing plan, which includes a nu
 
 A "Monthly Active User" (MAU) is a unique user which has been active (i.e. made a request to the server by e.g. logging in, reading messages, sending messages or firing up the app) in the last 30 days.
 
-MAUs only contribute to the MAU total count when they are active and if they are older than 2 days, which means newly registered users can use the Service for free for 2 days.
+MAUs only contribute to the MAU total count when they are active and if they are older than 2 days, which means newly registered users can use the Service for free for 2 days. Deactivating an account does not remove it from the MAU count  this means the account will still be counted for a month after it was last active.
 
 "Guest users" are users who access the Service in a read-only mode: they can read rooms but not write nor invite another user to chat, or create a room. Guest users do not contribute to the MAU total count and are free, but their activity does contribute to the resource usage of the host, when they peek in a room. Guest users access can be disabled in the host management panel. If guest users are disabled,every user will have to register to be able to read a room, and will as such contribute to the MAU total count (after 2 days).
 
@@ -164,7 +164,7 @@ Additional Users can be added and removed from the plan at any time and will be 
 
 ## 6. Support
 
-Support is available by email to [support@element.io](mailto:support@element.io). Queries will be addressed at a different priority level depending on the bundle which has been subscribed to:
+Support is available by email to [ems-support@element.io](mailto:ems-support@element.io). Queries will be addressed at a different priority level depending on the bundle which has been subscribed to:
     - Nickel: queries will be addressed on a best-effort basis.
     - Silver: queries will be prioritised, but no SLA is guaranteed.
     - Gold and above: queries will be prioritsed and we guarantee a turnaround within the next business day.
@@ -183,7 +183,7 @@ Although the Customer might prevent access and integration to third party applic
 
 ## 8. Termination of Use
 
-The Customer can terminate the subscription at any time, although the fees for the Plan for the billing period are not refundable.
+The Customer can terminate the subscription at any time, although the fees for the Plan for the billing period are not refundable. Element reserves the right to immediately terminate accounts found to be involved in criminal activity. In cases of non-payment, we will send a 14 day notice of termination before taking action. 
 
 ## 9. Encryption
 
