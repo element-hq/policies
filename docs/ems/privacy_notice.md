@@ -162,7 +162,7 @@ We might collect information about you through adverts placed in third-party pla
 * Organisation of employment
 * Job title
 
-Within each of these adverts you will be notified of the legal basis under which your data will be processed. This information will be stored on our marketing automation platform [Force24](https://www.force24.co.uk/) and our CRM system [Salesforce](https://www.salesforce.com/), and will be processed in accordance with this policy.
+Within each of these adverts you will be notified of the legal basis under which your data will be processed. This information will be stored on our marketing automation platform [Outplay](https://outplayhq.com/) and our CRM systems [Salesforce](https://www.salesforce.com/uk/?ir=1) and [Pipedrive](https://www.pipedrive.com/), and will be processed in accordance with this policy. We also use [Hubspot](https://www.hubspot.com/), [Matomo](https://matomo.org/) and [Posthog](https://posthog.com/) to manage our website analytics and marketing automation. 
 
 #### 2.2.2 Information we collect automatically as you use the service:
 
@@ -185,11 +185,11 @@ When reporting errors we might collect some information to help us find a soluti
 
 **Location Information**
 
-We may collection location data on you, if you chose to use the static or live location sharing features within the Element app. This includes your longitude, altitude and latitude data in order to accurately calculate your precise location. 
+We may collect location data on you, if you choose to use the static or live location sharing features within the Element app. This includes your longitude, altitude and latitude data in order to accurately calculate your precise location. 
 
-Location data is held within the room in which is shared in, so it will be encrypted in encrypted rooms and not encrypted in rooms where encryption is switched off. You will be shown a disclaimer during your first time using this feature, but please apply caution and consideration when sharing your personal data within the app.
+Location data is held within the room in which it is shared, so it will be encrypted in encrypted rooms and not encrypted in rooms where encryption is switched off. You will be shown a disclaimer during your first time using this feature, but please apply caution and consideration when sharing your personal data within the app.
 
-We use the third-party library [MapLibre](https://maplibre.org/) to provide you with map information.
+The Element clients use the third-party service [MapTiler](https://www.maptiler.com/) to provide the images used to display maps.
 
 ### 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights
 
@@ -285,5 +285,5 @@ If you want to make a complaint about the way we have processed your personal in
 * 2021, April 23: Updates to 1.1 to include US subsidiary and 2.2.1 to cover Twilio for 2FA
 * 2021, October 11: updates to 2.2.1 to cover changes in Marketing subprocessors
 * 2021, December 1: updates to 1.2 to define relationship with identity servers
-* 2022, May 25: updates to 2.2.2 to include location sharing
+* 2022, May 30: updates to 2.2.2 to include location sharing
 
