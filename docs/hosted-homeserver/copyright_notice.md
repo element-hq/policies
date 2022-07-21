@@ -1,8 +1,8 @@
 # {{ hhs_entity_name }} ({{ their_server_name }}) Copyright Notice
 
-Where you read *Element*, *we* or *us* below, it refers to New Vector Ltd., and its French subsidiary: New Vector SARL and their agents. Element is trading name of New Vector.
+Where you read 'Element' or 'we' or 'us' below, it refers to Element, a trading name of New Vector Ltd., its French subsidiary: Element Software SARL, its U.S. subsidiary: Element Software Inc, its German subsidiary: Element Software GmbH, and their agents.
 
-When you read 'the {{ their_server_name }} homeserver' or 'the Service' below, it refers to the services made available at **{{ our_server_fqdn }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+When you read 'the homeserver' or 'the Service' below, it refers to the services made available at Element Matrix Services (EMS).
 
 If the terms of this copyright notice are not acceptable, please use a Matrix server provided by someone else!
 
