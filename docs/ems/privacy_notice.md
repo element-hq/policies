@@ -50,6 +50,7 @@ This document explains how we process personal data, as it relates to:
 This document does not cover:
 
 *   *Your relationship with the Matrix server if it isn't provided by EMS*: Your account details and preferences, messages, files and any other data you share via the Matrix protocol are the responsibility of the Matrix server, and it is the provider of that server's job to make sure your data is handled appropriately and that you are well informed.
+*   *Your relationship with identity servers*: you might chose to use an identity server, to allow other Matrix users to discover you via the Element app. This is optional and requires your explicit consent to discover users from your personal contacts. For the identity server made available by us, please see the [Identity Server Privacy Notice](https://element.io/is-privacy-notice).
 
 If you are using the matrix.org server provided by the Matrix Foundation, you can find the relevant Privacy Notice and Terms and Conditions here:
 
@@ -161,7 +162,7 @@ We might collect information about you through adverts placed in third-party pla
 * Organisation of employment
 * Job title
 
-Within each of these adverts you will be notified of the legal basis under which your data will be processed. This information will be stored on our marketing automation platform [Force24](https://www.force24.co.uk/) and our CRM system [Pipedrive](https://www.pipedrive.com/), and will be processed in accordance with this policy.
+Within each of these adverts you will be notified of the legal basis under which your data will be processed. This information will be stored on our marketing automation platform [Outplay](https://outplayhq.com/) and our CRM systems [Salesforce](https://www.salesforce.com/uk/?ir=1) and [Pipedrive](https://www.pipedrive.com/), and will be processed in accordance with this policy. We also use [Hubspot](https://www.hubspot.com/), [Matomo](https://matomo.org/) and [Posthog](https://posthog.com/) to manage our website analytics and marketing automation. 
 
 #### 2.2.2 Information we collect automatically as you use the service:
 
@@ -178,9 +179,17 @@ We track usage data for Element hosting services. When you are signed in to your
 
 Our analytics are powered by the Free and Open Source analytics platform [Matomo](https://matomo.org/), hosted entirely within our network. The servers which host this data are located in the EEA, specifically in London, United Kingdom. We don't share any analytics data with third parties.
 
-If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients after opt-in, your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes.
+If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients after opt-in, your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes. For further details on our collection and usage of analytics data, please see our [Cookie Policy](https://element.io/cookie-policy).
 
 When reporting errors we might collect some information to help us find a solution. This may include your IP address, hostname, full name and e-mail address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/) and is subject to strict retention policies.
+
+**Location Information**
+
+We may collect location data on you, if you choose to use the static or live location sharing features within the Element app. This includes your longitude, altitude and latitude data in order to accurately calculate your precise location. 
+
+Location data is held within the room in which it is shared, so it will be encrypted in encrypted rooms and not encrypted in rooms where encryption is switched off. You will be shown a disclaimer during your first time using this feature, but please apply caution and consideration when sharing your personal data within the app.
+
+The Element clients use the third-party service [MapTiler](https://www.maptiler.com/) to provide the images used to display maps.
 
 ### 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights
 
@@ -202,7 +211,7 @@ It is your sole responsibility to keep your user name, password and other sensit
 
 If you become aware of any unauthorised use of your account or any other breach of security, you must notify Element immediately by sending an email to [dpo@element.io](mailto:dpo@element.io). Users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised.
 
-If you forget your password (and you have registered an email address) you can use the password reset facility to reset it.
+If you forget your password (and you have registered an email address) you can use the password reset facility to reset it. 
 
 ### 2.6 Our Commitment to Children's Privacy
 
@@ -220,25 +229,28 @@ Data stored in Element is accessible by the Customer's account and by Element en
 
 ### 2.9 What Are the Guidelines Element Follows When Accessing My Data?
 
-*   We restrict who at Element (employees and contractors) can access Element data to roles which require access in order to maintain the health of the Element apps and services.
+*   We restrict who at Element (employees and contractors) can access Element non-encrypted data to roles which require access in order to maintain the health of the Element apps and services.
 *   We never share what we see with other users or the general public.
 
 ### 2.10 Who Else Has Access to My Data?
 
 We host the Element Matrix Services on Amazon Web Services (AWS), specifically:
+
 * Our admin server is hosted in an AWS data centre in Amsterdam;
 * Our deployment server is hosted in an AWS data centre in Stockholm;
 * Customer deployments have the option to select the geographical location which is the most convenient for them;
 
 We also host the Gitter.im app on AWS, in a datacenter based in the East of the US.
 
-Amazon employees may have access to this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
+Amazon employees may have access to some of this data. Here's [Amazon's privacy policy](https://aws.amazon.com/privacy/). Amazon controls physical access to their locations.
 
 We use Cloudflare to mitigate the risk of DDoS attacks. Here's [CloudFlare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 Physical access to our offices and locations use typical physical access restrictions.
 
 We use secure private keys when accessing servers via SSH, and protect our AWS console passwords locally with a password management tool.
+
+Nobody at Element, or any of our processors, is able to access encrypted data.
 
 ### 2.11 What happens if Element is sold?
 
@@ -271,4 +283,7 @@ If you want to make a complaint about the way we have processed your personal in
 * 2020, October 2: Update to section 2 to include Gitter user data and section 2.2.2 to include Sentry error log collection
 * 2021, February 22: Updates to section 2, to include Element Home offering and update to section 2.2.1 to include marketing Information
 * 2021, April 23: Updates to 1.1 to include US subsidiary and 2.2.1 to cover Twilio for 2FA
+* 2021, October 11: updates to 2.2.1 to cover changes in Marketing subprocessors
+* 2021, December 1: updates to 1.2 to define relationship with identity servers
+* 2022, May 30: updates to 2.2.2 to include location sharing
 
