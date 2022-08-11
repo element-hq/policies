@@ -267,7 +267,7 @@ You can access all that we collect about you by using any compatible Matrix clie
 
 In unencrypted and encrypted rooms, users connecting to the Matrix.org homeserver (directly or over federation) will be able to see messages and files according to the access permissions configuration of the relevant room. This data is stored in the format it was received on our servers, and can be viewed by New Vector engineers (employees and contractors) under the conditions outlined below.
 
-In encrypted rooms, the data is stored in our databases but the encryption keys are stored only on your devices or by yourself. Users can optionally backup an encrypted copy of their keys on the Service to aid recovery if they lose all their keys and devices. This key backup is encrypted by a recovery key that only the user has access to. This means that nobody, even Element engineers (employees and contractors) can see your message content in our database, and if you lose access to your encryption keys you lose access to your messages forever.
+In encrypted rooms, the data is stored in our databases but the encryption keys are stored only on your devices or by yourself. Users can optionally backup an encrypted copy of their keys on the Service to aid recovery if they lose all their keys and devices. This key backup is encrypted by a recovery key that only the user has access to. Element (the company, employees, and contractors) are unable to read your message content in our database. If you lose access to your encryption keys, you lose access to your messages forever.
 
 We use HTTPS to transfer all data. End-to-end encrypted messaging data is stored encrypted using AES-256, using message keys generated using the Olm and Megolm cryptographic ratchets.
 
