@@ -86,6 +86,8 @@ Where you shared messages or files with another registered Matrix user, that use
 
 State events are processed differently to non-state events. State events are used by the Service to record, amongst other things, your membership in a room, the configuration of room settings, your changing of another user's power level and your banning a user from a room. Were we to erase these state events from a room entirely, it would be very damaging to other users' experience of the room, causing banned users to become unbanned, revoking legitimate administrator privileges, etc. We therefore share state events sent by your account with all non-essential data removed ('redacted'), even after we have processed your request to be forgotten. This means that your username will continue to be publicly associated with rooms in which you have participated, even after we have processed your request to be forgotten. We are actively working on a solution to work around this restriction and allow you to be fully forgotten while maintaining a high quality experience for other users. If this is not acceptable to you, please do not use the Service.
 
+We will never reactivate an account for you which has been deleted. 
+
 #### 2.1.3.1 Exceptional Erasure
 
 As described above, erasing a state event may result in our needing to erase the entire conversation at the same time. Deciding whether to take this drastic step will require a balancing exercise to be carried out at the time of the request, and will depend on:
