@@ -173,6 +173,12 @@ We log the IP addresses of everyone who accesses Element. This data is used in o
 * 30 days, for EMS Customer IP addresses;
 * 180 days, for Element chat app IP addresses;
 
+**Device information and management**
+
+We track devices accessing Element hosting services. Where possible, we record the device identifier, IP address, user agent, device model and version, client details and the time at which the device last connected to the service.
+
+This information is gathered to help you to manage your devices with the device manager - you can view and manage the list of devices by using a Matrix client such as the Element chat app.
+
 **Usage Information**
 
 We track usage data for Element hosting services. When you are signed in to your account we may track your usage of the site and associate that information with your account details. This data helps us understand how our users are using the application so that we can make improvements to the Service.
@@ -286,4 +292,5 @@ If you want to make a complaint about the way we have processed your personal in
 * 2021, October 11: updates to 2.2.1 to cover changes in Marketing subprocessors
 * 2021, December 1: updates to 1.2 to define relationship with identity servers
 * 2022, May 30: updates to 2.2.2 to include location sharing
+* 2022, August 17: update to 2.2.2 to include device managment
 
