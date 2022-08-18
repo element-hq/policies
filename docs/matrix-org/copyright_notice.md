@@ -1,9 +1,9 @@
 ---
 title: {{ policy_homeserver }} Copyright Notice
-version: 1.0.0
+version: 2.0.0
 ---
 
-Where you read *Element*, or *we* or *us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the {{ policy_homeserver }} homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents, which is currently trading as Element.
+Where you read 'Element' or 'we' or 'us' below, it refers to Element, a trading name of New Vector Ltd., its French subsidiary: New Vector SARL, its U.S. subsidiary: Element Software Inc, and their agents.
 
 When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
