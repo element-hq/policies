@@ -60,7 +60,7 @@ If you think we removed your access by mistake, send an email to [support@matrix
 
 ## 2. Support
 
-Support for the {{ policy_homeserver }} homeserver is provided on a best effort basis by New Vector Ltd - however, support is often available from the wider Matrix Community in the public Matrix Support rooms (as listed in the [+matrix:matrix.org](https://matrix.to/#/+matrix:matrix.org) community).
+Support for the {{ policy_homeserver }} homeserver is provided on a best effort basis by Element - however, support is often available from the wider Matrix Community in the public Matrix Support rooms.
 
 Queries sent to [support@matrix.org](mailto:support@matrix.org) will be addressed on a best-effort basis by the paid team. Phone support is not provided.
 
@@ -148,7 +148,7 @@ The Services may allow you to encrypt your communications end-to-end between dev
 
 ## 9. Links to Third Party Sites
 
-The Service may include links that will take you to other sites outside of the the Service. The linked sites are provided as a convenience and the inclusion of the links do not imply any endorsement by us of any linked site. We have no control of the linked sites and you therefore acknowledge and agree that we are not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that we are not responsible for any form of transmission (e.g. webcasting) received from any linked site.
+The Service may include links that will take you to other sites outside of the Service. The linked sites are provided as a convenience and the inclusion of the links do not imply any endorsement by us of any linked site. We have no control of the linked sites and you therefore acknowledge and agree that we are not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that we are not responsible for any form of transmission (e.g. webcasting) received from any linked site.
 
 ## 10. Warranties and Disclaimers
 
@@ -248,5 +248,6 @@ You may also be subject to additional terms and conditions that may apply when y
 
 * 2018, March 28: created.
 * 2020, July 15: Updated
+* 2022, August 18: updated
 
 **A note to other startups:** this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/). We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
