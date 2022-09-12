@@ -19,7 +19,7 @@ When you read 'the integration manager' below, it refers to the integration mana
 
 This agreement covers all of these instances, and any others that we may choose to provide on https://vector.im or any subdomain (https://\*.vector.im). We might change which instances we run, and how they are accessed, at any time.
 
-Where you read *Element*, *we* or *us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix's development: New Vector Ltd., its French subsidiary: New Vector SARL, and their agents. Element is trading name of New Vector.
+Where you read *Element*, *we* or *us* below, it refers to the company created in July 2017 to hire the Matrix core team and support Matrix's development: Element, a trading name of New Vector Ltd., its French subsidiary: Element Software SARL, its U.S. subsidiary: Element Software Inc, its German subsidiary: Element Software GmbH, and their agents.
 
 Should you have other questions or concerns about this document, please send us an email at [support@element.io](mailto:support@element.io).
 
