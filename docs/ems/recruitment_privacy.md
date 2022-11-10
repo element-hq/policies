@@ -27,7 +27,7 @@ We collect and process some or all of the following types of information from yo
 
 6. We may collect special categories data for equal opportunities, diversity and inclusion purposes. This includes information about health, ethnic origin, sexual orientation or religious beliefs.
 
-We collect and store your information using Workable, as a data processor. You can review their privacy policy[ here](https://www.workable.com/privacy).
+We collect and store your information using Workable, as a data processor. You can review their privacy policy [here](https://www.workable.com/privacy).
 
 If your application is unsuccessful we will hold your data (in our systems) for 12 months after the recruitment process concludes. After this point it will be deleted.
 
@@ -36,7 +36,7 @@ If you are successful in your application, data collected will be transferred to
 
 ### **Information we collect from other sources**
 
-On application we may follow links provided by you directly or indirectly to publicly available information that you have published on the internet – this may include sources such as Github and other social media profiles, such as LinkedIn.
+On application we may follow links provided by you directly or indirectly to publicly available information that you have published on the internet – this may include sources such as GitHub and other social media profiles, such as LinkedIn.
 
 If you provide a Matrix ID alongside your application, we will also run it against our Trust & Safety databases, to ensure there is no infringement of our Terms and Conditions.
 
@@ -72,7 +72,7 @@ You have rights in relation to the personal data we hold about you. Under the GD
 
 Whenever possible we will try to apply the same rights to jurisdictions where the GDPR does not apply.
 
-For more information about these rights, please see[ the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or would like to exercise these rights, please contact us at [dpo@element.io](mailto:dpo@element.io)
+For more information about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or would like to exercise these rights, please contact us at [dpo@element.io](mailto:dpo@element.io)
 
 ### Document History
 - 2020, July 13: Recruitment Privacy Notice created.
