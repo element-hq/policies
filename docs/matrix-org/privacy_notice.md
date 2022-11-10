@@ -18,8 +18,6 @@ The public Matrix Network is a decentralised and openly federated communication 
 
 Where you read The Matrix.org Foundation C.I.C., The Matrix.org Foundation, or The Foundation, it refers to the Community Interest Company incorporated on 29 October 2018 to be the neutral custodian of the Matrix protocol: The Matrix Foundation C.I.C., and their agents.
 
-Where you read *Element* (trading name of New Vector Ltd. and New Vector SARL), Element.io, or *we*, *our*, or *us* below, it refers to the company we created in July 2017 to hire the Matrix core team and support Matrix's development and so run the Matrix.org homeserver: New Vector Ltd., and its French subsidiary: New Vector SARL and their agents.
-
 The Matrix protocol is licensed by the Matrix Foundation which makes it available to third parties who set up their own homeserver. This privacy policy does not apply to such Matrix servers run by anyone else - Matrix is an open network like the Web and this agreement only applies to the server (Matrix.org) provided by Element.
 
 Matrix.org is the Data Controller for the Service. We can be contacted as per the details below:
@@ -55,7 +53,7 @@ Your access and use of the Service is always subject to the most current version
 
 #### 2.1.1 Legal Basis for Processing
 
-Element processes your data under a Legitimate Interest basis of processing, to provide our Service to you in an efficient and secure manner and to ensure the legal compliance and proper administration of our business. Essentially, this means that we process your data only as necessary to deliver the Service and for internal administration purposes, and in a manner that you understand and expect. We also carry out processing that is necessary to provide our Service to you under our Matrix.org Homeserver Terms and Conditions and processing that is necessary to comply with our legal obligations. Where consent is required by law in relation to certain processing, we will ask for your consent.
+Matrix.org processes your data under a Legitimate Interest basis of processing, to provide our Service to you in an efficient and secure manner and to ensure the legal compliance and proper administration of our business. Essentially, this means that we process your data only as necessary to deliver the Service and for internal administration purposes, and in a manner that you understand and expect. We also carry out processing that is necessary to provide our Service to you under our Matrix.org Homeserver Terms and Conditions and processing that is necessary to comply with our legal obligations. Where consent is required by law in relation to certain processing, we will ask for your consent.
 
 We process your information for the purposes of providing our decentralised, openly-federated and end-to-end encrypted communication Service, getting in touch with you, responding to your requests, working with our suppliers to deliver the Service and enabling its features, ensuring the security of our Service, developing, fixing and improving our Service, administering our business and complying with the law.
 
@@ -106,7 +104,7 @@ Under GDPR you have a right to request a copy of your data in a commonly-accepte
 
 The information we collect is purely for the purpose of providing your communication service via Matrix. We do **not** profile users or their data on the Service.
 
-Be aware that while we do not profile users on the Service, third party Matrix clients may gather usage data. The Element app (the Matrix client provided by Element) optionally gathers opt-in anonymised usage data in order to improve the app. This data is retained for not longer than 13 months. For more details on how your data is processed by Element, please review its privacy policy.
+Be aware that while we do not profile users on the Service, third party Matrix clients may gather usage data. 
 
 #### 2.2.1 Information you provide to us:
 
@@ -271,7 +269,7 @@ In encrypted rooms, the data is stored in our databases but the encryption keys 
 
 We use HTTPS to transfer all data. End-to-end encrypted messaging data is stored encrypted using AES-256, using message keys generated using the Olm and Megolm cryptographic ratchets.
 
-### 2.10 What Are the Guidelines Element Follows When Accessing My Data?
+### 2.10 What Are the Guidelines Matrix.org Follows When Accessing My Data?
 
 We restrict who at Element (employees and contractors) can access user data to roles which require access in order to maintain the health of the Service;
 
@@ -281,7 +279,7 @@ We never share what we see with other users or the general public.
 
 ### 2.11 Who Else Has Access to My Data?
 
-We host the majority of the Service in UpCloud data centres. Here's UpCloud's privacy policy: https://upcloud.com/privacy-policy/. UpCloud controls physical access to their locations.
+Element is a Processor of your data, managing the homeserver on behalf of the Matrix.org Foundation. We host the majority of the Service in UpCloud data centres. Here's UpCloud's privacy policy: https://upcloud.com/privacy-policy/. UpCloud controls physical access to their locations.
 
 We host some Services in Mythic Beasts data centres. Here’s Mythic Beast’s privacy policy: https://www.mythic-beasts.com/terms/privacy
 
@@ -295,7 +293,7 @@ We use secure private keys when accessing servers via SSH, and protect our AWS c
 
 We log application data (username, user IP and user agent). We keep logs for no longer than 180 days.
 
-### 2.12 What happens if Element is sold?
+### 2.12 What happens if Matrix.org is sold?
 
 In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
@@ -322,5 +320,6 @@ If you want to make a complaint about the way we have processed your personal in
 2018, March 28: created.
 2019, August 22: revised.
 2020, July 13th: revised
+2022, August 18th: revised
 
 **A note to other startups**: this document was heavily inspired by Balsamiq's plain English ToS document. We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
