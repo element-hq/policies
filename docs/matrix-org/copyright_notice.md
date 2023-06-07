@@ -3,8 +3,6 @@ title: {{ policy_homeserver }} Copyright Notice
 version: 2.0.0
 ---
 
-Where you read 'Element' or 'we' or 'us' below, it refers to Element, a trading name of New Vector Ltd., its French subsidiary: New Vector SARL, its U.S. subsidiary: Element Software Inc, and their agents.
-
 When you read 'the {{ policy_homeserver }} homeserver' or 'the Service' below, it refers to the services made available at **{{ policy_homeserver }}** which store your account and personal conversation history, provide services such as bots and bridges, and communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
 If the terms of this copyright notice are not acceptable, please use a Matrix server provided by someone else!
@@ -32,7 +30,7 @@ We will respond to notices of alleged copyright infringement that comply with ap
 Our designated Copyright Agent to receive DMCA Notices is:
 
 Matthew Hodgson
-c/o New Vector Ltd
+c/o Element
 10 Queen Street Place
 London
 United Kingdom
@@ -65,3 +63,12 @@ Please be aware that if you knowingly materially misrepresent that material or a
 ### Repeat infringers
 
 It is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
+
+### Version history
+
+1.0.0 - first version of document - August 2018
+1.1.0 - adding metadata and removing slugs - September 2019
+1.2.0 - rebrand changes - July 2020
+1.2.1 - legal entity details fix - August 2022
+2.0.0 - add Element German legal entity - June 2023
+
