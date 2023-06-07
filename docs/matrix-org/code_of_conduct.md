@@ -1,11 +1,11 @@
 ---
 title: Matrix Code of Conduct
-version: 1.0.0
+version: 2.0.0
 ---
 
 This code of conduct outlines our expectations for participants within the Matrix community, as well as steps for reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all, and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.
 
-This applies to conversation in the any room in the matrix community ([+matrix:matrix.org](https://matrix.to/#/+matrix:matrix.org)) and commits and comments relating to any project in the [matrix-org](https://github.com/matrix-org) github space.
+This applies to conversation in the any room in the Matrix Space ([#team:matrix.org](https://matrix.to/#/#team:matrix.org)) and commits and comments relating to any project in the [matrix-org](https://github.com/matrix-org) Github space.
  
 Our open source community strives to:
 
@@ -69,7 +69,13 @@ include them as well. Your account of what occurred, and if you believe the inci
 - The date and time of the incident (or start of incident).
 - Any additional information that may be helpful.
 
-After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+After filing a report you will receive an automated response confirming delivery of your report. Typically, we do not answer abuse reports unless we require further clarification.
+
+If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+
+You are also able to report abusive content via your chosen Matrix client, by clicking the event in question and selecting report. Please note these reports go to your homeserver administrator.
+
+We use [Mjolnir](https://github.com/matrix-org/mjolnir) to handle the moderation of rooms under this Code of Conduct, via the bot @administrator:matrix.org. Please note that pinging this account, or any other staff accounts, is not the appropriate reporting mechanism. Repeated in-room reports might result in moderation action.
 
 |
 
@@ -77,3 +83,10 @@ After filing a report, a representative will contact you personally, review the 
 
 This Code of Conduct is based on the [TODO Group](https://twitter.com/todogroup)'s [Open Code of Conduct template](https://github.com/todogroup/opencodeofconduct), but with some modifications. 
 
+### Attribution & Acknowledgements
+
+Version history
+
+1.0.0 - first version of document - August 2018
+1.1.0 - adding metadata and removing slugs - September 2019
+2.0.0 - major updates to reporting procedures  - June 2023
