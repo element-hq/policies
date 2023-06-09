@@ -169,7 +169,7 @@ We use Stripe and Paypal to handle payment processing. By purchasing from our sh
 * Your payment details
 * Your purchase value
 
-Stripe and/or Paypal takes care of all payment processing, so The Matrix.org Foundation and its employees will never see your payment details.
+Stripe and/or Paypal takes care of all payment processing, so The Matrix Foundation and its employees will never see your payment details.
 
 Here is Stripe's Privacy Policy: https://stripe.com/privacy-shield-policy and Paypal's: https://www.paypal.com/webapps/mpp/ua/privacy-full
 
@@ -275,9 +275,9 @@ We never share what we see with other users or the general public.
 
 ### 2.11 Who else has access to my data?
 
-Element is a Processor of your data, managing the homeserver on behalf of the Matrix.org Foundation. We host the majority of the Service in UpCloud data centres. Here's UpCloud's privacy policy: https://upcloud.com/privacy-policy/. UpCloud controls physical access to their locations.
+Element is a Processor of your data, managing the homeserver on behalf of the Matrix Foundation. We host the majority of the Service in Mythic Beasts data centres. Here’s Mythic Beast’s privacy policy: https://www.mythic-beasts.com/terms/privacy
 
-We host some Services in Mythic Beasts data centres. Here’s Mythic Beast’s privacy policy: https://www.mythic-beasts.com/terms/privacy
+We host some Services in in UpCloud data centres. Here's UpCloud's privacy policy: https://upcloud.com/privacy-policy/. UpCloud controls physical access to their locations.
 
 We store some files shared through the Service on Amazon Web Services (AWS). Amazon employees have access to this data. Here's Amazon's privacy policy: https://aws.amazon.com/privacy/. Amazon controls physical access to their locations.
 
@@ -285,7 +285,7 @@ We use Cloudflare to mitigate the risk of DDoS attacks. Here's CloudFlare's priv
 
 Physical access to our offices and locations use typical physical access restrictions.
 
-We use secure private keys when accessing servers via SSH, and protect our AWS console passwords locally with a password management tool.
+We use secure private keys when accessing servers via SSH, and protect our AWS console passwords locally with a password management tool. We also enforce 2FA for accessing AWS. 
 
 We log application data (username, user IP and user agent). We keep logs for no longer than 180 days.
 
@@ -324,5 +324,6 @@ If you want to make a complaint about the way we have processed your personal in
 2.0.2 - minor update - August 2022
 2.1.0 - clarifications on processors - November 2022
 3.0.0 - annual review and updates to processors - June 2023
+3.0.1 - minor clarification of 2.12 - June 2023
 
 **A note to other startups**: this document was heavily inspired by Balsamiq's plain English ToS document. We were impressed by their championing of plain English, and wanted to reproduce that as much as possible in our own legal documentation. Feel free to draw similar inspiration from this document, though be sure to get any documents you produce checked over by a lawyer. Good luck!
