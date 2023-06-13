@@ -6,6 +6,8 @@ version: 2.0.0
 This code of conduct outlines our expectations for participants within the Matrix community, as well as steps for reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all, and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.
 
 This applies to conversation in the any room in the Matrix Space ([#team:matrix.org](https://matrix.to/#/#team:matrix.org)) and commits and comments relating to any project in the [matrix-org](https://github.com/matrix-org) Github space. For guidance on the acceptable use policies for the rest of the matrix.org homeserver please refer to the [Terms and Conditions](https://matrix.org/legal/terms-and-conditions).
+
+Where you read The Matrix.org Foundation C.I.C., The Matrix.org Foundation, or The Foundation, it refers to the Community Interest Company incorporated on 29 October 2018 to be the neutral custodian of the Matrix protocol: The Matrix Foundation C.I.C., and their agents.
  
 Our open source community strives to:
 
