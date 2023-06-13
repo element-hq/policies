@@ -79,7 +79,7 @@ You acknowledge and agree that we have no liability of any kind should anyone yo
 
 We may pre-screen user messages or files to prevent spam and other abuse, and we may remove any messages or files (including entire rooms) from the {{ policy_homeserver }} homeserver for any reason without notice at our sole discretion. By posting or uploading your messages or files, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Use, including all the rights necessary for you to post or upload said messages or files.
 
-You are solely and entirely responsible for all of your messages and files that you post or otherwise submit via the Service. You shall assume all risks associated with the use of said content including any reliance on the accuracy, completeness or usefulness. Element does not guarantee the accuracy, integrity or quality of your messages or files.
+You are solely and entirely responsible for all of your messages and files that you post or otherwise submit via the Service. You shall assume all risks associated with the use of said content including any reliance on the accuracy, completeness or usefulness. The Foundation does not guarantee the accuracy, integrity or quality of your messages or files.
 
 For further details on our approach to IP and copyright, please refer to our [copyright notice](https://matrix.org/legal/copyright-notice).
 
@@ -91,7 +91,7 @@ In short, we do not. Like all other cloud-based applications, we are vulnerable 
 
 We monitor the Service closely and have set up automated alarms to be notified (via email, push notifications and phone calls) when the {{ policy_homeserver }} homeserver is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
-You acknowledge and agree that Element, shall not be liable for any failure to store your materials on the {{ policy_homeserver }} homeserver at any time.
+You acknowledge and agree that the Foundation, shall not be liable for any failure to store your materials on the {{ policy_homeserver }} homeserver at any time.
 
 ## 5. App Developers
 
