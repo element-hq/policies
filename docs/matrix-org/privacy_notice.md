@@ -263,8 +263,8 @@ In unencrypted and encrypted rooms, users connecting to the matrix.org homeserve
 
 Rooms have different visibility settings which are determined by the room administrators. The history visibility possibilities are the following, by increasing order of openness (least open first):
 
-- `joined`: people need to join the room to see the history, and will only see the messages sent after they joined. This behaviour is similar to the experience of IRC on a bouncer, and is how all IRC channels are bridged to Matrix by default
-- `invited`: people need to join the room to see the history, and will only see the messages after they were invited.
+- `joined`: people need to join the room to see the history, and will only see the messages sent after they joined. +
+- `invited`: people can only see messages sent after they were joined, no history is visible before that point.
 - `shared`: people need to join the room to see the history, but will then see the history up to when this visibility setting was set (the change is not retroactive).
 - `world_readable`: everyone can see the room history without even joining the room.
 
