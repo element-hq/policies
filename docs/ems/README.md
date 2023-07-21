@@ -1,7 +1,6 @@
-# EMS Policy Documents
+# Element website policy documents
 
 Documents in this directory describe:
-- The Customer's use of the Modular.im admin web interface at https://ems.element.io
-- The Customer's relationship to data stored on their hosted homeservers
+- Legal and privacy documentation in the element.io website
 
 
