@@ -13,6 +13,6 @@
   },
   "author": "Thomas Lant",
   "dependencies": {
-    "markdown-it": "^12.3.2"
+    "markdown-it": "^14.3.0"
   }
 }
